@@ -38,11 +38,11 @@
       <div class="link_access">
               <h3>Our services</h3>
               <ul>
-              <li><a href="http://digitalinfoways.com/digital-marketing-services.php" title="digital-marketing-services"> Digital Marketing</a></li>
-              <li><a href="http://digitalinfoways.com/seo-search-engine-optimization.php" title="seo-search-engine-optimization"> Search Engine Optimization</a></li>
-              <li><a href="http://digitalinfoways.com/social-media-marketing-services.php" title="social-media-marketing-services">Social Media Marketing</a></li>
-              <li><a href="http://digitalinfoways.com/web-design-services.php" title="web-design-company">Web Desgin Services</a></li>
-              <li><a href="http://digitalinfoways.com/custom-website-development-services.php" title="custom-website-development-company">Web Development Services</a></li>
+              <li><a href="/digital-marketing-services.php" title="digital-marketing-services"> Digital Marketing</a></li>
+              <li><a href="/seo-search-engine-optimization.php" title="seo-search-engine-optimization"> Search Engine Optimization</a></li>
+              <li><a href="/social-media-marketing-services.php" title="social-media-marketing-services">Social Media Marketing</a></li>
+              <li><a href="/web-design-services.php" title="web-design-company">Web Desgin Services</a></li>
+              <li><a href="/custom-website-development-services.php" title="custom-website-development-company">Web Development Services</a></li>
               </ul>
             </div>
         </div>
@@ -50,15 +50,15 @@
           <div class="link_access">
                   <h3>Quick links</h3>
                   <ul>
-                    <li><a href="http://digitalinfoways.com/portfolio.php" title="Portfolio">Portfolio </a></li>
+                    <li><a href="/portfolio.php" title="Portfolio">Portfolio </a></li>
                     
-                    <li><a href="http://digitalinfoways.com/contact-us.php" title="Contact-Us">Contact us </a></li>
-                    <li><a href="http://digitalinfoways.com/faq.php" title="Faq">Faq</a></li>
-                     <li><a href="http://digitalinfoways.com/award-accoladers.php
+                    <li><a href="/contact-us.php" title="Contact-Us">Contact us </a></li>
+                    <li><a href="/faq.php" title="Faq">Faq</a></li>
+                     <li><a href="/award-accoladers.php
                    " title="Award">Award-Accoladers</a></li>
                     
-                    <li><a href="http://digitalinfoways.com/blog-page.php" title="Our-Blog">Blog</a></li>
-                    <li><a href="http://digitalinfoways.com/testimonials.php" title="Testimonial">Testimonial</a></li>
+                    <li><a href="/blog-page.php" title="Our-Blog">Blog</a></li>
+                    <li><a href="/testimonials.php" title="Testimonial">Testimonial</a></li>
                   </ul>
                 </div>
             </div>

@@ -17,15 +17,15 @@
         <meta name="msvalidate.01" content="AAD6D8B6E396B167791D4E07495FB443" />
          <meta name="viewport" content="width=device-width, initial-scale=1">
     
-        <link rel="canonical" href="https://digitalinfoways.com/about-us.php" />
+        <link rel="canonical" href="about-us.php" />
 	<meta name="keywords" content="digital marketing agency, online internet marketing company,seo services india, google adwords agency, content marketing agency, email marketing company, mobile app marketing services, Amazon advertising agency India ,Hire An SEO Expert, local seo company, app store optimization company, ecommerce seo company, social media marketing company, facebook advertising company, youtube video marketing compan, linkedin advertising agency, instagram marketing agency ,Web Designing Indi,Responsive Web Design company, ecommerce website design company, Website Redesigning Company India ,Web Development India ,wordpress development company, magento development company,php development company">
 <meta property="og:title" content="Digital Infoways is the top digital marketing company providing all services in India" />
 <meta property="og:type" content="SEO and Digital Marketing Company" />
 <meta property="og:site_name" content="Digitalinfoways" />
 <meta name="robots" content="index, follow" />
-<meta property="og:url" content="https://digitalinfoways.com/digital-marketing-services.php" />
+<meta property="og:url" content="digital-marketing-services.php" />
 <meta property="og:description" content="Our passion for optimizing all expertise in Development, Designing, SEO, SMO, and Marketing Services for your business to rocket your brand in the market. We believe in delivering timely at an affordable cost."/>
-<meta property="og:image" content="https://digitalinfoways.com/digital-marketing-services.php" />
+<meta property="og:image" content="digital-marketing-services.php" />
 <meta name="geo.region" content="IN-GJ" />
 <meta name="geo.placename" content="Ahmedabad" />
 <link rel='stylesheet' id='parent-style-css'  href='css/bootstrap.min.css' type='text/css' media='all' />
@@ -112,7 +112,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="btn-hide"></span>
     </button>
 </div>
-    <a class="navbar-brand" href="https://digitalinfoways.com/"style="height: 100px;background: white;">
+    <a class="navbar-brand" href=""style="height: 100px;background: white;">
    <img src="img/lo/2.png" class="logo-white" width="241" height="65" alt="Digitalinfoways" title="Digitalinfoways" >
     
 </a>
@@ -502,7 +502,7 @@ Our team is dedicated to cater to all your needs round the clock.</p>
 
 <div class="col-md-6">
     <h2 class=" get agileinfo wthree w3-agileits agileits-w3layouts agile w3-agile">Get In Touch</h2>
-                <form action="https://digitalinfoways.com/thank-you.php" method="post">
+                <form action="thank-you.php" method="post">
                     <div class="row">
                         <div class="form-group col-md-12">
                             <input type="text" class="form-control user-name" placeholder="Your Name" required/>
@@ -518,7 +518,7 @@ Our team is dedicated to cater to all your needs round the clock.</p>
                             <textarea class="form-control" rows="6" placeholder="Your Message" required></textarea>
                         </div>
                         <div class="form-group col-md-12" >
-                            <a href="https://digitalinfoways.com/thank-you.php" class="blls"><button type="submit" class="btn-outline2" style="width:200px;float:left;height: 60px;">
+                            <a href="thank-you.php" class="blls"><button type="submit" class="btn-outline2" style="width:200px;float:left;height: 60px;">
                             Submit</button></a>
 
                         </div>

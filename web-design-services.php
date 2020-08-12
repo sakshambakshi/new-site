@@ -51,7 +51,7 @@
             <h4 class="modal-title">Contact Form</h4>
           </div>
           <div class="modal-body">
-            <form accept-charset="UTF-8" role="form" class="col-md-12 ng-pristine ng-valid" id="get_report" novalidate="novalidate" action="https://digitalinfoways.com/thank-you.php">
+            <form accept-charset="UTF-8" role="form" class="col-md-12 ng-pristine ng-valid" id="get_report" novalidate="novalidate" action="thank-you.php">
               <input type="hidden" id="slid1" name="slid1" autocomplete="off">
               <input type="hidden" id="slid2" name="slid2" autocomplete="off">
               <input type="hidden" id="slid3" name="slid3" autocomplete="off">
@@ -118,7 +118,7 @@
               </div>
 
               <div class="form-group" style="float:left">
-                 <a href="https://digitalinfoways.com/thank-you.php" class="blls"><button type="submit" class="btn-outline2" style="width:200px;float:left;height: 60px;">
+                 <a href="thank-you.php" class="blls"><button type="submit" class="btn-outline2" style="width:200px;float:left;height: 60px;">
                             Submit</button></a>
                 </div>
               <div id="replay" style=""></div>
@@ -876,7 +876,7 @@ style="font-family: Open Sans,sans-serif; Font-size: 16px; Color: #546e7a;">List
 
 <div class="col-md-6">
     <h2 class=" get agileinfo wthree w3-agileits agileits-w3layouts agile w3-agile">Get In Touch</h2>
-                <form action="https://digitalinfoways.com/thank-you.php" method="post">
+                <form action="thank-you.php" method="post">
                     <div class="row">
                         <div class=" col-md-12">
                             <input type="text" class="form-control user-name" placeholder="Your Name" required style="margin-bottom: 13px;" />
