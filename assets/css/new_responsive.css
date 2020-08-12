@@ -1,0 +1,3132 @@
+@media only screen and (min-width : 1200px){
+	
+	.services-grid-wrapper .card-grid-wrapper .grid-item:nth-child(3n+3) {margin-right: 0px;}
+	.eBook-marijuwana-page .web-development-company-banner{    background-position:69% 0px !important; background-color:#000000}
+}
+/* SMall Desktop*/
+@media screen and (min-width:1200px) and (max-width:1600px){
+	.hero_section .banner-caption h1{font-size:54px; margin-bottom:30px;}
+	.hero_section .banner-caption p {font-size: 21px;}
+	.hero_section{height: calc(100vh - 89px);}
+	div#particle-slider{margin-top:-41vh;height: calc(100vh - 107px);}
+	.second_section p{font-size:18px;line-height: 34px;margin-bottom: 20px;} 
+	.section_works img {max-height: 100%;display: block;max-height: 520px;}
+	.section_works {padding: 50px 0;}
+	.section_works .content-part{width: 61%;}
+	.tech-skills-section .section-header h3 {margin-bottom: 12px;font-size: 40px;}
+	.tech-skills-section {padding: 60px 0px;}
+	.hire-developer-section{padding:60px 0px;}
+	.hire-developer-section .section-header h3{margin-bottom: 12px;font-size: 40px;}
+	.hero_section .banner-caption{bottom:20% !important;}
+	
+	/*mobile-app-development-city-pages*/
+	.hero_section .banner-caption h1{font-size: 50px;}
+	.hero_section .banner-caption p{font-size: 22px;}
+	.second_section p{font-size: 16px;line-height: 30px;}
+	.section_works .content-part p{font-size: 16px;line-height: 30px;}
+	.why_choose_us_section .whychoose_us_sec p{font-size: 16px;line-height: 30px;}
+	.why_choose_us_section .whychoose_us_features .features_content{font-size: 16px;}
+	.tech-skills-section .section-header h3{font-size:36px;margin-bottom: 40px;}
+	.tech-skills-section .section-header p{font-size: 16px;}
+	.hire-developer-section .section-header p{font-size: 16px;line-height: 30px;}
+	/*mobile-app-development-city-pages*/
+	
+	/*ecommerce-web-development-city-pages*/
+	.ecommerce-dev-city-base .section_works {padding: 100px 0px;}
+	.ecommerce-dev-city-base .section_works .content-part{width: 48%;}
+	.ecommerce-dev-city-base .section_works .figure-image{width: 52%;}
+	.ecommerce-dev-city-base .hero_section .banner-caption h1{font-size: 50px;}
+	.hire-developer-space  .hire-developer-section{padding: 50px 0px 130px;}
+	.testimonials-space-reduce .testimonials-slider{padding-top: 50px;padding-bottom: 65px;}
+	.eCommerce-services-offer-section{padding: 80px 0px 40px;}
+	.eCommerce-services-offer-section .eCommerce-service-section{margin-bottom: 20px;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section p{font-size: 16px;}
+	/*ecommerce-web-development-city-pages*/
+	
+	/*web-design-city-pages*/
+	.web-design-city-base #section_works_1.section_works{padding: 120px 0px;}
+	/*web-design-city-pages*/
+	
+	.ecomm_banner.sitecore-banner{padding:40px 0px 45px;}
+	.sitecore-banner .ecomm_title h1{font-size:45px;}
+	.sitecore-banner .ecomm_title p {margin-bottom: 20px;line-height: 30px;font-size: 16px;}
+	.sitecore-banner .ecomm_title h1:after{margin:18px 0px}
+	.our-sitecore-services-section {padding:60px 0px;}
+	.our-sitecore-services-section .sitecore-services-content .panel-title>a{font-size:18px;}
+	.our_expertise-service-section{padding-top:60px;}
+	.our-service-sevtion-wrapper p{font-size: 16px;line-height: 30px;}
+	.our-service-sevtion-wrapper{min-height:615px;}
+	.sitecore-development-services .testimonials-slider{padding-bottom:150px;}
+	.sitecore-development-services .hire_developer_sec{padding:60px 0px;}
+	.sitecore_benefit-section{padding: 80px 0px 50px;}
+	.sitecore-development-services .benefit-lists{padding: 0px 0px 20px;margin-top: 0;}
+	.our_expertise-service-section{padding: 80px 0px 0px;}
+	.sitecore-development-services .hire_developer_sec{padding: 80px 0px;}
+	.sitecore-development-services .hire_developer_sec .hire_dev_content .add_dev_btn{margin-bottom: 0;margin-top: 30px;}
+	.our-sitecore-services-section{padding: 80px 0px;}
+	.upd-title.sitecore-cms-content-section{padding: 80px 0px;}
+	.sitecore-cms-content-section p{font-size: 16px;line-height: 30px;}
+	.sitecore-services-content .panel-collapse>.panel-body p{font-size: 16px;line-height: 30px;}
+	.sitecore-development-services .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height: 30px;}
+	.sitecore-benefit-content .section-header p{font-size: 16px;line-height: 30px;}
+	.sitecore-development-services .benefit-lists ul li{font-size: 16px;}
+	
+	/*react-native-app-development*/
+	.react-native-app-development .sitecore_benefit-section{padding: 80px 0px 90px}
+	.react-native-app-development section.mobile_porfolio_section{padding: 100px 0px;}
+	.react-native-app-development .mobile_porfolio_content_inside p{font-size: 16px;line-height: 30px;}
+	/*react-native-app-development*/
+	
+	
+	/*portfolio-design-changes*/
+	.portfolio-item.reverse-block .technology-icon{transform: translate(-60%, 35%);}
+	.portfolio-item .technology-icon{transform: translate(60%, 35%);}
+	.portfolio-item .figure-content h3 span{font-size: 40px;}
+	.portfolio-item .figure-content h3{font-size: 40px;}
+	.portfolio-item .figure-content p{font-size: 16px;line-height: 30px;}
+	/*portfolio-design-changes*/
+	
+	/*internet-marketing-page*/
+	.internet-marketing-page .sitecore-banner .content_part{margin-top: 15px;}
+	/*internet-marketing-page*/
+	
+	/*portfolio-changes*/
+	.mportfolio-details .top-hero-section p{font-size: 16px;line-height: 30px;}
+	.mportfolio-details .features-slider-section .slider-content p{font-size: 16px;line-height: 30px;}
+	.mportfolio-details .cta-section.quote-secton p{font-size: 16px;line-height: 30px;}
+	.mportfolio-details .get-app-section .section-header h3{font-size: 36px;}
+	.mportfolio-details .h3_heading{font-size: 36px;}
+	.mportfolio-details .features-slider-section .h3_heading span{display: block;}
+	.mportfolio-details .cta-section.quote-secton h3{font-size: 36px;}
+	.mportfolio-details .h3_heading span{font-size: 36px;}
+	/*portfolio-changes*/
+	
+	/*first-level-page-css*/
+	/*web-development-services*/
+	.page-template-web-development .hero-dev-page-title .page-title{font-size: 45px;}
+	.page-template-web-development .hero-banner-main{padding: 30px 0px;}
+	.page-template-web-development ul.list-points li{font-size: 16px;}
+	.page-id-63 .hero-dev-page-title{margin-top: 45px;}
+	.page-template-web-development .page-development-services-grid-inner p{font-size: 16px;}
+	.page-template-web-development .services-section-main .content-part p{font-size: 15px;line-height: 20px;}
+	.page-template-web-development .project-cosulting-inner p{font-size: 16px;line-height: 30px;}
+	.page-template-web-development .development-title-web p{font-size: 16px;line-height: 30px;}
+	.project-management-inner ul li{font-size: 16px;}
+	.page-template-web-development .why-choose-us-inner p{font-size: 16px;}
+	.mobile-client-testimonials{margin-top: 40px;}
+	.hire-developer-section .development-title-web p{padding-bottom: 35px;}
+	.hire-transport-button{margin-top: 0;}
+	.page-template-web-development .hire-developer-section{padding: 90px 0px 0px;}
+	/*web-development-services*/
+	
+	/*mobile-application-development*/
+	.page-template-mobile-application-development .app_dev_info h1{font-size: 45px;}
+	.page-template-mobile-application-development section.app_banner{padding: 42px 0px;}
+	.page-template-mobile-application-development .main_dev_btn{margin-top: 20px;}
+	.page-template-mobile-application-development .app_dev_info p{font-size: 16px;line-height: 30px;}
+	.page-template-mobile-application-development .upd-title h2{line-height: 45px;}
+	.page-template-mobile-application-development .choose_us_content .upd-title p{font-size: 16px;line-height: 30px;}
+	.page-template-mobile-application-development .mobile_porfolio_content_inside p{font-size: 16px;line-height: 30px;}
+	.page-template-mobile-application-development .mobile_porfolio_content_inside .section-heading-title h3{margin-bottom: 50px;}
+	.page-template-mobile-application-development .hire_dev_desc p{font-size: 16px;line-height: 30px;}
+	.page-template-mobile-application-development .testimonials-slider{padding: 40px 60px 70px;}
+	/*mobile-application-development*/
+	
+	/*ecommerce-website-company*/
+	.page-template-ecommerce-web-development .ecomm_title h1{font-size: 45px;}
+	.page-template-ecommerce-web-development .ecomm_title p{line-height: 30px;}
+	.page-template-ecommerce-web-development .ecomm_service_offer p{font-size: 16px;line-height: 30px;}
+	.page-template-ecommerce-web-development .whychoose_us_sec p{font-size: 16px;line-height: 30px;}
+	.page-template-ecommerce-web-development .hire_developer_sec .hire_dev_content p{margin-bottom: 30px;}
+	.page-template-ecommerce-web-development .hire_developer_sec .hire_dev_content p{line-height: 30px;}
+	/*ecommerce-website-company*/
+	
+	/*common-pages-first-level-css*/
+	.first_level .mobile-development-page-title .page-title{font-size: 45px;}
+	.first_level .section-mobile-development .page-title-detail p{font-size: 16px;line-height: 30px;}
+	.first_level .mobile-development-page-title{padding-top: 20px;}
+	.first_level .section-mobile-development .page-intro-body{height: 600px;}
+	.first_level .page-title-detail{padding-bottom: 20px;}
+	.first_level .inner-title-detail p{line-height: 30px;font-size: 16px;}
+	.first_level .mobile-developers-services p{line-height: 30px;font-size: 16px;}
+	.first_level .mobile-developers-services{height: 440px;}
+	.first_level .mobile-development-portfolio-right-detail p{line-height: 30px;font-size: 16px;}
+	.first_level .mobile-development-portfolio-right .owl-carousel .item{height: 300px;}
+	.page-template-website-design .section-mobile-development .page-intro-body,.page-template-migration-services .section-mobile-development .page-intro-body,.page-template-cloud-services .section-mobile-development .page-intro-body,.page-template-hire-dedicate-developer .section-mobile-development .page-intro-body{height: 700px;}
+	.page-template-migration-services .mobile-development-page-title{padding-top: 50px;}
+	.page-template-cloud-services .mobile-development-page-title{padding-top: 60px;}
+	.page-template-hire-dedicate-developer .mobile-development-page-title{padding-top: 45px;}
+	.page-template-cloud-services .page-title-detail,.page-template-hire-dedicate-developer .page-title-detail{padding-bottom: 25px;}
+	/*common-pages-first-level-css*/
+	/*first-level-page-css*/
+	
+	/*second-level-page-css*/
+	/*common-pages-second-level-css*/
+	.second_level .page-intro-body .page-title{font-size: 40px;}
+	.second_level .page-intro-body .page-title span{font-size: 40px;}
+	.second_level .page-title-detail p{font-size: 16px;line-height: 30px;}
+	.second_level .inner-title-detail p{font-size: 16px;line-height: 30px;}
+	.second_level .evince-services p{font-size: 16px;line-height: 30px;}
+	.second_level .developers-services p{font-size: 16px;line-height: 30px;}
+	.second_level .cms-head .background-inner-title{left: -19%;}
+	/*common-pages-second-level-css*/
+	/*second-level-page-css*/
+	
+	/*third-level-page-css*/
+	.third_level .third-level-page-title .page-title{font-size: 40px;}
+	.third_level .section-third-level .page-title-detail p{font-size: 16px;line-height: 30px;}
+	.third_level .section-third-level .page-title-detail p .call-usa{font-size: 16px;}
+	.third_level .third-level-page-title-detail p{font-size: 16px;line-height: 30px;}
+	.third_level .third-level-page-inner p{font-size: 16px;line-height: 30px;}
+	.third_level .third-level-page-services-detail  ul li{font-size: 16px;}
+	.third_level .third-level-page-services-detail p{font-size: 16px;line-height: 30px;}
+	
+	/*hire-sitecore-page-css*/
+	.hire-sitecore-services .sitecore-banner .ecomm_title h1{line-height: 45px;}
+	.hire-sitecore-services .sitecore-banner .content_part{padding-top: 30px;}
+	.hire-sitecore-services .sitecore-expertise-section .section-header p{font-size: 16px;line-height: 30px;}
+	.hire-sitecore-services .hire-sitecore-services .section-header p{font-size: 16px;line-height: 30px;}
+	.hire-sitecore-services .get_btn_section{margin-bottom: 0;margin-top: 85px;}
+	/*hire-sitecore-page-css*/
+	/*third-level-page-css*/
+	
+	/*portfolio-design-changes*/
+	.web_portfolio_details .portfolio-web-middle-section-detail p{font-size: 16px;}
+	.web_portfolio_details .free-quote-section h4{font-size: 20px;}
+	.web_portfolio_details .portfolio-web-bottom-left p{font-size: 16px;}
+	.web_portfolio_details .portfolio-web-bottom-left p{margin-bottom: 30px;}
+	.web_portfolio_details .lets-talk-section p{font-size: 16px;padding: 18px 0 26px 0;}
+	.web_portfolio_details .portfolio-web-bottom-left {padding: 30px 80px 35px 0;}
+	.web_portfolio_details .portfolio-web-bottom-section .bottom-port-bg{min-height: 378px;}
+	.web_portfolio_details .lets-talk-section{padding-bottom: 0px;}
+	.web_portfolio_details .portfolio-web-detail-inner p{padding: 10px 40px;font-size: 16px;}
+	.web_portfolio_details .real-time-list li{font-size: 15px;}
+	/*portfolio-design-changes*/
+	
+	/*Industries-design-changes*/
+	/*transportation-logistics-design-changes*/
+	.page-template-transportation-logistics-solutions .automation-business-services{padding: 50px 0 60px 0;}
+	.page-template-transportation-logistics-solutions .automation-business-services-inner .development-title-web p{font-size: 16px;line-height: 30px;width: 62%;}
+	.page-template-transportation-logistics-solutions .mobile-development-portfolio-right-detail p{font-size: 16px;line-height: 30px;}
+	.page-template-transportation-logistics-solutions .development-title-web p{font-size: 16px;line-height: 30px;}
+	.page-template-transportation-logistics-solutions .hire-developer-section{padding: 90px 0px 10px;}
+	/*transportation-logistics-design-changes*/
+	
+	/*industries-common-pages-design-changes*/
+	.industry_pages .page-banner-logistics-inner .banner-text>h1{font-size: 45px;}
+	.industry_pages .page-banner-logistics-inner .banner-text>p{font-size: 16px;line-height: 30px;}
+	.industry_pages .page-banner-logistics-detail>p{font-size: 16px;line-height: 30px;}
+	.industry_pages .page-banner-logistics-grid ul li>p{font-size: 16px;}
+	.industry_pages .logistics-services-deatil p{font-size: 16px;}
+	.industry_pages footer.page_footer{margin-top: 120px;}
+	/*industries-common-pages-design-changes*/
+	/*Industries-design-changes*/
+	
+	/*case-study-design-changes*/
+	.page-template-case-study .page-banner-overview .banner-text{margin: 122px auto;}
+	.page-template-case-study .page-inners .tagline-text p{line-height: 30px;font-size: 22px;}
+	.page-template-case-study .page-banner-overview .banner-text h1{font-size: 45px;}
+	/*case-study-design-changes*/
+	.partners-block .content-part .desc{font-size: 16px;}
+	
+	.partners-info-wrapper {padding: 60px 0px !important;}
+	
+	/*web-development-company-page*/
+	.web-development-company-banner .hero-dev-page-title .page-title{font-size: 45px;}
+	
+	
+	
+	.web-development-company-banner .hero-dev-page-title p{font-size: 20px;}
+	.web-development-company-banner ul.list-points li{font-size: 16px;}
+	.web-development-company-banner .hero-dev-page-title{margin-top: 45px;}
+	
+	.heading_title h2{font-size: 30px;line-height: 36px;}
+		{font-size: 35px;line-height: 36px;}
+	
+	.hero-services-banner .page-title {font-size: 45px;}
+	.hero-services-banner .hero-dev-page-title p{font-size: 20px;margin-bottom: 35px;}
+	.hero-services-banner{padding:6.8% 0px; }
+	
+	
+	.web-development-company-page .hire-developer-section{padding: 90px 0px;}
+	.development-services-detail{padding-bottom: 60px;padding-top: 60px;}
+	.web-development-company-services .heading_title p{font-size: 28px;}
+	.services-section-main.web-company-services .heading_title h3{font-size: 28px;}
+	.web-development-company-page .dev-lifecycle-section .development-title-web h3,.web-development-company-page .development-title-web h3{font-size: 35px;}
+	/*web-development-company-page*/
+	
+	/*web-development-services*/
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title{margin-top: 0;}
+	.web-development-service-page .hero-action-btn{padding-bottom: 0;}
+	.web-development-service-page .web-design-development-services-inner .development-title-web p{font-size: 24px;}
+	.web-design-development-services{padding: 60px 0px;}
+	/*web-development-services*/
+	
+	/*web-development-services*/
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title p{font-size: 20px;margin-bottom: 35px;}
+	.main_heading_section .heading_sub_title{font-size: 28px;margin-bottom: 5px;}
+	.main_heading_section .heading_title{font-size: 35px;}
+	.development-services-detail p, .transform-services-section p{font-size: 16px;line-height: 30px;}
+	.web-design-development-services{padding-top: 0;}
+	.main_heading_section h3.heading_title{font-size: 35px;}
+	.web-development-service-page  .development-testimonials-section .clutch-widget{margin: 50px auto 30px;}
+	/*web-development-services*/
+	
+	/*mobile-app-devlopement-services*/
+	.page-template-mobile-application-development .hire_developer .hire_dev_info .upd-title{margin-top: 80px;}
+	.page-template-mobile-application-development .app_banner.web-development-company-banner{background-position: 70% 0!important;}
+	/*mobile-app-devlopement-services*/
+	
+	/*sitecore-development-services*/
+	.sitecore-development-services-page .main_heading_section .heading_sub_title{font-size: 24px;}
+	.sitecore-development-services-page .main_heading_section .heading_title{font-size: 30px;}
+	.sitecore-development-services-page .hire_developer_sec .section-header h3,.sitecore-development-services .section-header h3{font-size: 30px;}
+	.transform-services-section .trasnform-list-section.flex-container .row{margin-left: 15px;}
+	.sitecore-development-services-page .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height:30px;}
+	/*sitecore-development-services*/
+	
+	/*hire-sitecore-development-services*/
+	.hire-sitecore-services-page .development-services-detail .main_heading_section{margin-bottom: 20px;}
+	/*hire-sitecore-development-services*/
+	.contact_page_wrapper .hero__banner .banner-text h1{font-size: 5rem;}	
+	.contact_page_wrapper .hero__banner .banner-text .small_text{font-size: 0.77em;}
+	.contact_page_wrapper .btn-primary-large{ height: 66px;line-height: 66px;font-size: 16px;}
+	.form__wrapper .heading-h3{font-size: 2.5rem;    padding: 30px 0;}
+	.contact_page_wrapper .btn-primary-large{margin-top: 3em;margin-bottom: 3em;}
+	.form__wrapper .heading-h3 span{font-size: 4rem;}
+	.contact_page_wrapper .btn-primary-large:after{top:8px}
+	
+	.services-section-main .content-part {padding: 10px 30px;}
+	
+	
+	}
+	
+	/* SMall Laptop*/
+	@media screen and (min-width:1200px) and (max-width:1300px){
+	
+	.ecomm_banner.sitecore-banner{padding: 20px 0px;}
+	.sitecore-banner .ecomm_title h1{font-size:40px;}
+	.sitecore-banner .ecomm_title p {margin-bottom:15px;font-size:16px; line-height:26px;}
+	.upd-title.sitecore-cms-content-section{padding:70px 0px;}
+	.sitecore-benefit-content .section-header p{font-size:16px; line-height:30px;}
+	.sitecore-development-services .benefit-lists{margin-top:0px;}
+	.sitecore_benefit-section {padding:70px 10px 40px;}
+	.sitecore-banner .content_part{padding-top: 15px;}
+	.ecomm_banner.sitecore-banner{padding: 30px 0px;}
+	
+	/*portfolio-design-changes*/
+	.portfolio-item.reverse-block .technology-icon{transform: translate(-50%, 35%);}
+	.portfolio-item .technology-icon{transform: translate(50%, 35%);}
+	.portfolio-item.grey-pattern.reverse-block .iphone-frame{height: 455px;width: 233px;}
+	.portfolio-item.grey-pattern.reverse-block .iphone-screen{width: calc(100% - 33px);left: 20px;}
+	.portfolio-item .iphone-screen{left: 13px;width: calc(100% - 33px);}
+	.portfolio-item .iphone-frame{width: 233px;height: 455px;}
+	/*portfolio-design-changes*/
+	
+	/*internet-marketing-page*/
+	.ecomm_banner.sitecore-banner.internet-marketing-banner{padding: 36px 0px;}
+	/*internet-marketing-page*/
+	
+	/*portfolio-changes*/
+	.cta-section .section-header h3{font-size: 24px;}
+	/*portfolio-changes*/
+	
+	/*first-level-page-css*/
+	/*web-development-services*/
+	.hero-banner-main.web-development-company-banner{padding: 18px 0px;}
+	.page-template-web-development .hero-dev-page-title{margin-top: 50px;}
+	.page-template-web-development .hero-dev-page-title .page-title{font-size: 45px;}
+	.page-template-web-development ul.list-points{margin-bottom: 20px;}
+	.development-ratio-inner p{font-size: 16px;}
+	.page-template-web-development .services-section-main .content-part p{font-size: 15px;line-height: 22px;}
+	.page-template-web-development .project-cosulting-inner p{font-size: 14px;}
+	.project-management-inner ul li{font-size: 14px;}
+	/*web-development-services*/
+	
+	/*mobile-application-development*/
+	.page-template-mobile-application-development .app_dev_info h1{font-size: 40px;}
+	.page-template-mobile-application-development section.app_banner{padding: 20px 0px;}
+	.page-template-mobile-application-development .main_dev_btn{margin-top: 10px;}
+	.page-template-mobile-application-development .intro_app_img{margin-top: 15px;}
+	/*mobile-application-development*/
+	
+	/*ecommerce-website-company*/
+	.page-template-ecommerce-web-development .banner_caption{width: 50%;}
+	.page-template-ecommerce-web-development .ecomm_title h1{font-size: 40px;}
+	/*ecommerce-website-company*/
+	
+	/*common-pages-first-level-css*/
+	.first_level .mobile-development-page-title .page-title{font-size: 40px;margin-bottom: 0;}
+	.page-template-migration-services .mobile-development-page-title,.page-template-cloud-services .mobile-development-page-title,.page-template-hire-dedicate-developer .mobile-development-page-title{padding-top: 45px; }
+	/*common-pages-first-level-css*/
+	/*first-level-page-css*/
+	
+	/*second-level-page-css*/
+	/*common-pages-second-level-css*/
+	.second_level .page-intro-body .page-title{font-size: 40px;}
+	.second_level .page-intro-body .page-title span{font-size: 40px;}
+	.second_level .background-inner-title,.page-template-cms-development .background-inner-title,.page-template-microsoft-services .background-inner-title,.page-template-ecommerce-platforms .background-inner-title{left:-30%;}
+	.page-template-cms-development .cms-head .background-inner-title{left: -16%;}
+	.page-template-microsoft-services .ms-development .background-inner-title,.page-template-ecommerce-platforms .ms-development .background-inner-title{left: -18%;}
+	/*common-pages-second-level-css*/
+	/*second-level-page-css*/
+	
+	/*third-level-page-css*/
+	.third_level .third-level-page-title .page-title{font-size: 40px;}
+	.third_level .third-level-page-title{padding-top: 12px;}
+	.third_level .evince-query-form{margin: 12px 0px;}
+	
+	/*hire-sitecore-page-css*/
+	.hire-sitecore-services .ecomm_banner.sitecore-banner.hire-sitecore-banner{padding: 18px 0px;}
+	.hire-sitecore-services .sitecore-banner .ecomm_title h1{line-height: 40px;}
+	.hire-sitecore-services .sitecore-expertise-section{padding: 60px 0px 30px;}
+	.hire-sitecore-services .get_btn_section a.add_dev_btn{margin-bottom: 0;}
+	/*hire-sitecore-page-css*/
+	/*third-level-page-css*/
+	
+	/*Industries-design-changes*/
+	/*transportation-logistics-design-changes*/
+	.page-template-transportation-logistics-solutions .hero-banner-main{padding: 15px 0px;}
+	.page-template-transportation-logistics-solutions .hero-top-section h1{font-size: 32px;line-height: 34px;}
+	/*transportation-logistics-design-changes*/
+	
+	/*industries-common-pages-design-changes*/
+	.industry_pages .page-banner-logistics-inner .banner-text>h1{font-size: 40px;}
+	.industry_pages .page-banner-logistics-detail .logistics-top-detail{font-size: 22px;}
+	.industry_pages .page-logistics-main>p{font-size: 20px;}
+	.industry_pages .page-logistics-detail h4{font-size: 18px;}
+	/*industries-common-pages-design-changes*/
+	/*Industries-design-changes*/
+	
+	/*case-study-design-changes*/
+	.page-template-case-study .page-banner-overview .banner-text h1{font-size: 40px;}
+	/*case-study-design-changes*/
+	
+	/*our-location-css*/
+	.partners-info-wrapper{padding-bottom: 50px;}
+	/*our-location-css*/
+	
+	/*web-development-company-page*/
+	.web-development-company-banner .hero-dev-page-title{margin-top: 40px;}
+	.web-development-company-banner .hero-dev-page-title .page-title{font-size: 40px;}
+	.web-development-company-banner .hero-dev-page-title p{font-size: 20px;}
+	
+	
+	
+	.hero-services-banner .page-title {font-size: 40px;}
+	.hero-services-banner .hero-dev-page-title p{font-size: 20px;    margin-bottom: 25px;}
+	.hero-services-banner{padding:0px;    min-height: 510px;}
+	
+	
+	.web-development-company-services .heading_title p{font-size:24px;}
+	.heading_title h2{font-size: 32px;}
+	.services-section-main.web-company-services .heading_title h3{font-size: 24px;}
+	.services-section-main.web-company-services .heading_title p{font-size: 32px;}
+	.web-development-company-page .dev-lifecycle-section .development-title-web h3,.web-development-company-page .development-title-web h3{font-size: 32px;}
+	/*web-development-company-page*/
+	
+	/*web-development-services*/
+	.web-development-service-page .web-development-company-banner{min-height: 510px;padding: 0;}
+	.page-template-web-development .hero-dev-page-title .page-title{font-size: 40px;}
+	.development-services-detail{padding: 50px 0px;}
+	.web-design-development-services .web-design-development-services-grid{margin-top: 5px;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title p{margin-bottom: 25px;}
+	.development-services-detail .heading_title{margin-bottom: 20px;}
+	.main_heading_section .heading_sub_title{font-size: 24px;line-height: 30px;}
+	.main_heading_section .heading_title{font-size: 32px;}
+	.inovative-development-lifecycle h3.title{font-size: 19px;}
+	.inovative-development-lifecycle .inner-content-detail-text p{font-size: 18px;}
+	/*web-development-services*/
+	.contact_page_wrapper .hero__banner .banner-text{top:54%;}
+	.contact_page_wrapper .btn-primary-large{margin-bottom: 2em;}
+	/*CSS for join-us-page*/
+	.campus-drive-section{padding: 80px 0px;}
+	.about-campus-drive p{    font-size: 16px;
+    line-height: 30px;}
+    /*contact-form-design-changes*/
+    .form__wrapper .upd-contact-form .contact-form-field{padding: 0;}
+    .inqury-check-box .corpo-title {margin-top: 0;    margin-bottom: 25px;}
+    .contact-form-field .form-field-top .upd-field-info{    margin-bottom: 15px;}
+    .form__wrapper .heading-h3 {font-size: 22px;padding: 20px 0 25px;line-height: 45px;}
+    .form__wrapper .heading-h3 span {font-size: 28px;}
+	.form-field-bottom textarea{    height: 85px !important;}
+	.form-field-bottom .upload-file{margin-top: 15px;}
+	.upd-for-req fieldset.inq-services-fieldset{    padding-bottom: 6px;}
+	.page-template-connect #contact-top{    padding-bottom: 0px;}
+	.corpo-title h2{font-size: 20px;}
+	.upd-contact-form{	    min-height: 415px;}
+	.form__wrapper .help-msg{margin-top: 20px;}
+	.form__wrapper .upd-submit input {    font-size: 14px;    padding: 12px 40px;}
+    /*contact-form-design-changes*/
+	.form__wrapper .upd-for-req .nda-checkbox.inqury-check-box{margin-top: 6px;}
+	.inqury-check-box span.wpcf7-list-item {margin-bottom: 5px;}
+	}
+	
+	
+	/*iPad Landscape */
+	@media screen and (min-width:992px) and (max-width:1199px){
+	.hero_section{background-size: cover;}
+	.hero_section .banner-caption {top: 50%;width: 100%;max-width: 910px;}
+	div#particle-slider{margin-top:-40vh}
+	.tech-skills-section ul.skills-list li{ padding: 0 4%;}
+	.hire-developer-section .section-header h3, .tech-skills-section .section-header h3 {text-transform: none;margin-bottom: 15px;font-size: 40px;}
+	.section_works {padding:50px 0px;}
+	.section_works .figure-image{margin-top:30px;}
+	.section_works .tags{margin:16px 0 13px;}
+	.section_works .action-wrap .btn-primary{font-size:15px;}
+	.section_works .content-part{float: right;position: relative;top: 0;transform: none;width: 57%;right: 0px;}
+	.section_works .content-part h2{font-size:28px;}
+	.section_works .content-part p{font-size:16px; line-height: 26px;}
+	.hero_section .banner-caption h1 {font-size: 44px;margin-bottom: 25px;  line-height: 46px;}
+	.tech-skills-section ul.skills-list li {padding: 0 4%;width: 19%;text-align: center;}
+	.tech-skills-section ul.skills-list h6{margin-top: 14px;}
+	.hero_section .banner-caption p {font-size: 23px;padding: 0 30px;line-height: 32px;}
+	.hire-developer-section {padding: 60px 0px;}
+	.second_section p{margin-bottom:20px;font-size: 16px;line-height: 26px;}
+	.second_section {padding: 40px 0px;}
+	.section_works .action-wrap .btn-primary {font-size: 14px;}
+	.section_works .content-part{margin-top:7%;}
+	.whychoose_us_sec .section-header h3{font-size: 28px;}
+	.tech-skills-section .section-header h3{font-size: 28px;margin-bottom: 40px;}
+	.tech-skills-section{padding:50px 0px;}
+	.testimonials-slider .section-header h3{font-size: 28px;}
+	
+	/*portfolio-asap*/
+	#features-slider .owl-nav{bottom: auto;top: 40%;left: -150px;}
+	/*portfolio-asap*/
+	
+	/*ecommerce-web-development-city-pages*/
+	.ecommerce-dev-city-base .hero_section .banner-caption h1{font-size: 40px;}
+	.ecommerce-dev-city-base .section_works{padding: 60px 0px;}
+	.ecommerce-dev-city-base .section_works .content-part{margin-top: 0;}
+	.why_choose_us_section  .whychoose_us_sec{padding: 4% 0;}
+	.testimonials-space-reduce .testimonials-slider {padding-bottom: 65px;padding-top: 50px;}
+	.hire-developer-space .hire-developer-section {padding: 50px 0px 180px;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section{padding-left: 10px;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section h4{font-size: 20px;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section p{font-size: 16px;line-height: 26px;}
+	.eCommerce-services-offer-section{padding: 60px 0px 0px;}
+	.whychoose_us_sec p{font-size: 16px;line-height: 26px;}
+	.whychoose_us_features .features_content{font-size: 16px;}
+	.hire-developer-space .hire-developer-section .section-header p{font-size: 16px;line-height: 26px;}
+	.hire-developer-space .hire-developer-section .section-header h3 {margin-bottom: 20px;}
+	.hire-developer-space .hire-developer-section .action-wrap{margin-top: 0;}
+	.tech-skills-section .section-header p{font-size: 16px;line-height: 26px;}
+	.why_choose_us_section  .whychoose_us_features ul li{min-height: 166px;}
+	.why_choose_us_section .whychoose_us_features .features_content{font-size: 17px;}
+	.hire-developer-space .hire-developer-section .action-wrap{margin-top: 5px;}
+	/*ecommerce-web-development-city-pages*/
+	
+	/*header-css*/
+	.mehamenu .meha-submenu{top: 0;}
+	.mehamenu > ul > li>a{padding: 0!important;}
+	.navbar .mehamenu{margin-top: 0;}
+	/*header-css*/
+	
+	/*web-design-city-pages*/
+	.web-design-city-base #section_works_1.section_works{padding: 60px 0px;}
+	.ecommerce-dev-city-base .section-header h3, .web-design-city-base .section-header h3{font-size: 28px;}
+	.web-design-city-base .section-header p{font-size: 16px;line-height: 26px;}
+	.why_choose_us_section .whychoose_us_sec p{font-size: 16px;line-height: 26px;}
+	.hire-developer-space .hire-developer-section .section-header h3{font-size: 28px;}
+	.web-design-city-base .eCommerce-services-offer-section{padding: 60px 0px 30px;}
+	/*web-design-city-pages*/
+	
+	/*Sitecore*/
+	.sitecore-banner .ecomm_title h1{font-size:36px;}
+	.sitecore-banner .ecomm_title p {margin-bottom:15px;font-size:16px; line-height:26px;}
+	.upd-title.sitecore-cms-content-section{padding:60px 0px;}
+	.sitecore-cms-content-section p{font-size: 16px;line-height: 26px;}
+	.sitecore-benefit-content .section-header p{font-size:16px; line-height:26px;margin-bottom: 0;}
+	.sitecore-development-services .benefit-lists{margin-top:14px;}
+	.sitecore_benefit-section {padding:70px 0px 40px;}
+	.sitecore-development-services .hire_developer_sec, .our-sitecore-services-section{padding:60px 0px;}
+	.our_expertise-service-section{padding:60px 0px 0;}
+	.our-service-sevtion-wrapper p{font-size: 16px;line-height: 26px;}
+	.our-service-sevtion-wrapper .image-section{margin-bottom:20px;}
+	.our-service-sevtion-wrapper{min-height:638px}
+	.our-sitecore-services-section .sitecore-services-content .panel-title>a{font-size:17px; padding:23px 60px 0 24px; min-height: 67px;}
+	.our-sitecore-services-section .sitecore-services-content .panel-primary>.panel-heading a{min-height: 60px;}
+	.sitecore-services-content .panel-title .collapsed::after{right:20px;}
+	.sitecore-development-services .section-header h3 {font-size: 28px;}
+	.sitecore-services-content .panel-collapse>.panel-body p{font-size: 16px;line-height: 26px;margin-top: 0;}
+	.sitecore-development-services .hire_developer_sec .section-header h3{font-size: 28px;}
+	.sitecore-development-services .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height: 26px;}
+	.sitecore-development-services .testimonials-slider {padding-bottom: 170px;}
+	.sitecore-development-services .benefit-lists{padding:0px;margin: 0;}
+	.sitecore-development-services .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height: 26px;}
+	.our-service-sevtion-wrapper{min-height: 610px;}
+	.sitecore_benefit-section{padding: 60px 0px 50px;}
+	.sitecore-services-content .panel-title>a::after{right: 20px;}
+	.sitecore-development-services .benefit-lists ul li{font-size: 16px;}
+	.our-sitecore-services-section .sitecore-services-content .panel-title>a{font-size: 16px;}
+	/*Sitecore*/
+	
+	/*mobile-app-development-city-pages*/
+	.hero_section .banner-caption h1{font-size: 40px;line-height: 40px;}
+	.hero_section .banner-caption p{font-size: 20px;}
+	.why_choose_us_section .whychoose_us_features .features_content{font-size: 16px;}
+	/*mobile-app-development-city-pages*/
+	
+	/*react-native-app-development*/
+	.react-banner .ecomm_title h1{font-size: 40px;}
+	.react-banner .ecomm_title p{margin-bottom: 20px;font-size: 18px;}
+	.sitecore-development-services.react-native-app-development .benefit-lists ul li:before{top: 20px;}
+	.sitecore-development-services.react-native-app-development .benefit-lists ul li{font-size: 15px;}
+	.react-native-app-development .sitecore_benefit-section{padding: 60px 0px 70px;}
+	.react-native-app-development .sitecore-benefit-content .section-header{margin-bottom: 30px;}
+	.react-native-app-development section.mobile_porfolio_section{padding: 60px 0px;}
+	.react-native-app-development .mobile_porfolio_content_inside .section-heading-title h3{font-size: 28px;}
+	.react-native-app-development .mobile_porfolio_content_inside p{font-size: 16px;line-height: 26px;}
+	.react-native-app-development.testimonials-space-reduce .testimonials-slider{padding-bottom: 50px;}
+	/*react-native-app-development*/
+	
+	/*portfolio-design-changes*/
+	.portfolio-item .technology-icon{transform: translate(80%, 65%);}
+	.portfolio-item.reverse-block .technology-icon{transform: translate(-80%, 65%);}
+	.portfolio-item .figure-bg{padding-right: 50px;}
+	.portfolio-item .figure-content h3{font-size: 38px;}
+	.portfolio-item .figure-content h3 span{font-size: 38px;}
+	.portfolio-item .figure-content p{font-size: 16px;line-height: 26px;}
+	/*portfolio-design-changes*/
+	
+	/*portfolio-changes*/
+	.mportfolio-details .top-hero-section h1{font-size: 36px;}
+	.mportfolio-details .top-hero-section p{font-size: 16px;line-height: 26px;}
+	.mportfolio-details .cta-section .section-header h3{font-size: 20px;}
+	.mportfolio-details .h3_heading{font-size: 28px;}
+	.mportfolio-details .h3_heading span{font-size: 28px;}
+	.mportfolio-details .features-slider-section .slider-content p{font-size: 16px;line-height: 26px;}
+	.mportfolio-details .features-slider-section .h3_heading span{display: block;}
+	.mportfolio-details .cta-section.quote-secton .section-header h3{font-size: 28px;}
+	.mportfolio-details .cta-section.quote-secton p{font-size: 16px;line-height: 26px;}
+	.mportfolio-details .get-app-section .section-header h3{font-size: 28px;}
+	.mportfolio-details .get-app-section .stores-wrapper{margin-top: 30px;}
+	/*portfolio-changes*/
+	
+	/*internet-marketing-page*/
+	.internet-marketing-page.why_choose_us_section .whychoose_us_features ul li{min-height: 160px;}
+	/*internet-marketing-page*/
+	
+	/*first-level-page-css*/
+	/*web-development-services*/
+	.page-template-web-development .hero-dev-page-title .page-title{font-size: 36px;}
+	.page-template-web-development ul.list-points li{font-size: 16px;}
+	.page-template-web-development ul.list-points{margin-bottom: 30px;}
+	.page-template-web-developmen .development-ratio-inner p{font-size: 16px;}
+	.page-template-web-development .development-title-web h3{font-size: 28px;line-height: 36px;}
+	.page-template-web-development .page-development-services-grid-inner h4{font-size: 16px;}
+	.page-template-web-development .page-development-services-grid-inner p{font-size: 14px;}
+	.page-template-web-development .services-section-main .content-part p{font-size: 15px;line-height: 22px;}
+	.page-template-web-development .project-cosulting-inner p{font-size: 14px;line-height: 26px;}
+	.page-template-web-development .project-cosulting-inner > p{padding: 20px 0px;margin-bottom: 0;}
+	.page-template-web-development .project-cosulting-inner-grid ul li h4{font-size: 16px;}
+	.page-template-web-development .development-title-web p{font-size: 16px;line-height: 26px;}
+	.page-template-web-development .project-management-inner h4{font-size: 16px;}
+	.page-template-web-development .why-choose-us-inner p{font-size: 16px;}
+	.page-template-web-development .why-choose-us-inner{margin-bottom: 0;}
+	.page-template-web-development .hire-transport-button{margin-top: 10px;}
+	.page-template-web-development .hero-btn a{padding: 12px 42px 12px 18px;}
+	.page-template-web-development .hire-developer-section{padding: 60px 0px 10px;}
+	/*web-development-services*/
+	
+	/*mobile-application-development*/
+	.page-template-mobile-application-development .app_dev_info h1{font-size: 36px;}
+	.page-template-mobile-application-development .app_dev_info p{font-size: 16px;line-height: 26px;}
+	.page-template-mobile-application-development .main_dev_btn{margin-top: 15px;}
+	.page-template-mobile-application-development section.app_banner{padding: 40px 0px;}
+	.page-template-mobile-application-development .upd-title h2{font-size: 28px;line-height: 36px;}
+	.page-template-mobile-application-development .service_content h2{font-size: 18px;}
+	.page-template-mobile-application-development .upd-title{margin: 50px 0px 30px;}
+	.page-template-mobile-application-development .choose_us_content .upd-title p{font-size: 16px;line-height: 26px;}
+	.page-template-mobile-application-development .choose_us_listing{margin-bottom: 60px;}
+	.page-template-mobile-application-development .mobile_porfolio_content_inside .section-heading-title h3{font-size: 28px;margin-bottom: 50px;}
+	.page-template-mobile-application-development .mobile_porfolio_content_inside p{font-size: 16px;line-height: 26px;}
+	.page-template-mobile-application-development .hire_dev_desc p{font-size: 16px;line-height: 26px;}
+	.testimonials-slider{padding: 60px 0px;}
+	.page-template-mobile-application-development .service_content p{font-size: 16px;}
+	.page-template-mobile-application-development .listing_info p{font-size: 14px;}
+	.page-template-mobile-application-development .app_banner.web-development-company-banner{background-position: 70% 0%!important;}
+	/*mobile-application-development*/
+	
+	/*ecommerce-website-company*/
+	.page-template-ecommerce-web-development .ecomm_title h1{font-size: 36px;}
+	.page-template-ecommerce-web-development .ecomm_title p{line-height: 26px;}
+	.page-template-ecommerce-web-development .ecomm_equal_title h2{font-size: 28px;}
+	.page-template-ecommerce-web-development .ecomm_service_offer p{font-size: 16px;line-height: 26px;}
+	.page-template-ecommerce-web-development .ecomm_service_offer{margin-top: 10px;}
+	.page-template-ecommerce-web-development .whychoose_us_sec p{font-size: 16px;line-height: 26px;}
+	.page-template-ecommerce-web-development .hire_developer_sec .section-header h3{font-size: 28px;}
+	.page-template-ecommerce-web-development .hire_developer_sec .section-header h3{margin-bottom: 45px;}
+	.page-template-ecommerce-web-development .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height: 26px;}
+	/*ecommerce-website-company*/
+	
+	/*common-pages-first-level-css*/
+	.first_level .mobile-development-page-title{padding-top: 30px;}
+	.first_level .mobile-development-page-title .page-title{font-size: 36px;}
+	.first_level .section-mobile-development .page-title-detail p{font-size: 16px;line-height: 26px;}
+	.first_level .section-mobile-development .page-intro-body{height: 700px;}
+	.first_level .mobile-development-head .inner-title{font-size: 28px;}
+	.first_level .mobile-development-services-grid-detail span{font-size:16px;}
+	.first_level .mobile-development-grid-inner-detail span{font-size: 16px;}
+	.first_level .inner-title-detail p{font-size: 16px;line-height: 26px;}
+	.first_level .mobile-developers-services .mobile-developers-services-title{font-size: 28px;}
+	.first_level .mobile-developers-services p{font-size: 16px;line-height: 26px;}
+	.first_level .mobile-development-portfolio-right-head span{font-size: 24px;}
+	.first_level .mobile-development-portfolio-right-detail p{font-size: 16px;line-height: 26px;}
+	.first_level .mobile-development-portfolio-right .owl-carousel .item{height: 330px;}
+	.first_level .mobile-frameworks-development-services-grid-detail p{font-size: 14px;}
+	.first_level .mobile-frameworks-development-services-grid-inner-detail p{font-size: 14px;}
+	.first_level .page-intro-body .page-button-quote a{font-size: 14px;padding: 10px 46px 10px 20px;}
+	.first_level .page-intro-body .page-button-quote a:before{top: 6px;right: 16px;}
+	.first_level .page-intro-body .page-button-portfolio a{font-size: 14px;padding: 10px 46px 10px 20px;}
+	.first_level .page-intro-body .page-button-portfolio a:before{top: 6px;right: 16px;}
+	.page-template-hire-dedicate-developer .page-title-detail{padding-bottom: 25px;}
+	.page-template-migration-services .section-mobile-development .page-intro-body,.page-template-cloud-services .section-mobile-development .page-intro-body{height: 630px;}
+	.page-template-hire-dedicate-developer .section-mobile-development .page-intro-body{height: 660px;}
+	/*common-pages-first-level-css*/
+	/*first-level-page-css*/
+	
+	/*second-level-page-css*/
+	/*common-pages-second-level-css*/
+	.second_level .page-intro-body .page-title{font-size: 36px;}
+	.second_level .page-intro-body .page-title span{font-size: 36px;}
+	.second_level .page-title-detail p{font-size: 16px;line-height: 26px;}
+	.second_level .inner-title-detail p {font-size: 16px;line-height: 26px;}
+	.second_level .expertise-grid-inner-detail p{font-size: 13px;}
+	.second_level .inner-title span{font-size: 28px;}
+	.second_level .inner-title strong{font-size: 28px;}
+	.second_level .inner-title-detail{margin: 20px auto;}
+	.second_level .evince-services .evince-services-title{font-size: 28px;}
+	.second_level .evince-services p{font-size: 16px;line-height: 26px;}
+	.second_level .developers-services-title{font-size: 28px;margin-bottom: 30px;}
+	.second_level .developers-services-title strong{font-size: 28px;}
+	.second_level .developers-services p{font-size: 16px;line-height: 26px;}
+	.second_level .page-intro-body .page-button-quote a{font-size: 14px;padding: 10px 48px 10px 20px;}
+	.second_level .page-intro-body .page-button-quote a:before{top: 6px;right: 16px;}
+	.second_level .page-intro-body .page-button-portfolio a{font-size: 14px;padding: 10px 48px 10px 20px;}
+	.second_level .page-intro-body .page-button-portfolio a:before{top: 6px;right: 16px;}
+	.second_level .page-intro-body .php-page-title .background-page-title{top: 22px;font-size: 60px;}
+	.second_level .inner-frameworks .background-inner-title{font-size: 60px;top: -36px;}
+	.second_level .framework-icon-detail{font-size: 14px;}
+	.second_level .databases-icon-detail{font-size: 14px;}
+	.page-template-php-development .cms-head{margin-bottom: 30px;}
+	.page-template-php-development .cms-grid-detail strong,.page-template-third-party-integration .cms-grid-detail strong{font-size: 14px;}
+	.page-template-php-development .expertise-head .background-inner-title{left: -16%;font-size: 60px;top: -36px;}
+	.page-template-php-development .cms-info{padding-top: 5em;}
+	.page-template-php-development .expertise-grid-detail strong,.page-template-ecommerce-platforms .expertise-grid-detail strong,.page-template-ui-ux-design-services .expertise-grid-detail strong{font-size: 14px;}
+	.page-template-php-development .inner-database-head .background-inner-title{left: -34%;font-size: 60px;top: -36px;}
+	.page-template-microsoft-services .ms-development-head{margin-bottom: 30px;}
+	.page-template-microsoft-services .ms-development-grid-detail strong{font-size: 14px;}
+	.page-template-microsoft-services .ms-development-head .background-inner-title{left: -16%;font-size: 60px;top: -36px;}
+	.page-template-microsoft-services .ms-development-info{padding-top: 5em;}
+	.page-template-microsoft-services .inner-title strong,.page-template-microsoft-services .inner-title strong,.page-template-ecommerce-platforms .inner-title strong,.page-template-third-party-integration .inner-title strong{font-size: 28px;}
+	.page-template-microsoft-services .inner-database .inner-database-head .background-inner-title,.page-template-third-party-integration .inner-database .inner-database-head .background-inner-title{font-size: 60px;top: -36px;}
+	.page-template-ecommerce-platforms .expertise-head,.page-template-third-party-integration .expertise-head,.page-template-ui-ux-design-services .expertise-head{margin-bottom: 30px;}
+	.page-template-ecommerce-platforms .expertise-head .background-inner-title,.page-template-third-party-integration .expertise-head .background-inner-title{left: -40%;font-size: 60px;top: -36px;}
+	.page-template-ecommerce-platforms .expertise-info,.page-template-third-party-integration .expertise-info,.page-template-ui-ux-design-services .expertise-info{padding-top: 5em;}
+	.page-template-third-party-integration .expertise-head .background-inner-title,.page-template-ui-ux-design-services .expertise-info .background-inner-title{font-size: 60px;top: -36px;}
+	/*common-pages-second-level-css*/
+	/*second-level-page-css*/
+	
+	/*third-level-page-css*/
+	.third_level .third-level-page-title .page-title{font-size: 30px;}
+	.third_level .section-third-level .page-title-detail p{font-size: 16px;line-height: 26px;}
+	.third_level .section-third-level .page-title-detail p .call-usa{font-size: 16px;}
+	.third_level .third-level-page-development-title h2{font-size: 28px;}
+	.third_level .third-level-page-development-title h2 span{font-size: 26px;}
+	.third_level .third-level-page-title-detail p{font-size: 16px;line-height: 26px;}
+	.third_level .third-level-page-inner p{font-size: 16px;line-height: 26px;}
+	.third_level .third-level-page-benefits-grid-main-title{font-size: 16px;}
+	.third_level .third-level-page-services-detail  ul li{font-size: 16px;}
+	.third_level .third-level-page-services-detail p{font-size: 16px;line-height: 26px;}
+	
+	/*hire-sitecore-page-css*/
+	.hire-sitecore-services .sitecore-banner .ecomm_title h1{line-height: 40px;}
+	.hire-sitecore-services .sitecore-banner .content_part{padding-top: 30px;}
+	.hire-sitecore-services .sitecore-expertise-section{padding: 60px 0px 30px;}
+	.hire-sitecore-services .sitecore-expertise-section .section-header p{font-size: 16px;line-height: 26px;}
+	.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services .sitecore-services-content .panel-primary>.panel-heading a{min-height: 60px;}
+	.hire-sitecore-services .hire-certified-services .services-wrapper .content-section{display: block;}
+	.hire-sitecore-services .hire-certified-services .services-wrapper .content-section span.diff-value{font-size: 20px;}
+	.hire-sitecore-services .get_btn_section{margin-top: 70px;margin-bottom: 0;}
+	.hire-sitecore-services .sitecore-expertise-section .section-header p{margin-bottom: 15px;}
+	.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services{padding: 60px 0px 20px;}
+	.hire-sitecore-services .get_btn_section a.add_dev_btn:after{margin-top: 3.5px;}
+	.hire-sitecore-services .get_btn_section a.add_dev_btn{font-size: 14px;padding: 10px 30px 8px;}
+	.hire-sitecore-services.testimonials-space-reduce .testimonials-slider{padding-bottom: 50px;}
+	/*hire-sitecore-page-css*/
+	/*third-level-page-css*/
+	
+	/*portfolio-design-changes*/
+	.web_portfolio_details .portfolio-web-detail-inner h1{font-size: 36px;}
+	.web_portfolio_details .portfolio-web-detail-inner p{font-size: 16px;padding: 18px 26px;}
+	.web_portfolio_details .section-heading-title h3{font-size: 28px;}
+	.web_portfolio_details .section-heading-title span.diff-color{font-size: 34px;}
+	.web_portfolio_details .portfolio-web-middle-section-detail p{font-size: 16px;}
+	.web_portfolio_details .free-quote-section h4 span{font-size: 28px;}
+	.web_portfolio_details .free-quote-section h4{font-size: 18px;margin-bottom: 30px;}
+	.web_portfolio_details .free-quote-section .free-quote-btn a{font-size: 16px;}
+	.web_portfolio_details .portfolio-web-bottom-section .bottom-port-bg{min-height: 514px;}
+	.web_portfolio_details .portfolio-web-bottom-left p{font-size: 16px;}
+	.web_portfolio_details .portfolio-web-bottom-left{padding: 60px 0px 40px 0;}
+	.web_portfolio_details .portfolio-web-bottom-left .section-heading-title h3{margin-bottom: 20px;}
+	.web_portfolio_details .portfolio-web-bottom-left p{margin-bottom: 30px;}
+	.web_portfolio_details .lets-talk-section p{font-size: 16px;padding: 22px 0 26px 0;}
+	.web_portfolio_details .lets-talk-section{padding-bottom: 0;}
+	/*portfolio-design-changes*/
+	
+	/*Industries-design-changes*/
+	/*transportation-logistics-design-changes*/
+	.page-template-transportation-logistics-solutions .hero-top-section h1{font-size: 32px;line-height: 34px;}
+	.page-template-transportation-logistics-solutions .automation-business-services{padding: 50px 0 60px 0;}
+	.page-template-transportation-logistics-solutions .development-title-web h3{font-size: 28px;line-height: 34px;}
+	.page-template-transportation-logistics-solutions .automation-business-services-inner .development-title-web p{line-height: 26px;width: 80%;}
+	.page-template-transportation-logistics-solutions .automation-business-right h3{font-size: 26px;}
+	.page-template-transportation-logistics-solutions .mobile-development-portfolio-right-head span{font-size: 26px;}
+	.page-template-transportation-logistics-solutions .mobile-development-portfolio-right-detail p{font-size: 16px;line-height:26px;}
+	.page-template-transportation-logistics-solutions .development-title-web p{font-size: 16px;line-height: 26px;}
+	.page-template-transportation-logistics-solutions .hire-transport-button{margin-top: 15px;}
+	.page-template-transportation-logistics-solutions .hire-transport-button a{padding: 12px 40px;}
+	.page-template-transportation-logistics-solutions .hire-developer-section{padding: 60px 0px 10px;}
+	/*transportation-logistics-design-changes*/
+	
+	/*industries-common-pages-design-changes*/
+	.industry_pages .page-banner-logistics-inner .banner-text>h1{font-size: 36px;}
+	.industry_pages .page-banner-logistics-inner .banner-text>p{font-size: 16px;line-height: 26px;padding: 0px 5%;}
+	.industry_pages .page-banner-logistics-detail .logistics-top-detail{font-size: 20px;}
+	.industry_pages .page-banner-logistics-detail>p{font-size: 16px;line-height: 26px;}
+	.industry_pages .page-banner-logistics-grid ul li>p{font-size: 16px;}
+	.industry_pages .page-banner-logistics-detail>p{font-size: 16px;line-height: 26px;}
+	.industry_pages .section-main-title h3{font-size: 28px;}
+	.industry_pages .section-main-title .diff_text{font-size: 28px;}
+	.industry_pages .logistics-services-deatil p{font-size: 16px;}
+	.industry_pages .have-project-section-main .have-project-inner{padding: 63px 0px 63px 40px;}
+	.industry_pages .have-project-inner h4{font-size: 28px;}
+	.industry_pages .lets-talk-button>a{padding: 12px 32px;}
+	.industry_pages .logistics-services{padding-bottom: 30px;}
+	.industry_pages .page-logistics-inner-bottom{padding-bottom: 40px;margin-top: -20px;}
+	.industry_pages .page-logistics-detail h4{font-size: 18px;}
+	.industry_pages .page-logistics-main>p{font-size: 20px;margin-bottom: 40px;}
+	/*industries-common-pages-design-changes*/
+	/*Industries-design-changes*/
+	
+	/*case-study-design-changes*/
+	.page-template-case-study .page-banner-overview .banner-text h1{font-size: 36px;}
+	.page-template-case-study .page-banner-overview .banner-text{margin: 175px auto;}
+	.page-template-case-study .page-inners .tagline-text p{font-size: 16px;line-height: 26px;}
+	.page-template-case-study .sucess-story .grid-item .story-title{font-size: 18px;}
+	.page-template-case-study .sucess-story .grid-item{min-height: 410px;}
+	/*case-study-design-changes*/
+	
+	.partners-block .content-part .desc{font-size: 16px;}
+	.partners-block .content-part .areas-expertise p{font-size: 16px;}
+	
+	.partners-info-wrapper{padding:60px 0px !important;}
+	.partners-block .partner-photo{height:400px;}
+	.corpo-title{margin-top:20px;}
+	
+	/*carreer-page-design-changes*/
+	.career-img{margin-top: 20px;}
+	/*carreer-page-design-changes*/
+	
+	/*Modal-box-in-location*/
+	.connect-popup .modal-title{font-size: 16px;}
+	/*Modal-box-in-location*/
+	
+	/*web-development-company-page*/
+	.web-development-company-banner .hero-dev-page-title .page-title{font-size: 36px;margin-top: 40px;}
+	.web-development-company-banner .hero-dev-page-title p{font-size: 18px;}
+	.web-development-company-banner ul.list-points li{font-size: 16px;}
+	.web-development-company-banner.hero-banner-main{padding: 30px 0px; }
+	.web-development-company-services .heading_title p,.services-section-main.web-company-services .heading_title h3{font-size: 24px;}
+	.web-development-company-services  .heading_title h2,.services-section-main.web-company-services .heading_title p{font-size: 28px;}
+	.web-development-company-page .development-title-web h3 {
+		font-size: 28px;
+		line-height: 36px;
+	}
+	.web-development-company-page .hire-developer-section{    padding: 60px 0px 10px;}
+	.web-development-company-page .dev-lifecycle-section .development-title-web h3{font-size: 28px;}
+	/*web-development-company-page*/
+	
+	/*web-development-services*/
+	.web-development-service-page .web-development-company-banner{padding: 0;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title p{font-size: 18px;line-height: 32px;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title .page-title{margin-top: 0;margin-bottom: 15px;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title p{margin-bottom: 40px;}
+	.web-development-service-page .web-development-company-banner{min-height: 490px;}
+	.web-development-service-page .banner_content_wrapper{width:100%;}
+	.web-development-service-page .banner_content_wrapper .hero-action-btn a{    font-size: 14px;padding: 12px 50px 12px 20px;}
+	.web-development-service-page .banner_content_wrapper .hero-action-btn .btn-default-section a:after{    right: 22px;
+		top: 16px;}
+	.hero-action-btn .btn-default-section a{font-size: 14px;padding: 12px 50px 12px 20px;}
+	.hero-action-btn .btn-default-section a:after{right: 22px; top: 16px;}
+	.development-services-detail{padding: 60px 0px 40px;}
+	.main_heading_section .heading_sub_title{font-size: 24px;margin-bottom: 5px;line-height: 22px;}
+	.main_heading_section .heading_title{font-size: 28px;line-height: 36px;}
+	.development-services-detail p{font-size: 16px;line-height: 30px;}
+	.development-services-detail .main_heading_section{margin-bottom: 15px;}
+	 .page-template-web-development .web-development-service-page .main_heading_section .heading_sub_title{font-size: 24px;margin-bottom: 5px;line-height: 22px;}
+	 .web-design-development-services .web-design-development-services-grid{margin-top: 0px;}
+	 .web-design-development-services .development-service-grid-wrapper{padding: 20px 10px;}
+	 .web-design-development-services .development-service-grid-wrapper h4{width: 71%;}
+	 .web-design-development-services .development-service-grid-wrapper h4{font-size: 18px;line-height: 22px;}
+	 .web-design-development-services .development-service-grid-wrapper p{font-size: 14px;    line-height: 22px;margin-bottom: 0;}
+	 .inovative-development-lifecycle h3.title{font-size:18px;}
+	 .inovative-development-lifecycle.hire-sitecore-development-lifecycle h3.title{font-size:16px;}
+	 .inovative-development-lifecycle .inner-content-detail-text p{font-size: 16px;}
+	 .inovative-development-lifecycle .inner-content-detail-text{margin-top: 80px;}
+	 .inovative-development-lifecycle{padding:60px 0px 160px;}
+	 .page-template-web-development .hire-transport-button.primary-btn-section a{font-size: 14px;}
+	.hire-transport-button.primary-btn-section a{font-size: 14px;}
+	  .web-design-development-services  .development-testimonials-section .clutch-widget{margin: 50px auto;}
+	/*web-development-services*/
+	
+	/*mobile-app-devlopement-services*/
+	.web-development-service-page.mobile_app_development_services .banner_content_wrapper{width:100%;}
+	.web-development-service-page.mobile_app_development_services .web-development-company-banner .hero-dev-page-title p{margin-bottom: 30px;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle ul.lifecycle-process-section{margin-top: 0;}
+	.mobile_porfolio_section .mobile_porfolio_content .mobile_porfolio_content_inside div#sync2{height: 84%;}
+	.page-template-mobile-application-development .hire_dev_info .upd-title {margin-bottom: 40px;}
+	/*mobile-app-devlopement-services*/
+	
+	/*sitecore-development-services*/
+	.web-development-service-page.sitecore-development-services-page .banner_content_wrapper{width: 100%;}
+	.web-development-service-page.sitecore-development-services-page .web-development-company-banner .hero-dev-page-title p{margin-bottom: 30px;padding-right: 2%;}
+	.sitecore-development-services-page .main_heading_section .heading_sub_title{font-size: 22px;}
+	.sitecore-development-services-page .main_heading_section .heading_title{font-size: 26px;}
+	.transform-services-section .main_heading_section{margin-bottom: 15px;}
+	.transform-services-section p{font-size: 16px;line-height: 30px;}
+	.transform-services-section .service-icon{margin-right: 5px;}
+	.transform-services-section h3.service-title{font-size: 14px;}
+	.transform-services-section{padding: 0px 0px 40px;}
+	.sitecore-development-services-page .hire_developer_sec .section-header h3{font-size: 26px;}
+	.sitecore-development-services-page .section-header h3{font-size: 26px;}
+	.sitecore-development-services-page .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height:30px;}
+	/*sitecore-development-services*/
+	
+	/*hire-sitecore-development-services*/
+	.web-development-service-page.hire-sitecore-services-page .web-development-company-banner .hero-dev-page-title p{margin-bottom: 35px;}
+	/*hire-sitecore-development-services*/
+	
+	/*Contact Us*/
+	.contact_page_wrapper .hero__banner .banner-text h1 {font-size:4.5rem;padding: 0 17px;line-height: 1.3;}
+	.contact_page_wrapper .hero__banner .banner-text .small_text{font-size:0.70em;}
+	.contact_page_wrapper .btn-primary-large{ height: 66px;line-height: 66px;font-size: 16px;}
+	.form__wrapper .heading-h3{font-size: 2.5rem;    padding: 30px 0;}
+	.contact_page_wrapper .btn-primary-large {height: 56px;line-height: 56px;font-size: 16px;padding: 0 90px 0 26px;}
+	.contact_page_wrapper .btn-primary-large:after{height:40px; width:40px;top: 8px; background-position:10px 13px}
+	.form__wrapper .heading-h3 span{font-size: 4rem;}
+	.contact_page_wrapper .btn-primary-large{margin-top: 2em;margin-bottom: 2em;}
+	.form__wrapper{padding:20px; margin-top:-100px;}
+	.form__wrapper .heading-h3{line-height:1.4;font-size: 2.5rem;}
+	.form__wrapper .heading-h3 span {font-size: 4rem;}
+	.form__wrapper .heading-h3 sup {font-size: 20px;}
+	.form__wrapper .upd-submit{margin-top:0px;}
+	.page-template-connect #contact-top .captcha-man{padding-left:15px;}
+	.upd-for-req fieldset.inq-services-fieldset{padding:20px 0px}
+	.form__wrapper .container{padding:0px;}
+	.inqury-check-box span.wpcf7-list-item {margin-right: 10px; font-size:13px; margin-left:0px;}
+	.contact_page_wrapper .hero__banner{height:570px; min-height:inherit}
+	.contact_page_wrapper .hero__banner .banner-text{    position: static;top: 50%;text-align: center;width: 100%;left: 0;transform: none;margin-top: 160px;}
+	.corpo-section .corpo-details{border-bottom:0px;}
+	/*CSS for join-us-page*/
+	.campus-drive-section{    padding: 70px 0px;}
+	.about-campus-drive p{    font-size: 16px;
+    line-height: 26px;}
+    .about-campus-drive .link-text.animation_button{    margin-top: 35px;}
+    .about-campus-drive .animation_button a{    padding-left: 50px;
+    padding-top: 2px;
+    padding-right: 16px;}
+    /*contact-form-design-changes*/
+    .form__wrapper .upd-contact-form .contact-form-field{padding: 0;}
+    .inqury-check-box .corpo-title {margin-top: 0;    margin-bottom: 25px;}
+    .contact-form-field .form-field-top .upd-field-info{    margin-bottom: 15px;}
+    .form__wrapper .heading-h3 {font-size: 22px;padding: 5px 0 5px;line-height: 35px;}
+    .form__wrapper .heading-h3 span {font-size: 28px;}
+	.form-field-bottom textarea{    height: 85px !important;}
+	.form-field-bottom .upload-file{margin-top: 15px;}
+	.upd-for-req fieldset.inq-services-fieldset{    padding-bottom: 6px;}
+	.page-template-connect #contact-top{    padding-bottom: 0px;}
+	.corpo-title h2{font-size: 20px;}
+	.upd-contact-form{	    min-height: 400px;}
+	.form__wrapper .help-msg{margin-top: 20px;}
+	.upload-file span{font-size: 12px;}
+	.contact-dtls textarea{font-size: 14px;}
+	.page-template-connect #contact-top .captcha-man{margin-left: 25px;padding-left: 0;}
+	.form__wrapper .upd-submit input {
+    font-size: 14px;
+    padding: 10px 35px;
+}
+.form__wrapper .upd-submit{width: 13%;}
+    /*contact-form-design-changes*/
+    /*web-design-services-page*/
+    .page-template-ecommerce-web-development .our_loactions_services .section-header h3{font-size: 28px;}
+    .our_loactions_services .location_inner-details ul li a .location_title{font-size: 18px;}
+    .page-template-ecommerce-web-development .our_loactions_services {padding: 30px 0px 60px;}
+    .page-template-website-design .our_loactions_services{    padding: 50px 0px 30px;}
+    .page-template-mobile-application-development .our_loactions_services .section-header h3 {
+    font-size: 28px;
+    text-transform: capitalize;
+}
+	/*web-design-services-page*/
+	.form__wrapper .inqury-check-box.nda-checkbox span.wpcf7-list-item{margin-left:0px;}
+	.form__wrapper div.wpcf7 .upd-submit .ajax-loader {top: 14px;right: -30px;}
+	.form__wrapper .upd-submit {margin-top: 11px;}
+	.form__wrapper .upd-for-req .nda-checkbox.inqury-check-box{    padding-top: 32px;margin-top: 8px;}
+	.inqury-check-box span.wpcf7-list-item {margin-bottom: 2px;}
+	.services-grid-wrapper .card-grid-wrapper .grid-item:nth-child(3n+3) {margin-right: 0px;}
+	
+	.eBook-marijuwana-page .content_detail .blockquote{font-size: 20px;    padding: 20px 40px;}
+	.eBook-marijuwana-page .conten-wrapper h4, .eBook-marijuwana-page .main_heading_section .heading_title{    font-size: 28px;line-height: 36px;}
+	.eBook-marijuwana-page .content_detail .ul-listing li{padding-top:13px;padding-bottom:13px}
+	.web-design-development-services.mean_mern_development-services .web-design-development-services-grid.flex-container .row .col {
+		max-width:49.9%;
+		flex: 0 0 49.9%;
+	}
+	.page-template-about-us .page-banner-overview .banner-text p{
+		font-size: 18px;
+		font-weight: 400;
+		line-height: 28px;
+		padding-right: 60px;
+	}
+	.page-template-about-us .page-banner-overview .banner-text h1{
+		margin-bottom: 10px;
+		font-size: 40px;
+		
+	}
+	.page-template-about-us .page-banner-overview .action__toolbar {
+		margin-top: 30px;
+	}
+	
+	}
+	
+	/*iPad Portrait*/
+	@media screen and (min-width:768px) and (max-width:991px){
+	.hero_section{background-size: cover;}
+	.hero_section .banner-caption{top:50%;}
+	.tech-skills-section ul.skills-list li{ padding: 0 4%;}
+	.hire-developer-section .section-header h3, .tech-skills-section .section-header h3 {text-transform: none;margin-bottom: 15px;font-size: 40px;}
+	.section_works {padding:50px 0px;}
+	.section_works .figure-image{margin-top:30px;}
+	.section_works .tags{margin:16px 0 13px;}
+	.section_works .action-wrap .btn-primary{font-size:15px;}
+	.section_works .content-part{float: right;position: relative;top: 0;transform: none;width: 57%;right: 0px;}
+	.section_works .content-part h2{font-size:28px;}
+	.section_works .content-part p{font-size:16px; line-height: 26px;}
+	.hero_section .banner-caption h1 {    font-size: 50px;    margin-bottom: 25px;line-height:70px;}
+	.tech-skills-section ul.skills-list li {padding: 0 4%;width: 19%;text-align: center;}
+	.tech-skills-section ul.skills-list h6{margin-top: 14px;}
+	.hero_section .banner-caption p {font-size: 23px;padding: 0 30px;line-height: 32px;}
+	.hire-developer-section {padding:60px 0px;}
+	.second_section p{margin-bottom:20px;}
+	.whychoose_us_sec .section-header h3{font-size: 28px;}
+	.tech-skills-section .section-header h3{font-size: 28px;margin-bottom: 40px;}
+	.testimonials-slider .section-header h3{font-size: 28px;}
+	.tech-skills-section {padding: 50px 0px;}
+	
+	/*ecommerce-web-development-city-pages*/
+	.ecommerce-dev-city-base .hero_section .banner-caption h1{padding: 0px 15px;}
+	.second_section p{font-size: 16px;line-height: 26px;}
+	.ecommerce-dev-city-base .section_works{    padding: 60px 0px;}
+	.ecommerce-dev-city-base .section_works .content-part{width: 45%;}
+	.ecommerce-dev-city-base .section_works .figure-image{width: 55%;}
+	.ecommerce-dev-city-base .section_works .figure-image{margin-top: 80px;}
+	.why_choose_us_section .whychoose_us_sec{padding: 4% 0px;}
+	.why_choose_us_section .whychoose_us_sec{padding: 5% 0px 3%;}
+	.testimonials-space-reduce .testimonials-slider {padding-bottom: 50px;padding-top: 50px;}
+	/*.sitecore-development-services .testimonials-slider {padding-bottom: 170px;}*/
+	.hire-developer-space .hire-developer-section {padding: 50px 0px 170px;}
+	.eCommerce-services-offer-section{padding: 60px 0px 0px;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .image-section{width: 30%;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section{width: 70%;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section h4{font-size: 20px;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section p{font-size: 16px;line-height: 26px;}
+	.eCommerce-services-offer-section .eCommerce-service-section{margin-bottom: 20px;}
+	.why_choose_us_section .whychoose_us_sec p{font-size: 16px;line-height: 26px;}
+	.why_choose_us_section .whychoose_us_features .features_content{font-size: 16px;}
+	.hire-developer-space .hire-developer-section .section-header p{font-size: 16px;line-height: 26px;}
+	.second_section p{line-height: 26px;}
+	.whychoose_us_sec p{line-height: 26px;}
+	.hire-developer-space .hire-developer-section .section-header h3 {margin-bottom: 20px;}
+	.hire-developer-space .hire-developer-section .action-wrap{margin-top: 0;}
+	.tech-skills-section .section-header p{font-size: 16px;line-height: 26px;}
+	.hire-developer-space .hire-developer-section .action-wrap{margin-top: 5px;}
+	/*ecommerce-web-development-city-pages*/
+	
+	/*header-css*/
+	.mehamenu .meha-submenu{top: 0;}
+	.mehamenu > ul > li>a{padding: 0!important;}
+	.navbar .mehamenu{margin-top: 0;}
+	/*header-css*/
+	
+	/*web-design-city-pages*/
+	.web-design-city-base .hero_section .banner-caption h1{line-height: 50px;}
+	.web-design-city-base #section_works_1.section_works{padding: 60px 0px;}
+	.ecommerce-dev-city-base.web-design-city-base .section_works .content-part{width: 46%;}
+	.ecommerce-dev-city-base.web-design-city-base .section_works .figure-image{width: 54%;}
+	.web-design-city-base .eCommerce-services-offer-section{padding: 60px 0px;}
+	.ecommerce-dev-city-base .section-header h3, .web-design-city-base .section-header h3{font-size: 28px;}
+	.web-design-city-base .section-header p{font-size: 16px;line-height: 26px;}
+	.web-design-city-base .section-header{margin-bottom: 30px;}
+	.why_choose_us_section .whychoose_us_sec{padding: 6% 0px 3%;}
+	.web-design-city-base.hire-developer-space .section-header{margin-bottom: 0;}
+	.hire-developer-space .hire-developer-section .section-header h3{font-size: 28px;}
+	.eCommerce-services-offer-section.web-design-services-offer-section.new-jersey-service-section{padding: 60px 0px 40px;}
+	/*web-design-city-pages*/
+	
+	/* Sitecore*/
+	.sitecore-banner .ecomm_title h1{font-size: 36px;}
+	.sitecore-banner .content_part {width: 100%;}
+	.ecomm_banner.sitecore-banner{background-size:cover;}
+	.upd-title.sitecore-cms-content-section{padding:70px 0px;}
+	.sitecore-banner .intro_app_img {width: 100%;padding-top: 60px;}
+	.our-sitecore-services-section{padding: 60px 0px;}
+	.sitecore-services-image {text-align: center;margin-top: 40px;}
+	.sitecore-development-services .hire_developer_sec{padding:60px 0px;}
+	.our_expertise-service-section{padding:60px 0px 0;}
+	.our-expertise-service-content .service_item {width: 50%;}
+	.sitecore_benefit-section {padding: 40px 0px 40px;}
+	.sitecore-banner .ecomm_title p{font-size: 16px;line-height: 26px;margin-bottom: 20px;}
+	.sitecore-development-services .benefit-lists{padding:0px;}
+	.sitecore-development-services .benefit-lists ul li{font-size:14px;}
+	.ecomm_banner.sitecore-banner{padding: 60px 0px;}
+	.sitecore-development-services .section-header h3{font-size: 28px;}
+	.upd-title.sitecore-cms-content-section{padding: 60px 0px;}
+	.sitecore-cms-content-section p{font-size: 16px;line-height: 26px;}
+	.sitecore-development-services .testimonials-slider {padding-bottom: 170px;}
+	.our-sitecore-services-section .sitecore-services-content .panel-title>a{font-size: 18px;}
+	.sitecore-services-content .panel-collapse>.panel-body p{font-size: 16px;line-height: 26px;margin-top: 0;}
+	.sitecore-development-services .hire_developer_sec .section-header h3{font-size: 28px;}
+	.sitecore-development-services .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height: 26px;}
+	.sitecore-development-services .hire_developer_sec .hire_dev_content .add_dev_btn{margin-bottom: 0;}
+	.our-service-sevtion-wrapper p{font-size: 16px;line-height: 26px;}
+	.our-service-sevtion-wrapper{min-height: 530px;}
+	.sitecore_benefit-section{padding: 60px 0px 50px;}
+	.sitecore-benefit-content .section-header p{font-size: 16px;line-height: 26px;}
+	.sitecore-services-content .panel-primary>.panel-heading+.panel-collapse>.panel-body{padding: 0px 30px 15px;}
+	.our-sitecore-services-section .sitecore-services-content .panel-primary>.panel-heading a{min-height: 50px;padding: 15px 30px 0;}
+	.our-service-sevtion-wrapper h4{font-size: 16px;line-height: 26px;margin-bottom: 5px;}
+	/* Sitecore*/
+	
+	/*mobile-app-development-city-pages*/
+	.hero_section .banner-caption h1{font-size: 35px;line-height: 40px;}
+	.hero_section .banner-caption p{font-size: 20px;line-height: 30px;}
+	/*mobile-app-development-city-pages*/
+	
+	/*react-native-app-development*/
+	.react-banner .ecomm_title h1{font-size: 35px;}
+	.react-banner .ecomm_title p{font-size: 18px;margin-bottom: 10px;}
+	.react-native-app-development .sitecore_benefit-section{padding: 60px 0px;}
+	.react-native-app-development .mobile_porfolio_section{padding: 60px 0px;}
+	.react-native-app-development .mobile_porfolio_content{margin-top: 55px;}
+	.react-native-app-development .mobile_porfolio_content_inside .section-heading-title h3{font-size: 28px;}
+	.react-native-app-development .mobile_porfolio_content_inside p{font-size: 16px;line-height: 26px;}
+	.react-native-app-development .mobile_porfolio_content_inside p{margin-bottom: 5px;}
+	.react-native-app-development .mobile_porfolio_content_inside .main_dev_btn a.add_dev_btn.our_port{margin-bottom: 0;}
+	.react-native-app-development .mobile_porfolio_content_inside .owl-nav{bottom: -50px;}
+	.react-native-app-development .mobile_porfolio_section{padding: 60px 0px 40px;}
+	.react-native-app-development.testimonials-space-reduce .testimonials-slider{padding-bottom: 50px;}
+	/*react-native-app-development*/
+	
+	/*portfolio-design-changes*/
+	.portfolio-item .technology-icon{transform: translate(50%, 35%);}
+	.portfolio-item.reverse-block .technology-icon{transform: translate(-50%, 35%);}
+	.portfolio-item .figure-content{padding: 8em 40px 4em;}
+	.portfolio-item .figure-content h3{font-size: 38px;}
+	.portfolio-item .figure-content h3 span{font-size: 38px;}
+	.portfolio-item .figure-content p{font-size: 16px;line-height: 26px;}
+	/*portfolio-design-changes*/
+	
+	/*internet-marketing-page*/
+	.ecomm_banner.sitecore-banner.internet-marketing-banner{padding: 60px 0px;}
+	.internet-marketing-page .sitecore-banner .intro_app_img{padding-top: 60px;}
+	/*internet-marketing-page*/
+	
+	/*portfolio-changes*/
+	.mportfolio-details .top-hero-section h1{font-size: 36px;}
+	.mportfolio-details .top-hero-section p{font-size: 16px;line-height: 26px;}
+	.cta-section .section-header h3{margin-bottom: 30px;font-size: 18px;line-height: 26px;}
+	.mportfolio-details .h3_heading{font-size: 28px;}
+	.mportfolio-details .h3_heading span{font-size: 28px;}
+	.mportfolio-details .features-slider-section .slider-content p{font-size: 16px;line-height: 26px;}
+	.mportfolio-details .cta-section.quote-secton h3{font-size: 28px;}
+	.mportfolio-details .cta-section.quote-secton p{font-size: 16px;line-height: 26px;}
+	.mportfolio-details .cta-section.quote-secton h3{padding-bottom: 24px;}
+	.mportfolio-details .get-app-section .section-header h3{font-size: 28px;}
+	/*portfolio-changes*/
+	
+	
+	/*first-level-page-css*/
+	/*web-development-services*/
+	.page-template-web-development .hero-dev-page-title{margin-top: 40px;}
+	.page-template-web-development .hero-dev-page-title .page-title{font-size: 36px;}
+	.page-template-web-development ul.list-points li{font-size: 16px;line-height: 26px;}
+	.page-template-web-development ul.list-points{margin-bottom: 25px;}
+	.page-template-web-development .development-title-web h3{font-size: 28px;line-height: 36px;}
+	.page-template-web-development .page-development-services-grid-inner h4{font-size: 16px;}
+	.page-template-web-development .page-development-services-grid-inner p{font-size: 14px;}
+	.page-template-web-development .services-section-main .content-part p{font-size: 14px;line-height: 22px;}
+	.page-template-web-development .project-cosulting-inner p{font-size: 16px;line-height: 26px;padding: 20px 0px;}
+	.page-template-web-development .project-cosulting-inner-grid ul li p{line-height: 26px;padding-top: 5px;padding-bottom: 0;margin-bottom: 0;}
+	.page-template-web-development .project-cosulting-section{padding: 40px 0px 20px;}
+	.page-template-web-development .development-title-web p{font-size: 16px;line-height: 26px;}
+	.page-template-web-development .project-management-inner h4{font-size: 16px;}
+	.page-template-web-development .project-management-inner ul li{font-size: 16px;margin-bottom: 10px;}
+	.page-template-web-development .why-choose-us-inner p{font-size: 16px;}
+	.page-template-web-development .mobile-client-testimonials{margin:40px 0px;}
+	.page-template-web-development .development-testimonials-section .clutch-widget{margin:30px auto 0px;}
+	.page-template-web-development .hire-developer-section{padding: 50px 0px 0px;}
+	.page-template-web-development .hire-transport-button{margin-top:0;}
+	/*web-development-services*/
+	
+	/*mobile-application-development*/
+	.page-template-mobile-application-development .app_dev_info h1{font-size: 36px;}
+	.page-template-mobile-application-development .app_dev_info p{font-size: 16px;line-height: 26px;}
+	.page-template-mobile-application-development section.app_banner{padding: 60px 0px;}
+	.page-template-mobile-application-development .upd-title h2{font-size: 28px;line-height: 36px;}
+	.page-template-mobile-application-development .service_content h2{font-size: 18px;}
+	.page-template-mobile-application-development .listing_info p{font-size: 14px;}
+	.page-template-mobile-application-development .service_content p{font-size: 16px;}
+	.page-template-mobile-application-development .upd-title{margin: 60px 0px 40px;}
+	.page-template-mobile-application-development .choose_us_content .upd-title p{font-size: 16px;line-height: 26px;}
+	.page-template-mobile-application-development .choose_us_listing{margin-bottom: 60px;}
+	.page-template-mobile-application-development  section.mobile_porfolio_section{padding: 60px 0px;}
+	.page-template-mobile-application-development .mobile_porfolio_content_inside .section-heading-title h3{font-size: 28px;margin-bottom: 50px;}
+	.page-template-mobile-application-development .mobile_porfolio_content_inside p{font-size: 16px;line-height: 26px;}
+	.page-template-mobile-application-development .main_dev_btn{margin-top: 20px;}
+	.page-template-mobile-application-development .hire_dev_desc p{font-size: 16px;line-height: 26px;}
+	.page-template-mobile-application-development .testimonials-slider{padding: 50px 0px;}
+	.page-template-mobile-application-development .hire_dev_info{padding-bottom: 40px;}
+	/*mobile-application-development*/
+	
+	/*ecommerce-website-company*/
+	.page-template-ecommerce-web-development .ecomm_title h1{font-size: 36px;}
+	.page-template-ecommerce-web-development .ecomm_title p{font-size: 16px;line-height: 26px;}
+	.page-template-ecommerce-web-development .ecomm_equal_title h2{font-size: 28px;line-height: 36px;}
+	.page-template-ecommerce-web-development .ecomm_service_offer{margin-top: 0;margin-bottom: 4%;}
+	.page-template-ecommerce-web-development .ecomm_service_offer p{font-size: 16px;line-height: 26px;}
+	.page-template-ecommerce-web-development .whychoose_us_sec p{font-size: 16px;line-height: 26px;}
+	.page-template-ecommerce-web-development .hire_developer_sec{padding: 6% 0;}
+	.page-template-ecommerce-web-development .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height: 26px;}
+	.page-template-ecommerce-web-development .hire_developer_sec .section-header h3{font-size: 28px;margin-bottom: 50px;}
+	.page-template-ecommerce-web-development .ecomm_service{padding: 6% 0;}
+	/*ecommerce-website-company*/
+	
+	/*common-pages-first-level-css*/
+	.first_level .mobile-development-page-title .page-title{font-size: 36px;}
+	.first_level .section-mobile-development .page-title-detail p{font-size: 16px;line-height: 26px;}
+	.first_level .mobile-development-page-title{padding-top: 40px;}
+	.first_level .section-mobile-development .page-intro-body{height: 970px;}
+	.first_level .mobile-development-head .inner-title{font-size: 28px;}
+	.first_level .mobile-development-grid-inner-detail span{font-size: 16px;}
+	.first_level .mobile-development-services-grid-detail span{font-size: 16px;}
+	.first_level .inner-title-detail p{font-size: 16px;line-height: 26px;}
+	.first_level .mobile-developers-services .mobile-developers-services-title{font-size: 28px;}
+	.first_level .mobile-developers-services p{font-size: 16px;line-height: 26px;}
+	.first_level .mobile-development-portfolio-right-head span{font-size: 24px;}
+	.first_level .mobile-development-portfolio-right-detail p{font-size: 16px;line-height: 26px;}
+	.first_level .mobile-frameworks-development-services-grid-detail p{font-size: 14px;}
+	.first_level .mobile-frameworks-development-services-grid-inner-detail p{font-size: 14px;}
+	.first_level .page-intro-body .page-button-quote a{font-size: 14px;padding: 10px 46px 10px 20px;}
+	.first_level .page-intro-body .page-button-quote a:before{top: 6px;right: 16px;}
+	.first_level .page-intro-body .page-button-portfolio a{font-size: 14px;padding: 10px 46px 10px 20px;}
+	.first_level .page-intro-body .page-button-portfolio a:before{top: 6px;right: 16px;}
+	.page-template-migration-services .mobile-development-intro-image,.page-template-cloud-services .mobile-development-intro-image,.page-template-hire-dedicate-developer .mobile-development-intro-image{padding-top: 30px;}
+	.page-template-migration-services .mobile-development-head,.page-template-cloud-services .mobile-development-head,.page-template-hire-dedicate-developer .mobile-development-head{margin-top: 0;}
+	.page-template-cloud-services .section-mobile-development .page-intro-body{height: 900px;}
+	.page-template-hire-dedicate-developer .section-mobile-development .page-intro-body{height: 1088px;}
+	.page-template-hire-dedicate-developer .mobile-client-testimonials{margin: 50px 0px 30px;}
+	/*common-pages-first-level-css*/
+	/*first-level-page-css*/
+	
+	/*second-level-page-css*/
+	/*common-pages-second-level-css*/
+	.second_level .page-intro-body .page-title{font-size: 36px;}
+	.second_level .page-intro-body .page-title span{font-size: 36px;padding-left: 10px;}
+	.second_level .page-title-detail p{font-size: 16px;line-height: 26px;}
+	.second_level .inner-title span{font-size: 28px;}
+	.second_level .inner-title strong,.page-template-microsoft-services .inner-title strong,.page-template-ecommerce-platforms .inner-title strong,.page-template-third-party-integration .inner-title strong{font-size: 28px;}
+	.second_level .inner-title-detail p{font-size: 16px;line-height: 26px;}
+	.second_level .expertise-grid-inner-detail p{font-size: 13px;}
+	.second_level .evince-services .evince-services-title{font-size: 28px;}
+	.second_level .evince-services p{font-size: 16px;line-height: 26px;}
+	.second_level .developers-services-title strong{font-size: 28px;}
+	.second_level .developers-services-title{font-size: 28px;margin-bottom: 30px;}
+	.second_level .developers-services p{font-size: 16px;line-height: 26px;}
+	.second_level .page-intro-body .page-button-quote a{font-size: 14px;padding: 10px 48px 10px 20px;}
+	.second_level .page-intro-body .page-button-quote a:before{top: 6px;right: 16px;}
+	.second_level .page-intro-body .page-button-portfolio a{font-size: 14px;padding: 10px 48px 10px 20px;}
+	.second_level .page-intro-body .page-button-portfolio a:before{top: 6px;right: 16px;}
+	.second_level .inner-frameworks .background-inner-title{font-size: 60px;top: -36px;}
+	.second_level .page-intro-body .php-page-title .background-page-title{top: 22px;font-size: 60px;}
+	.second_level .framework-icon-detail{font-size: 14px;}
+	.second_level .databases-icon-detail{font-size: 14px;}
+	.page-template-php-development .cms-head,.page-template-cms-development .cms-head,.page-template-microsoft-services .ms-development-head,.page-template-ecommerce-platforms .expertise-head,.page-template-third-party-integration .expertise-head,.page-template-ui-ux-design-services .expertise-head{margin-bottom: 30px;}
+	.page-template-php-development .background-inner-title{left:-34%;}
+	.page-template-php-development .cms-grid-detail strong,.page-template-cms-development .cms-grid-detail strong{font-size: 14px;}
+	.page-template-php-development .expertise-head .background-inner-title{left: -12%;font-size: 60px;top: -36px;}
+	.page-template-php-development .cms-info,.page-template-cms-development .cms-info,.page-template-microsoft-services .ms-development-info,.page-template-ecommerce-platforms .expertise-info,.page-template-third-party-integration .expertise-info,.page-template-ui-ux-design-services .expertise-info{padding-top: 5em;}
+	.page-template-php-development .expertise-grid-detail strong,.page-template-microsoft-services .ms-development-grid-detail strong,.page-template-ecommerce-platforms .expertise-grid-detail strong,.page-template-third-party-integration .cms-grid-detail strong,.page-template-ui-ux-design-services .expertise-grid-detail strong{font-size: 14px;}
+	.page-template-php-development .inner-database-head .background-inner-title{left: -34%;font-size: 60px;top: -36px;}
+	.page-template-cms-development .cms-head .background-inner-title,.page-template-microsoft-services .ms-development-head .background-inner-title{left: 0%;font-size: 60px;top: -36px;}
+	.page-template-cms-development .background-inner-title,.page-template-microsoft-services .background-inner-title{left:-30%;}
+	.page-template-microsoft-services .inner-database .inner-database-head .background-inner-title,.page-template-ecommerce-platforms .inner-database .inner-database-head .background-inner-title,.page-template-third-party-integration .inner-database .inner-database-head .background-inner-title{font-size: 60px;top: -36px;} 
+	.page-template-ecommerce-platforms .background-inner-title,.page-template-third-party-integration .background-inner-title{font-size: 60px;top: -36px;}
+	.page-template-ecommerce-platforms .expertise-head .background-inner-title{font-size: 60px;top: -36px;}
+	.page-template-third-party-integration .expertise-head .background-inner-title{font-size: 60px;top: -36px;left: -14%;}
+	.page-template-ui-ux-design-services .expertise-info .background-inner-title{font-size: 60px;top: -36px;}
+	.page-template-ui-ux-design-services .inner-frameworks  ul{margin: 0px 30px;}
+	/*common-pages-second-level-css*/
+	/*second-level-page-css*/
+	
+	/*third-level-page-css*/
+	.third_level .third-level-page-title .page-title{font-size: 30px;}
+	.third_level .section-third-level .page-title-detail p{font-size: 16px;line-height: 26px;}
+	.third_level .section-third-level .page-title-detail p .call-usa{font-size: 16px;}
+	.third_level .third-level-page-development-title h2{font-size: 28px;}
+	.third_level .third-level-page-development-title h2 span{font-size: 26px;}
+	.third_level .third-level-page-title-detail p{font-size: 16px;line-height: 26px;}
+	.third_level .third-level-page-inner p{font-size: 16px;line-height: 26px;}
+	.third_level .third-level-page-benefits-grid-main-title{font-size: 16px;}
+	.third_level .third-level-page-services-detail  ul li{font-size: 16px;}
+	.third_level .third-level-page-services-detail p{font-size: 16px;line-height: 26px;}
+	
+	/*hire-sitecore-page-css*/
+	.hire-sitecore-services .sitecore-banner .ecomm_title h1{line-height: 40px;}
+	.hire-sitecore-services .sitecore-banner .content_part{padding-top: 0px;width: 58.3%;}
+	.hire-sitecore-services .sitecore-expertise-section{padding: 60px 0px 30px;}
+	.hire-sitecore-services .sitecore-expertise-section .section-header p{font-size: 16px;line-height: 26px;}
+	.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services .sitecore-services-content .panel-primary>.panel-heading a{min-height: 60px;}
+	.hire-sitecore-services .hire-certified-services .services-wrapper .content-section{display: block;}
+	.hire-sitecore-services .hire-certified-services .services-wrapper .content-section span.diff-value{font-size: 20px;}
+	.hire-sitecore-services .get_btn_section{margin-top: 70px;margin-bottom: 0;}
+	.hire-sitecore-services .sitecore-expertise-section .section-header p{margin-bottom: 15px;}
+	.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services{padding: 60px 0px 20px;}
+	.hire-sitecore-services .get_btn_section a.add_dev_btn:after{margin-top: 3.5px;}
+	.hire-sitecore-services .get_btn_section a.add_dev_btn{font-size: 14px;padding: 10px 30px 8px;}
+	.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services .section-header{padding: 0px 6%;}
+	.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services .section-header{padding-bottom: 40px;}
+	.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services .sitecore-services-content .panel-primary>.panel-heading a{min-height: 50px;}
+	.hire-sitecore-services .hire-certified-services .services-wrapper .content-section span{font-size: 16px;}
+	.hire-sitecore-services.testimonials-space-reduce .testimonials-slider{padding-bottom: 50px;}
+	/*hire-sitecore-page-css*/
+	/*third-level-page-css*/
+	
+	/*portfolio-design-changes*/
+	.web_portfolio_details .portfolio-web-detail-inner h1{font-size: 36px;}
+	.web_portfolio_details .portfolio-web-detail-inner p{font-size: 16px;padding: 18px 26px;}
+	.web_portfolio_details .section-heading-title h3{font-size: 28px;}
+	.web_portfolio_details .section-heading-title span.diff-color{font-size: 34px;}
+	.web_portfolio_details .portfolio-web-middle-section-detail p{font-size: 16px;}
+	.web_portfolio_details .free-quote-section h4 span{font-size: 28px;margin-bottom: 15px;}
+	.web_portfolio_details .free-quote-section h4{font-size: 16px;margin-bottom: 30px;line-height: 26px;}
+	.web_portfolio_details .free-quote-section .free-quote-btn a{font-size: 16px;}
+	.web_portfolio_details .portfolio-web-bottom-section .bottom-port-bg{min-height: 514px;}
+	.web_portfolio_details .portfolio-web-bottom-left p{font-size: 16px;}
+	.web_portfolio_details .portfolio-web-bottom-left{padding: 60px 0px 40px 0;}
+	.web_portfolio_details .portfolio-web-bottom-left .section-heading-title h3{margin-bottom: 20px;}
+	.web_portfolio_details .portfolio-web-bottom-left p{margin-bottom: 30px;}
+	.web_portfolio_details .lets-talk-section p{font-size: 16px;padding: 22px 0 26px 0;}
+	.web_portfolio_details .lets-talk-section{padding-bottom: 0;}
+	.web_portfolio_details .portfolio-web-bottom-section{padding: 150px 0 0 0;}
+	.web_portfolio_details .real-time-list-main button{font-size: 16px;padding: 16px 32px;}
+	.web_portfolio_details .portfolio-web-bottom-section .bottom-port-bg{min-height: auto;}
+	.web_portfolio_details .portfolio-web-bottom-left{padding: 40px 0px;}
+	.web_portfolio_details .lets-talk-section p{padding: 14px 0 18px 0;}
+	/*portfolio-design-changes*/
+	
+	/*Industries-design-changes*/
+	/*transportation-logistics-design-changes*/
+	.page-template-transportation-logistics-solutions .hero-top-section h1{font-size: 32px;line-height: 34px;}
+	.page-template-transportation-logistics-solutions .automation-business-services{padding: 50px 0 20px 0;}
+	.page-template-transportation-logistics-solutions .development-title-web h3{font-size: 28px;line-height: 34px;}
+	.page-template-transportation-logistics-solutions .automation-business-services-inner .development-title-web p{line-height: 26px;width: 80%;}
+	.page-template-transportation-logistics-solutions .automation-business-right h3{font-size: 26px;}
+	.page-template-transportation-logistics-solutions .mobile-development-portfolio-right-head span{font-size: 26px;}
+	.page-template-transportation-logistics-solutions .mobile-development-portfolio-right-detail p{font-size: 16px;line-height:26px;}
+	.page-template-transportation-logistics-solutions .development-title-web p{font-size: 16px;line-height: 26px;}
+	.page-template-transportation-logistics-solutions .hire-transport-button{margin-top: 15px;}
+	.page-template-transportation-logistics-solutions .hire-transport-button a{padding: 12px 40px;}
+	.page-template-transportation-logistics-solutions .hire-developer-section{padding: 60px 0px 10px;}
+	.page-template-transportation-logistics-solutions .transportation-logistics-main{padding: 30px 0px;}
+	.page-template-transportation-logistics-solutions .automation-business-right ul{margin:0;}
+	/*transportation-logistics-design-changes*/
+	
+	/*industries-common-pages-design-changes*/
+	.industry_pages .page-banner-logistics-inner .banner-text>h1{font-size: 36px;}
+	.industry_pages .page-banner-logistics-inner .banner-text>p{font-size: 16px;line-height: 26px;padding: 0px 5%;}
+	.industry_pages .page-banner-logistics-detail .logistics-top-detail{font-size: 20px;}
+	.industry_pages .page-banner-logistics-detail>p{font-size: 16px;line-height: 26px;}
+	.industry_pages .page-banner-logistics-grid ul li>p{font-size: 16px;}
+	.industry_pages .page-banner-logistics-detail>p{font-size: 16px;line-height: 26px;}
+	.industry_pages .section-main-title h3{font-size: 28px;}
+	.industry_pages .section-main-title .diff_text{font-size: 28px;}
+	.industry_pages .logistics-services-deatil p{font-size: 16px;}
+	.industry_pages .have-project-section-main .have-project-inner{padding: 63px 0px 63px 40px;}
+	.industry_pages .have-project-inner h4{font-size: 28px;}
+	.industry_pages .lets-talk-button>a{padding: 12px 32px;}
+	.industry_pages .page-banner-logistics-grid ul li{margin-right: 10px;width: 300px;}
+	.industry_pages .page-banner-logistics-grid ul li:nth-child(3n){margin-right: 10px;}
+	.industry_pages .logistics-services{padding-bottom: 30px;}
+	.industry_pages .page-logistics-inner-bottom{padding-bottom: 40px;margin-top: -20px;}
+	.industry_pages .page-logistics-detail h4{font-size: 18px;}
+	.industry_pages .page-logistics-main>p{font-size: 20px;margin-bottom: 40px;}
+	/*industries-common-pages-design-changes*/
+	/*Industries-design-changes*/
+	
+	/*case-study-design-changes*/
+	.page-template-case-study .page-banner-overview .banner-text h1{font-size: 36px;}
+	.page-template-case-study .page-banner-overview .banner-text{margin: 161px auto;}
+	.page-template-case-study .page-inners .tagline-text p{font-size: 16px;line-height: 26px;}
+	.page-template-case-study .sucess-story .grid-item .story-title{font-size: 18px;}
+	.page-template-case-study .sucess-story .grid-item{min-height: 410px;}
+	/*case-study-design-changes*/
+	
+	.partners-block .content-part .desc{font-size: 16px;}
+	.partners-block .content-part .areas-expertise p{font-size: 16px;}
+	
+	/*carreer-page-design-changes*/
+	.career-img{margin-bottom: 10px;}
+	/*carreer-page-design-changes*/
+	
+	/*Modal-box-in-location*/
+	.connect-popup .modal-title{font-size: 16px;}
+	/*Modal-box-in-location*/
+	
+	/*web-development-company-page*/
+	.web-development-company-banner .hero-dev-page-title .page-title{font-size: 36px;margin-top: 20px;}
+	.web-development-company-banner .hero-dev-page-title p{font-size: 17px;}
+	.web-development-company-banner ul.list-points li{font-size: 16px;}
+	.web-development-company-banner.hero-banner-main{padding: 30px 0px; }
+	.web-development-company-services .heading_title p,.services-section-main.web-company-services .heading_title h3{font-size: 24px;}
+	.web-development-company-services  .heading_title h2,.services-section-main.web-company-services .heading_title p{font-size: 28px;}
+	.web-development-company-page .development-title-web h3 {
+		font-size: 28px;
+		line-height: 36px;
+	}
+	.web-development-company-page .hire-developer-section{    padding: 60px 0px 10px;}
+	.web-development-company-banner .hero-dev-page-title{margin-top: 40px;}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.microsoft-sql-server-reporting {
+		background-position: -476px -569px;
+		width: 204px;
+		height: 51px;
+		background-size: auto 950px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.microsoft-sql-server-analysis {
+		background-position: -171px -660px;
+		width: 201px;
+		height: 61px;
+		background-size: auto 950px;
+	}
+	.web-development-company-page .dev-lifecycle-section .development-title-web h3{font-size: 28px;}
+	/*web-development-company-page*/
+	
+	/*web-development-services*/
+	.web-development-service-page .web-development-company-banner{padding: 0;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title p{font-size: 18px;line-height: 32px;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title .page-title{margin-top: 0;margin-bottom: 15px;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title p{margin-bottom: 40px;}
+	.web-development-service-page .web-development-company-banner{min-height: 490px;}
+	.web-development-service-page .banner_content_wrapper{width: 600px;}
+	.web-development-service-page .banner_content_wrapper .hero-action-btn  a{    font-size: 14px;padding: 12px 50px 12px 20px;}
+	.web-development-service-page .banner_content_wrapper .hero-action-btn .btn-default-section a:after{    right: 22px;
+		top: 16px;}
+	.hero-action-btn .btn-default-section a{    font-size: 14px;padding: 12px 50px 12px 20px;}
+	.hero-action-btn .btn-default-section a:after{    right: 22px;top: 16px;}
+	.development-services-detail{padding: 60px 0px 40px;}
+	.main_heading_section .heading_sub_title{font-size: 24px;margin-bottom: 5px;line-height: 22px;}
+	.main_heading_section .heading_title{font-size: 28px;line-height: 36px;}
+	.development-services-detail p{font-size: 16px;line-height: 30px;}
+	.development-services-detail .main_heading_section{margin-bottom: 15px;}
+	 .page-template-web-development .web-development-service-page  .main_heading_section .heading_sub_title{font-size: 24px;margin-bottom: 5px;line-height: 22px;}
+	 .web-design-development-services .web-design-development-services-grid{margin-top: 0px;}
+	 .web-design-development-services .development-service-grid-wrapper{padding: 20px 10px;}
+	 .web-design-development-services .development-service-grid-wrapper h4{width: 71%;}
+	 .web-design-development-services .development-service-grid-wrapper h4{font-size: 18px;line-height: 22px;}
+	 .web-design-development-services .development-service-grid-wrapper p{font-size: 14px;    line-height: 22px;margin-bottom: 0;}
+	 .inovative-development-lifecycle h3.title{font-size: 18px;}
+	 .inovative-development-lifecycle .inner-content-detail-text p{font-size: 16px;}
+	 .inovative-development-lifecycle .inner-content-detail-text{margin-top: 80px;}
+	 .inovative-development-lifecycle{padding:60px 0px 160px;}
+	 .web-design-development-services .development-service-grid-wrapper h4{width:100%;padding-left: 0;font-size: 16px; margin-bottom:10px; height: auto;}
+	.web-design-development-services .development-service-grid-wrapper h4 span {position: static;top: auto;transform: none;}
+	 .inovative-development-lifecycle li.lifecycle-process-step{padding: 0;}
+	 .inovative-development-lifecycle h3.title{font-size: 15px;}
+	.page-template-web-development .hire-transport-button.primary-btn-section a{font-size: 14px;}
+	.hire-transport-button.primary-btn-section a{font-size: 14px;}
+	.page-template-web-development .development-testimonials-section .clutch-widget{margin: 50px auto 0px;}
+	.page-template-web-development .mobile-client-testimonials{margin-bottom: 0px;}
+	/*web-development-services*/
+	
+	/*mobile-app-devlopement-services*/
+	.web-development-service-page.mobile_app_development_services .banner_content_wrapper{width:100%;}
+	.web-development-service-page.mobile_app_development_services .web-development-company-banner .hero-dev-page-title p{margin-bottom: 30px;padding-right: 18%;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle ul.lifecycle-process-section{margin-top: 0;}
+	.mobile_porfolio_section .mobile_porfolio_content .mobile_porfolio_content_inside div#sync2{height: 84%;}
+	.page-template-mobile-application-development .hire_dev_info .upd-title {margin-bottom: 40px;}
+	.mobile_porfolio_section .mobile_porfolio_content{padding:0px 15px;}
+	.mobile_porfolio_section .mobile_porfolio_content_inside .owl-nav{bottom: -50px;}
+	.mobile_porfolio_content .mobile_porfolio_content_inside .hire-transport-button{margin-top: 0px;}
+	.page-template-mobile-application-development .hire_developer{padding-bottom: 30px;}
+	.page-template-mobile-application-development .app_banner.web-development-company-banner{background-position: 70% 0%!important;}
+	/*mobile-app-devlopement-services*/
+	.hero-button-phone {margin-left:10px;}
+	.web-development-company-page .hero-button-phone {margin-left:0px; margin-top:14px}
+	.web-development-company-page .hero-action-btn{text-align: center !important;}
+	.page-template-mobile-application-development section.app_banner{margin-top: 82px;}
+	/*sitecore-development-services*/
+	.web-development-service-page.sitecore-development-services-page .banner_content_wrapper{width: 100%;}
+	.web-development-service-page.sitecore-development-services-page .web-development-company-banner .hero-dev-page-title p{margin-bottom: 30px;padding-right: 2%;}
+	.sitecore-development-services-page .main_heading_section .heading_sub_title{font-size: 22px;}
+	.sitecore-development-services-page .main_heading_section .heading_title{font-size: 26px;}
+	.transform-services-section .main_heading_section{margin-bottom: 15px;}
+	.transform-services-section p{font-size: 16px;line-height: 30px;}
+	.transform-services-section .service-icon{margin-right: 5px;}
+	.transform-services-section h3.service-title{font-size: 14px;}
+	.transform-services-section{padding: 0px 0px 40px;}
+	.sitecore-development-services-page .hire_developer_sec .section-header h3{font-size: 26px;}
+	.sitecore-development-services-page .section-header h3{font-size: 26px;}
+	.sitecore-development-services-page .ecomm_banner:after{display: none;}
+	.web-design-development-services.sitecore_development_services .web-design-development-services-grid.flex-container .row .col{flex: 1 1 49.9%;max-width: 49.9%;}
+	.transform-services-section .trasnform-list-section.flex-container .row{margin-left: 30px;margin-right: 0;}
+	.sitecore-development-services-page .hire_developer_sec .hire_dev_content p{font-size: 16px;line-height:30px;}
+	.sitecore-development-services-page .hire_developer_sec{padding: 6% 0px;}
+	/*sitecore-development-services*/
+	
+	.transform-services-section .trasnform-list-section .mob-service-list{width: 49.9%;}
+	.inovative-development-lifecycle.hire-sitecore-development-lifecycle li .inner-content-text:before{bottom: -62px;}
+	.inovative-development-lifecycle.hire-sitecore-development-lifecycle li:last-child .inner-content-text:before{bottom:-46px;}
+	.inovative-development-lifecycle.hire-sitecore-development-lifecycle .inner-content-text:after{bottom: -55px;}
+	.inovative-development-lifecycle.hire-sitecore-development-lifecycle li:last-child .inner-content-text:after{bottom:-39px;}
+	
+	/*Contact Us*/
+	.contact_page_wrapper .hero__banner .banner-text h1 {font-size:3.4rem;padding: 0 17px;line-height: 1.3;}
+	.contact_page_wrapper .hero__banner .banner-text .small_text{font-size:0.70em;}
+	.contact_page_wrapper .btn-primary-large{ height: 66px;line-height: 66px;font-size: 16px;}
+	.form__wrapper .heading-h3{font-size: 2.5rem;    padding: 30px 0;}
+	.contact_page_wrapper .btn-primary-large {height: 56px;line-height: 56px;font-size: 16px;padding: 0 90px 0 26px;}
+	.contact_page_wrapper .btn-primary-large:after{height:40px; width:40px;top: 8px; background-position:10px 13px}
+	.form__wrapper .heading-h3 span{font-size: 4rem;}
+	.contact_page_wrapper .btn-primary-large{margin-top: 3em;margin-bottom: 3em;}
+	.form__wrapper{padding:20px; margin-top:-100px;}
+	.form__wrapper .heading-h3{line-height:1.4;font-size: 2.5rem;}
+	.form__wrapper .heading-h3 span {font-size: 4rem;}
+	.form__wrapper .heading-h3 sup {font-size: 20px;}
+	.form__wrapper .upd-submit{margin-top:0px;}
+	.page-template-connect #contact-top .captcha-man{padding-left:15px;}
+	.upd-for-req fieldset.inq-services-fieldset{padding:20px 15px}
+	.contact_page_wrapper .hero__banner{height:570px; min-height:inherit}
+	.contact_page_wrapper .hero__banner .banner-text{    position: static;top: 50%;text-align: center;width: 100%;left: 0;transform: none;margin-top: 160px;}
+	.corpo-section .corpo-details{border-bottom:0px;}
+	/*CSS for join-us-page*/
+	.campus-drive-section{    padding: 60px 0px;}
+	.page-template-join-us .campus-drive-section .section-main-title{    margin:0;}
+	.about-campus-drive p{    font-size: 16px;
+    line-height: 26px;width: 90%;}
+    .campus-drive-section .about-campus-drive .link-text.animation_button{    margin-top: 25px;}
+    .campus-drive-section .about-campus-drive .animation_button a{    font-size: 14px;    padding-left: 50px;
+    padding-right: 16px;padding-top: 3px;}
+	.services-grid-wrapper .card-grid-wrapper .grid-item{flex: 0 0 48%; max-width:48%; margin-bottom:20px;}
+	.upd-for-req .inqury-check-box{
+		min-height:inherit !important;
+		
+	}
+	/*contact-form-design-changes*/
+	.form__wrapper .heading-h3{    padding: 10px 0;    font-size: 20px;}
+	.form__wrapper .heading-h3 span {font-size: 28px;}
+	.form__wrapper .upd-contact-form .contact-form-field{padding: 0;}
+	.form-field-bottom .upload-file{margin: 10px 0 15px 0;}
+	.upload-file span{font-size: 12px;}
+	.upd-contact-form{    min-height: 390px;}
+	.upd-for-req{margin-top: 0;}
+	.upd-for-req fieldset.inq-services-fieldset{    padding: 0px 0px 10px;}
+	.corpo-title h2{    font-size: 20px;}
+	.inqury-check-box .corpo-title{    margin-bottom: 20px;}
+    .page-template-connect #contact-top{padding-bottom: 0;}
+    .form__wrapper .help-msg{    margin-top: 10px;    width: 100%;}
+    .form__wrapper .upd-submit input{    padding: 10px 30px;    font-size: 14px;}
+    .corporate-office{margin-top: 0;}
+	/*contact-form-design-changes*/
+	 /*web-design-services-page*/
+    .page-template-ecommerce-web-development .our_loactions_services .section-header h3{font-size: 28px;}
+    .our_loactions_services .location_inner-details ul li a .location_title{font-size: 18px;}
+    .page-template-ecommerce-web-development .our_loactions_services {padding: 30px 0px 60px;}
+    .our_loactions_services .location_inner-details ul li a .img_section{height: 160px;}
+    .page-template-website-design .our_loactions_services{    padding: 0px 0px 30px;}
+	.page-template-mobile-application-development .our_loactions_services .section-header h3 {font-size: 28px;text-transform: capitalize;}
+	.page-template-mobile-application-development .our_loactions_services {padding: 0px 0px 70px;}
+    /*web-design-services-page*/
+	.form__wrapper .upd-submit{margin-top:40px;}
+	.form__wrapper div.wpcf7 .upd-submit .ajax-loader {top:15px;right: 0;}
+	.page-template-connect #contact-top .captcha-man{    margin-top: 30px;}
+	.form__wrapper .form-field-bottom{padding: 0;}
+	.offer.nda-checkbox.inqury-check-box {padding-left: 0;margin-bottom: 14px;padding-top: 10px;}	
+	.services-grid-wrapper .card-grid-wrapper .grid-item:nth-child(2n+2), .services-grid-wrapper .card-grid-wrapper.border-cards .grid-item:nth-child(2n+2){margin-right:0%;}
+	.section-header .section-header-desc{max-width: 90%;}
+	.eBook-marijuwana-page .content_detail .blockquote{font-size: 20px;    padding: 20px 40px;}
+	.eBook-marijuwana-page .conten-wrapper h4, .eBook-marijuwana-page .main_heading_section .heading_title{    font-size: 28px;line-height: 36px;}
+	.hero_banner p.highlight-tagline{    font-size: 16px;}
+	.hero_banner p.highlight-tagline span{    font-size: 18px;}
+	.page-template-about-us .page-banner-overview .banner-text p{
+		font-size: 18px;
+		font-weight: 400;
+		line-height: 28px;
+		padding-right: 60px;
+	}
+	.page-template-about-us .page-banner-overview .banner-text h1{
+		margin-bottom: 10px;
+		font-size: 40px;
+		
+	}
+	.page-template-about-us .page-banner-overview .action__toolbar {
+		margin-top: 30px;
+	}
+}
+	
+	
+	
+	/* iPhone Portrait */
+	@media screen and (max-width:767px){
+		.hero_section .hero-action-btn {text-align: center!important;}
+		a.btn.btn-primary.case_study {margin-left: 10px;}
+		.hero_section{background-size: cover; height: 450px;}
+		.hero_section .banner-caption{top:50%;}
+		.tech-skills-section ul.skills-list li{ padding: 0 4%;}
+		.hire-developer-space .hire-developer-section .section-header h3,.tech-skills-section .section-header h3 {text-transform: none;margin-bottom: 15px;font-size: 40px;}
+		.section_works {padding:0px 0px 50px;}
+		.section_works#section_works_1{padding:50px 0px 0px;}
+		.section_works .figure-image{margin-top:30px;}
+		.section_works .tags{margin:16px 0 13px;}
+		.section_works .action-wrap .btn-primary{font-size:15px;}
+		.section_works .content-part{float: right;position: relative;top: 0;transform: none;width: 57%;right: 0px;}
+		.section_works .content-part h2{font-size:24px;margin-bottom: 20px;}
+		.section_works .content-part p{font-size:16px; line-height: 26px;}
+		.hero_section .banner-caption h1 {font-size: 51px;margin-bottom: 25px;}
+		.tech-skills-section ul.skills-list li {padding: 0 4%;width: 19%;text-align: center;}
+		.tech-skills-section ul.skills-list h6{margin-top: 14px;}
+		.hero_section .banner-caption p {font-size: 18px;padding: 0 30px;line-height: 27px;}
+		.second_section {padding: 30px 0px;}
+		.hire-developer-section {padding:60px 0px;}
+		.second_section p{margin-bottom:20px;}
+		.mobile-object {display: block;background: url(../images/city-pages-images/ny-word.png) center;height: 300px;background-repeat: no-repeat;background-repeat: center;width: 100%;position: absolute;top: 50%;transform: translate(-50%, -50%); left:50%}
+		.mobile-object.Chicago-object{display: block;background: url(../images/city-pages-images/chi-word.png) center;height: 300px;background-repeat: no-repeat;background-repeat: center;width: 100%;position: absolute;top: 50%;transform: translate(-50%, -50%); left:50%}
+		.mobile-object.houston-object{display: block;background: url(../images/city-pages-images/htx-word.png) center;height: 300px;background-repeat: no-repeat;background-repeat: center;width: 100%;position: absolute;top: 50%;transform: translate(-50%, -50%); left:50%}
+		.mobile-object.new-jersy-object{display: block;background: url(../images/city-pages-images/nj-word.png) center;height: 300px;background-repeat: no-repeat;background-repeat: center;width: 100%;position: absolute;top: 50%;transform: translate(-50%, -50%); left:50%}
+		div#particle-slider{display: none;}
+		.second_section p{font-size: 16px;color: #333;line-height: 24px;}
+		.why_choose_us_section .whychoose_us_sec p{line-height: 24px;}
+		.section_works .content-part{text-align: center; width:100%}
+		.hire-developer-section .section-header h3, .tech-skills-section .section-header h3{font-size:24px}
+		.tech-skills-section .section-header p {font-size: 16px;}
+		.tech-skills-section {padding: 40px 0px;}
+		.tech-skills-section .skills-list {margin: 20px 0 0;}
+		.tech-skills-section ul.skills-list li{    padding: 20px 4%;width: 31%;}
+		.hire-developer-section .section-header p {font-size: 16px;line-height: 29px;}
+		.tech-skills-section ul.skills-list h6{font-size:13px;}
+		.section_works .figure-image{width:100%; padding:40px;}
+		.hero_section .banner-caption h1 {font-size: 28px;margin-bottom: 15px;line-height: 32px;padding: 0 20px;}
+		.ecommerce-dev-city-base .hero_section .banner-caption h1{margin-top: 20px;}
+		.section_works .figure-image{width:300px; margin-left:auto; margin-right:auto; float: none !important; clear: both;}
+		.app-dev-city-base .second_section p{font-size: 14px;line-height: 24px;margin-bottom: 15px;}
+		.app-dev-city-base .section_works .content-part p {font-size: 14px;line-height: 24px;}
+		.why_choose_us_section .whychoose_us_sec p{font-size: 14px;line-height: 24px;}
+		.tech-skills-section .section-header p{font-size: 14px;line-height: 24px;}
+		.tech-skills-section .section-header h3{margin-bottom: 30px;}
+		.section_works .action-wrap{margin-top: 20px;}
+		.app-dev-city-base .section_works .content-part p{margin-bottom: 0;}
+		.section_works .figure-image{margin-top: 0;}
+		.section_works{padding: 0px 0px 30px;}
+		.whychoose_us_sec .section-header h3{font-size: 24px;margin-bottom: 30px;}
+		.tech-skills-section{padding: 30px 0px 20px;}
+		.section_works#section_works_1{padding-top: 30px;}
+	
+		/*ecommerce-web-development-city-pages*/
+		.ecommerce-dev-city-base .second_section p{font-size: 14px;margin-bottom: 15px;}
+		.for-desktop-view{display: none;}
+		.for-mobile-view{display: block;}
+		.ecommerce-dev-city-base .section_works .figure-image{width: 100%; padding: 0px 40px;margin-top: 0;}
+		.ecommerce-dev-city-base .section_works .content-part{width: 100%;}
+		.ecommerce-dev-city-base  .section_works#section_works_1{padding: 30px 0px;}
+		.ecommerce-dev-city-base .section_works .content-part h2{font-size: 24px;margin-bottom: 20px;}
+		.ecommerce-dev-city-base .section_works .tags{margin: 16px 0 16px;}
+		.ecommerce-dev-city-base .section_works .content-part p{ font-size: 14px;line-height: 24px;margin-bottom: 0;}
+		.ecommerce-dev-city-base .action-wrap{margin-top: 20px;}
+		.ecommerce-dev-city-base .section_works {padding: 30px 0px;}
+		.ecommerce-dev-city-base .section_works#section_works_2 .tags{margin: 18px 0 16px;}
+		.second_section p:last-child{margin-bottom: 0px;}
+		.ecommerce-dev-city-base .whychoose_us_sec p{font-size: 14px;}
+		.why_choose_us_section .whychoose_us_features ul li:last-child{margin-bottom: 0;}
+		.testimonials-space-reduce .testimonials-slider{padding-bottom: 0;}
+		.hire-developer-space .hire-developer-section {padding: 30px 0px 140px;}
+		.hire-developer-space .hire-developer-section .action-wrap .btn-primary{margin-top: 10px;}
+		.hire-developer-space .hire-developer-section .section-header p{font-size: 14px;line-height: 24px;}
+		.hire-developer-space .hire-developer-section .action-wrap{margin-top: 0;}
+		.section_works .tags span{padding:  9px 24px;}
+		.web-design-city-base .section_works .tags span{padding:  9px 22px;}
+		.section_works .tags span:last-child{margin-right: 0;}
+		.eCommerce-services-offer-section .ecommerce-content-wrapper .image-section{width: 30%;}
+		.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section{width: 70%;padding-left: 10px;}
+		.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section h4{font-size: 20px;line-height: 24px;}
+		.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section p{font-size: 14px;line-height: 24px;}
+		.eCommerce-services-offer-section{padding: 30px 0px 30px;}
+		.eCommerce-services-offer-section .eCommerce-service-section:last-child{margin-bottom: 0;}
+		.eCommerce-services-offer-section .eCommerce-service-section{margin-bottom: 20px;}
+		.why_choose_us_section .whychoose_us_sec .whychoose_us_features .features_content{font-size: 14px;}
+		.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section h4{font-size: 16px;line-height: 18px;margin-bottom: 5px;}
+		.hire-developer-space .hire-developer-section .action-wrap{margin-top: 10px;}
+		/*ecommerce-web-development-city-pages*/
+	
+		/*header-css*/
+		.mehamenu .meha-submenu{top: 0;}
+		.mehamenu > ul > li>a{padding: 0!important;}
+		.navbar .mehamenu{margin-top: 0;}
+		/*header-css*/
+	
+		/*web-design-city-pages*/
+		.section_works .action-wrap .btn-primary{font-size: 14px;padding: 10px 40px 10px 20px;}
+		.section_works .action-wrap .btn-primary:after{top: 30%;}
+		.ecommerce-dev-city-base .section-header h3, .web-design-city-base .section-header h3{font-size: 24px;margin-bottom: 30px;}
+		.web-design-city-base .section-header p{font-size: 14px;line-height: 24px;}
+		.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section h4{font-size: 18px;}
+		.why_choose_us_section .whychoose_us_sec{padding: 6% 0%;}
+		.hire-developer-space .hire-developer-section .section-header h3{font-size: 24px;}
+		.hire-developer-space .hire-developer-section .action-wrap .btn-primary{padding: 10px 40px 10px 20px;font-size: 14px;}
+		.hire-developer-space .action-wrap .btn-primary:after{top: 30%;}
+		.eCommerce-services-offer-section.web-design-services-offer-section.new-york-service-section .eCommerce-service-section,.eCommerce-services-offer-section.web-design-services-offer-section.chicago-service-section .eCommerce-service-section{min-height: 120px;}
+		/*web-design-city-pages*/
+	
+		/* Sitecore*/
+		.sitecore-banner .content_part {width: 100%;}
+		.ecomm_banner.sitecore-banner{background-size:cover;}
+		.upd-title.sitecore-cms-content-section{padding:70px 0px;}
+		.sitecore-banner .intro_app_img {width: 100%;padding-top: 30px;}
+		.our-sitecore-services-section{padding:30px 0px;}
+		.sitecore-services-image {text-align: center;margin-top: 40px;}
+		.sitecore-development-services .hire_developer_sec{padding:30px 0px;}
+		.our_expertise-service-section{padding:30px 0px 0;}
+		.our-expertise-service-content .service_item {width:100%; min-height: inherit;}
+		.our-service-sevtion-wrapper p{    font-size: 14px;line-height: 24px;}
+		.our-service-sevtion-wrapper h4{font-size: 16px;line-height: 26px;margin-bottom: 5px;}
+		.our-service-sevtion-wrapper{min-height:inherit;margin-bottom: 10px;padding: 20px 30px;}
+		.sitecore-development-services .benefit-lists ul{width:100%;}
+		.sitecore_benefit-section {padding: 30px 15px 30px;}
+		.sitecore-cms-section:before{width:100%;}
+		.upd-title.sitecore-cms-content-section{padding:30px 0px;}
+		.sitecore-development-services .section-header h3 {font-size: 24px;line-height: normal;margin-bottom: 30px;}
+		.sitecore-cms-content-section p {font-size: 14px;line-height: 24px;margin-bottom: 0;padding: 0px 10px;}
+		.sitecore-banner .ecomm_title h1{font-size: 28px; line-height:20px;}
+		.our-sitecore-services-section .section-header{margin-bottom: 50px;}
+		.ecomm_banner.sitecore-banner{padding:30px 0px;}
+		.sitecore-banner .ecomm_title p {margin-bottom: 15px;font-size: 14px;line-height: 24px;}
+		.our-sitecore-services-section .sitecore-services-content .panel-primary>.panel-heading a{font-size:16px;padding:15px 50px 15px 14px;line-height:24px; min-height: inherit;}
+		.sitecore-services-content .panel-title .collapsed::after{right:20px;}
+		.sitecore-development-services .hire_developer_sec .section-header h3 {font-size: 24px;line-height: normal;margin-bottom: 30px;}
+		.sitecore-development-services .hire_developer_sec .hire_dev_content p {font-size: 14px;line-height: 24px;}
+		.sitecore-development-services .testimonials-slider {padding-bottom: 30px;}
+		.sitecore-benefit-content .section-header p{font-size:14px; line-height:24px;margin-bottom: 0;}
+		.sitecore-development-services .benefit-lists ul{margin-bottom:0px;}
+		.sitecore-development-services .benefit-lists ul li{font-size:16px}
+		.sitecore-development-services .benefit-lists ul li:last-child {margin-bottom: 0;}
+		.sitecore-development-services .benefit-lists{padding:0px;}
+		.sitecore-services-content .panel-collapse>.panel-body p{line-height: 24px;font-size: 14px;margin-top: 0;}
+		.sitecore-services-content .panel-primary>.panel-heading+.panel-collapse>.panel-body{padding: 0px 15px 15px;}
+		.sitecore-development-services .hire_developer_sec .hire_dev_content .add_dev_btn{margin-top: 15px; padding: 10px 20px 10px 20px;font-size: 14px;margin-bottom: 0;}
+		.our_expertise-service-section .section-header{margin-bottom: 50px;}
+		.sitecore-services-content .panel-title>a::after{right: 20px;}
+		.sitecore-services-content .panel-title .collapsed::after,.sitecore-services-content .panel-title>a::after{font-size: 25px;}
+		.our-service-sevtion-wrapper .image-section{margin-bottom: 15px;}
+		.sitecore-development-services .benefit-lists ul li{font-size: 16px;}
+		.sitecore-development-services .ecomm_title h1:after{margin: 20px 0px 15px;}
+		.ecomm_banner.sitecore-banner .main_dev_btn{margin-top: 20px;}
+		.sitecore-development-services .testimonials-slider {padding-bottom: 110px;}
+		/* Sitecore*/
+	
+		/*mobile-app-development-city-pages*/
+		.hero_section .banner-caption h1{font-size: 26px;}
+		.hero_section .banner-caption p{line-height: 24px;}
+		.app-dev-city-base.hire-developer-space .action-wrap{margin-top: 5px;}
+		.testimonials-slider .section-header h3{font-size: 24px;}
+		.hire-developer-space .hire-developer-section .section-header p{margin-bottom: 0;}
+		/*mobile-app-development-city-pages*/
+	
+		/*react-native-app-development*/
+		.sitecore-development-services.react-native-app-development.header-space{overflow:hidden;}
+		.react-banner .ecomm_title h1{font-size: 28px;line-height: 32px;}
+		.ecomm_banner.react-banner{padding: 10% 4%;}
+		.react-banner .ecomm_title p{font-size: 16px;line-height: 24px;}
+		.react-native-app-development .sitecore_benefit-section{padding: 30px 0px 40px;}
+		.react-native-app-development .sitecore_benefit-section .section-header{margin-bottom: 12px;}
+		.sitecore-development-services .benefit-lists ul li{font-size: 14px;}
+		.react-native-app-development .mobile_porfolio_section{padding: 0px 0px;}
+		.react-native-app-development .mobile_porfolio_content_inside .section-heading-title h3{font-size: 24px;}
+		.react-native-app-development .mobile_porfolio_content_inside p{font-size: 14px;line-height: 24px;margin-bottom: 0;}
+		.react-native-app-development .mobile_porfolio_content_inside{padding-bottom: 0;}
+		.react-native-app-development .content_part .main_dev_btn a.add_dev_btn{padding: 10px 12px;margin-bottom: 0;}
+		.react-native-app-development section.mobile_porfolio_section{padding: 0;}
+		.react-native-app-development .mobile_porfolio_content_inside .main_dev_btn a.add_dev_btn.our_port{padding: 10px 12px;}
+		.react-native-app-development.why_choose_us_section .whychoose_us_sec{padding: 8% 0;}
+		.react-native-app-development.testimonials-space-reduce .testimonials-slider{padding-bottom: 0;}
+		.ecomm_banner.react-banner .container{padding: 0;}
+		/*react-native-app-development*/
+	
+		/*portfolio-design-changes*/
+		.portfolio-items-wrapper{padding-top: 130px;}
+		.portfolio-item .figure-content{padding: 2em 10px 3em;}
+		.portfolio-item .figure-content h3{font-size: 24px;}
+		.portfolio-item .figure-content p{font-size: 14px;line-height: 24px;}
+		.portfolio-item .figure-content .action-wrap{margin-top: 15px;}
+		.portfolio-item .figure-content h3 span{font-size: 24px;}
+		.portfolio-item .figure-image .iphone-frame{width: 205px;height: 368px;}
+		.portfolio-item.grey-pattern.reverse-block .iphone-frame{margin-left: 0;}
+		.portfolio-item .figure-image .screen-wrap{width: 194px;}
+		.portfolio-item.grey-pattern.reverse-block .iphone-screen {left: 23px;}
+		.portfolio-item .iphone-screen {top: 6px;width: calc(100% - 32px);}
+		.portfolio-item .iphone-frame{margin-left: 0;width: 203px;}
+		.portfolio-item .iphone-screen{left: 21px;top: 5px;}
+		.portfolio-item.grey-pattern.reverse-block .screen-wrap{box-shadow: none;}
+		/*portfolio-design-changes*/
+	
+		/*internet-marketing-page*/
+		.ecomm_banner.sitecore-banner.internet-marketing-banner{padding: 30px 0px;}
+		.internet-marketing-page .sitecore-banner .intro_app_img{padding-top: 30px;}
+		/*internet-marketing-page*/
+	
+		/*portfolio-changes*/
+		.mportfolio-details .top-hero-section h1{font-size: 28px;}
+		.mportfolio-details .top-hero-section p{font-size: 14px;line-height: 24px;}
+		.mportfolio-details .top-hero-section .action-wrap{margin-top: 20px;}
+		.mportfolio-details .features-section{padding: 30px 0px;}
+		.mportfolio-details .features-section .features-list{padding: 60px 30px 0px;}
+		.mportfolio-details .real-time-list{padding: 30px 0px 15px;}
+		.mportfolio-details .cta-section{padding: 30px 0px;}
+		.mportfolio-details .cta-section .section-header h3{font-size: 16px;line-height: 26px;margin-bottom: 24px;}
+		.mportfolio-details .cta-section .action-wrap{margin-top: 20px;}
+		.mportfolio-details .h3_heading{font-size: 24px;margin-bottom: 15px;padding-bottom: 15px;}
+		.mportfolio-details .features-slider-section .slider-content p{font-size: 14px;line-height: 24px;}
+		.mportfolio-details .h3_heading span{font-size: 24px;}
+		.mportfolio-details .cta-section.quote-secton .section-header h3{font-size: 24px;margin-bottom: 5px;}
+		.mportfolio-details .cta-section.quote-secton p{margin-top: 0;font-size: 14px;line-height: 24px;}
+		.mportfolio-details .get-app-section .section-header h3{font-size: 24px;}
+		.mportfolio-details .get-app-section .stores-wrapper{margin-top: 25px;margin-bottom: 0;}
+		.mportfolio-details .get-app-section .stores-wrapper a{margin-bottom: 40px;}
+		.mportfolio-details .features-section .btn{padding: 10px 40px 10px 20px;font-size: 14px;}
+		.mportfolio-details .action-wrap .btn-primary{padding: 10px 40px 10px 20px;font-size: 14px;}
+		.mportfolio-details .action-wrap .btn-primary:after{top: 30%;}
+		.mportfolio-details #features-slider .owl-nav{bottom: -85px;}
+		.mportfolio-details .features-slider-section .slider-part{padding: 40px 20px 100px;}
+		#features-slider .owl-nav button{width: 45px;height: 45px;}
+		/*portfolio-changes*/
+	
+		/*first-level-page-css*/
+		/*web-development-services*/
+		.page-template-web-development .hero-banner-main{padding: 30px 0px!important;}
+		.page-template-web-development .hero-dev-page-title{margin-top: 0;}
+		.page-template-web-development .page-intro-body .page-title{font-size: 28px;}
+		.page-template-web-development ul.list-points li{font-size: 14px;}
+		.page-template-web-development ul.list-points{margin-bottom: 15px;}
+		.page-template-web-development .development-ratio-main{margin: 30px 0px 10px 0!important;}
+		.page-template-web-development .development-ratio-inner p{font-size: 14px!important;}
+		.page-template-web-development .development-title-web h3{font-size: 24px;line-height: 28px;}
+		.page-template-web-development .page-development-services-grid{margin-top: 24px!important;}
+		.page-template-web-development .page-development-services-grid-inner h4{font-size: 16px;}
+		.page-template-web-development .business-solutions-section .development-title-web{margin-bottom: 24px;}
+		.page-template-web-development .services-section-main .service-title{font-size: 16px;line-height: 22px;}
+		.page-template-web-development .services-section-main .content-part p{font-size: 14px;line-height: 24px;}
+		.page-template-web-development .business-solutions-section{padding: 10px 0px 30px;}
+		.page-template-web-development .dev-lifecycle-image-mobile{padding: 24px 0 15px 0;}
+		.page-template-web-development .dev-lifecycle-section{padding: 10px 0px 0px;}
+		.page-template-web-development .lifecycle-mobile-wrap ul li{line-height: 24px;font-size: 14px;}
+		.page-template-web-development .lifecycle-mobile-wrap h4{margin-bottom: 10px;font-size: 16px;}
+		.page-template-web-development .project-cosulting-section{padding: 30px 0px 20px;}
+		.page-template-web-development .project-cosulting-inner p{font-size: 14px;line-height: 24px;padding: 20px 0px;}
+		.page-template-web-development .project-cosulting-inner-grid ul li p{line-height: 24px;padding: 0;margin:0;}
+		.page-template-web-development .project-cosulting-inner-grid ul li h4{font-size: 16px;}
+		.page-template-web-development .project-management-section{padding: 30px 0px 10px;}
+		.page-template-web-development .development-title-web p{font-size: 14px;line-height: 24px;padding: 15px 0px;}
+		.page-template-web-development .project-management-inner h4{font-size: 16px;padding: 5px 0 15px 0px;}
+		.page-template-web-development .project-management-inner ul li{font-size: 14px;line-height: 24px;}
+		.page-template-web-development .why-choose-us-section{padding: 30px 0px;}
+		.page-template-web-development .why-choose-us-section .development-title-web{margin-bottom: 24px;}
+		.page-template-web-development .why-choose-us-inner p{font-size: 14px;}
+		.page-template-web-development .development-testimonials-section .clutch-widget{margin: 40px auto 24px;}
+		.page-template-web-development .development-testimonials-section.mobile-client-testimonials{margin-bottom: 10px;}
+		.page-template-web-development .technology-stack-inner{padding: 24px 0px 10px;}
+		.page-template-web-development .hire-developer-section{padding: 30px 0px 0px;}
+		.page-template-web-development .hire-transport-button{margin-top: 5px;}
+		.page-template-web-development .application-development-services {padding: 20px 0px 30px 0;}
+		footer.page_footer{margin-top: 140px;}
+		/*web-development-services*/
+	
+		/*mobile-application-development*/
+		.page-template-mobile-application-development section.app_banner{padding: 30px 0px;}
+		.page-template-mobile-application-development .app_dev_info h1{font-size: 26px;padding-bottom: 30px;margin-bottom: 0px;}
+		.page-template-mobile-application-development .app_dev_info p{font-size: 14px;line-height: 24px;}
+		.page-template-mobile-application-development .main_dev_btn{margin-top: 10px;}
+		.page-template-mobile-application-development .intro_app_img{padding-top: 15px;}
+		.page-template-mobile-application-development .main_service_offer{margin-top: 30px;}
+		.page-template-mobile-application-development .upd-title h2{font-size: 24px;line-height: 28px;}
+		.page-template-mobile-application-development .service_info{padding: 20px 0px 10px;}
+		.page-template-mobile-application-development .choose_us_content .upd-title p{font-size: 14px;line-height: 24px;}
+		.page-template-mobile-application-development .choose_us_listing .listing_info{margin-bottom: 20px;}
+		.page-template-mobile-application-development .listing_info p{font-size: 14px;}
+		.page-template-mobile-application-development .choose_us_listing{margin-bottom: 15px;}
+		.page-template-mobile-application-development .mobile_porfolio_content_inside .section-heading-title h3{font-size: 24px;margin-bottom: 40px;}
+		.page-template-mobile-application-development a.add_dev_btn{padding: 12px 16px;}
+		.page-template-mobile-application-development .main_dev_btn{margin-top: 0;}
+		.page-template-mobile-application-development .mobile_porfolio_content_inside p{font-size: 14px;line-height: 24px;}
+		.page-template-mobile-application-development .mobile_porfolio_content_inside{padding-bottom: 30px;}
+		.page-template-mobile-application-development .hire_dev_desc p{font-size: 14px;line-height: 24px;}
+		.page-template-mobile-application-development .hire_dev_info .upd-title{margin-bottom: 40px;}
+		.page-template-mobile-application-development .hire_dev_info .add_dev_btn{margin-top: 10px;}
+		.page-template-mobile-application-development .hire_dev_img{margin-top: 0;}
+		.page-template-mobile-application-development .testimonials-slider{padding: 30px 0px 0px;}
+		.page-template-mobile-application-development .service_content h2{font-size: 16px;}
+		.page-template-mobile-application-development .service_content p{font-size: 14px;}
+		.mobile_app_development_services .hire_dev_desc p{width: 100%;padding-bottom: 35px;}
+		.mobile_porfolio_content .mobile_porfolio_content_inside .hire-transport-button{margin-top: 0;}
+		/*mobile-application-development*/
+	
+		/*ecommerce-website-company*/
+		.page-template-ecommerce-web-development .banner_caption{width: 100%;}
+		.page-template-ecommerce-web-development .ecomm_title h1{font-size: 28px;}
+		.page-template-ecommerce-web-development .ecomm_title h1:after{margin: 20px 0px 15px;}
+		.page-template-ecommerce-web-development .ecomm_title p{line-height: 24px;}
+		.page-template-ecommerce-web-development .ecomm_banner{padding: 30px 0px;}
+		.page-template-ecommerce-web-development a.add_dev_btn{padding: 12px 16px;}
+		.page-template-ecommerce-web-development .ecomm_equal_title h2{font-size: 24px;line-height: 28px;}
+		.page-template-ecommerce-web-development .ecomm_service{padding: 30px 0px;}
+		.page-template-ecommerce-web-development .ecomm_service_offer p{font-size: 14px;line-height: 24px;}
+		.page-template-ecommerce-web-development .whychoose_us_sec{padding: 6% 0;}
+		.page-template-ecommerce-web-development .whychoose_us_sec p{font-size: 14px;line-height: 24px;}
+		.page-template-ecommerce-web-development .hire_developer_sec{padding: 5% 0 6%;}
+		.page-template-ecommerce-web-development .hire_developer_sec .section-header h3{font-size: 24px;margin-bottom: 40px;}
+		.page-template-ecommerce-web-development .hire_developer_sec .hire_dev_content p{line-height: 24px;font-size: 14px;}
+		.page-template-ecommerce-web-development .hire_developer_sec .hire_dev_content .add_dev_btn{margin-top: 0;}
+		/*ecommerce-website-company*/
+	
+		/*common-pages-first-level-css*/
+		.first_level .mobile-development-page-title{padding-top: 30px;}
+		.first_level .mobile-development-page-title .page-title{font-size: 28px;}
+		.first_level .section-mobile-development .page-title-detail p{font-size: 14px;line-height: 24px;}
+		.first_level .mobile-development-intro-image{padding-top: 30px;padding-bottom: 30px;}
+		.first_level .mobile-development-head .inner-title{font-size: 24px;margin-bottom: 24px;}
+		.first_level .mobile-development-services-grid-detail span{font-size: 16px;}
+		.first_level .mobile-development-grid-inner-detail span{font-size: 16px;}
+		.first_level .mobile-development-grid-inner-detail p{font-size: 13px;line-height: 24px;}
+		.first_level .mobile-development-info{margin-bottom: 30px;}
+		.first_level .inner-frameworks-mobile{padding: 30px 0px;}
+		.first_level .inner-frameworks .mobile-development-head .inner-title{margin-bottom: 24px;}
+		.first_level .inner-title-detail{margin: 20px auto 0px;}
+		.first_level .inner-title-detail p{font-size: 14px;line-height: 24px;margin-bottom: 0;}
+		.first_level .mobile-frameworks-development-services-grid-detail p{font-size: 14px;}
+		.first_level .mobile-developers-services .mobile-developers-services-title{font-size: 24px;margin-bottom: 24px;}
+		.first_level .mobile-developers-services p{font-size: 14px;line-height: 24px;}
+		.first_level .mobile-frameworks-development-services-grid-inner-detail p{font-size: 14px;}
+		.first_level .mobile-frameworks-development-services-grid-detail p{font-size: 14px;}
+		.first_level .page-intro-body .page-button-quote a{font-size: 14px;padding: 10px 46px 10px 20px;}
+		.first_level .page-intro-body .page-button-quote a:before{top: 6px;right: 16px;}
+		.first_level .page-intro-body .page-button-portfolio a{font-size: 14px;padding: 10px 46px 10px 20px;}
+		.first_level .page-intro-body .page-button-portfolio a:before{top: 6px;right: 16px;}
+		.first_level .page-button-hire a{font-size: 14px;padding: 10px 46px 10px 20px;}
+		.first_level .page-button-hire a:before{top: 6px;right: 20px;}
+		.first_level .inner-frameworks .inner-title-detail ul.content-list li{font-size: 14px;line-height: 24px;}
+		.first_level .mobile-frameworks-development-services-grid{margin-top: 20px;}
+		/*common-pages-first-level-css*/
+		/*first-level-page-css*/
+	
+		/*second-level-page-css*/
+		/*common-pages-second-level-css*/
+		.second_level .page-intro-body .page-title{font-size: 28px;}
+		.second_level .page-intro-body .page-title span{font-size: 28px;}
+		.second_level .php-page-title{padding-top: 46px;}
+		.second_level .page-title-detail p{font-size: 14px;line-height: 24px;}
+		.second_level .inner-title span{font-size: 24px;}
+		.second_level .inner-title strong{font-size: 24px;}
+		.second_level .inner-title-detail{margin: 20px auto;}
+		.second_level .inner-title-detail p{font-size: 14px;line-height: 24px;}
+		.second_level .expertise-grid-inner-detail p{font-size: 13px;}
+		.second_level .evince-services .evince-services-title{font-size: 24px;}
+		.second_level .evince-services p{font-size: 14px;line-height: 24px;}
+		.second_level .developers-services-title strong{font-size: 24px;}
+		.second_level .developers-services-title{font-size: 24px;}
+		.second_level .developers-services p{font-size: 14px;line-height: 24px;margin-bottom: 38px;}
+		.second_level .evince-services{margin-top: 0;margin-bottom: 60px;}
+		.second_level .inner-frameworks-grid{margin-top: 60px;}
+		.second_level .inner-database-head{margin-top: 15px;}
+		.second_level .inner-database-grid{margin-top: 45px;}
+		.second_level .developers-services{margin-top: 0;}
+		.second_level .page-intro-body .php-page-title .background-page-title{top: 12px;font-size: 40px;}
+		.second_level .inner-wrap h1::after{margin: 10px 0 0px;}
+		.second_level .page-title-detail{padding-bottom: 20px;}
+		.second_level .page-intro-body .page-button-quote a::before{right: 16px;top: 5px;}
+		.second_level .page-intro-body .page-button-quote a{padding: 8px 46px 8px 20px;font-size: 14px;}
+		.second_level .page-intro-body .page-button-portfolio a{padding: 8px 46px 8px 20px;font-size: 14px;}
+		.second_level .page-intro-body .page-button-portfolio a::before{right: 16px;top: 5px;}
+		.second_level .framework-icon-detail{font-size: 14px;}
+		.second_level .page-button-hire a{font-size: 14px;padding: 10px 46px 10px 20px;}
+		.second_level .page-button-hire a:before{top: 6px;right: 20px;}
+	
+		.page-template-php-development .expertise-head .background-inner-title{font-size: 40px;}
+		.page-template-php-development .expertise-head{margin-bottom: 24px;}
+		.page-template-php-development .expertise-grid-detail strong{font-size: 14px;}
+		.page-template-php-development .developers-services-title{margin-bottom: 24px;}
+		.page-template-php-development .inner-frameworks-head .background-inner-title{font-size:40px;top: -30px;}
+		.page-template-php-development .inner-database-head .background-inner-title{font-size: 40px;}
+		.expertise-grid ul li:hover .expertise-grid-inner-detail,.page-template-cms-development .cms-grid ul li:hover .cms-grid-inner-detail{transform: scale(1.1);-webkit-transform: scale(1.1);-ms-transform: scale(1.1);-moz-transform: scale(1.1);}
+		.page-template-php-development .expertise-info,.page-template-cms-development .expertise-info{padding-top: 6em;}
+		.page-template-cms-development .cms-head .background-inner-title{font-size: 40px;}
+		.page-template-cms-development .cms-head{margin-bottom: 24px;}
+		.page-template-cms-development .cms-grid-detail strong{font-size: 14px;}
+		.page-template-cms-development .developers-services-title,.page-template-ecommerce-platforms .developers-services-title{margin-bottom: 24px;}
+		.page-template-microsoft-services .ms-development-info,.page-template-ecommerce-platforms .expertise-info,.page-template-third-party-integration .expertise-info,.page-template-ui-ux-design-services .expertise-info{padding-top: 4em;padding-bottom: 2em;}
+		.page-template-microsoft-services .ms-development-head .background-inner-title,.page-template-ecommerce-platforms .expertise-head .background-inner-title,.page-template-third-party-integration .expertise-head .background-inner-title{font-size: 40px;}
+		.page-template-microsoft-services .ms-development-head,.page-template-ecommerce-platforms .expertise-head{margin-bottom: 24px;}
+		.page-template-microsoft-services .ms-development-grid-detail strong,.page-template-ecommerce-platforms .expertise-grid-detail strong{font-size: 14px;}
+		.page-template-microsoft-services .developers-services-title{margin-bottom: 24px;}
+		.page-template-microsoft-services .ms-development-intro-image,.page-template-ecommerce-platforms .ms-development-intro-image{padding-top: 0;}
+		.page-template-microsoft-services .ms-development-info .expertise-grid ul,.page-template-ecommerce-platforms .expertise-info .expertise-grid ul{float: none;margin: 0;}
+		.page-template-microsoft-services .ms-development-info .expertise-grid ul li,.page-template-ecommerce-platforms .expertise-info .expertise-grid ul li{float: none;width: 210px;margin: 8px 6px !important;}
+		.page-template-microsoft-services .ms-development .inner-frameworks .background-inner-title,.page-template-ecommerce-platforms .inner-frameworks .inner-frameworks-head  .background-inner-title{font-size: 40px;}   
+		.page-template-microsoft-services .databases-icon-detail,.page-template-ecommerce-platforms .databases-icon-detail{font-size: 14px;}    
+		.page-template-microsoft-services .inner-database .inner-database-head .background-inner-title,.page-template-ecommerce-platforms .inner-database .inner-database-head .background-inner-title{font-size: 40px;top: -30px;}
+		.page-template-third-party-integration .expertise-head .background-inner-title{font-size: 40px;}
+		.page-template-third-party-integration .expertise-head{margin-bottom: 24px;}
+		.page-template-third-party-integration .cms-grid-detail strong{font-size: 14px;}
+		.page-template-third-party-integration .developers-services-title{margin-bottom: 24px;} 
+		.page-template-third-party-integration .ms-development-intro-image{padding-top: 0;}
+		.page-template-third-party-integration .expertise-info .expertise-grid ul{float: none;margin: 0;}
+		.page-template-third-party-integration .expertise-info .expertise-grid ul li{float: none;width: 210px;margin: 8px 6px !important;}
+		.page-template-third-party-integration .inner-frameworks .inner-frameworks-head  .background-inner-title{font-size: 40px;}   
+		.page-template-third-party-integration .databases-icon-detail{font-size: 14px;}    
+		.page-template-third-party-integration .inner-database .inner-database-head .background-inner-title{font-size: 40px;top: -30px;}
+		.page-template-third-party-integration .expertise-head .background-inner-title{font-size: 40px;}
+		.page-template-third-party-integration .expertise-head{margin-bottom: 24px;}
+		.page-template-third-party-integration .cms-grid-detail strong{font-size: 14px;}
+		.page-template-third-party-integration .developers-services-title{margin-bottom: 24px;} 
+		.page-template-third-party-integration .ms-development-intro-image{padding-top: 0;}
+		.page-template-third-party-integration .expertise-info .expertise-grid ul{float: none;margin: 0;}
+		.page-template-third-party-integration .expertise-info .expertise-grid ul li{float: none;width: 210px;margin: 8px 6px !important;}
+		.page-template-third-party-integration .inner-frameworks .inner-frameworks-head  .background-inner-title{font-size: 40px;}   
+		.page-template-third-party-integration .databases-icon-detail{font-size: 14px;}    
+		.page-template-third-party-integration .inner-database .inner-database-head .background-inner-title{font-size: 40px;top: -30px;}
+		/*common-pages-second-level-css*/
+		/*second-level-page-css*/
+	
+		/*third-level-page-css*/
+		.third_level .third-level-page-title .page-title{font-size: 26px;margin-bottom: 5px;}
+		.third_level .section-third-level .page-title-detail p{font-size: 14px;line-height: 24px;}
+		.third_level .section-third-level .page-title-detail p .call-usa{font-size: 14px;}
+		.third_level .third-level-page-info{margin: 30px 0px;}
+		.third_level .third-level-page-development-title h2{font-size:22px!important;margin-bottom: 0;line-height: 28px;}
+		.third_level .third-level-page-development-title h2 span{font-size: 22px;}
+		.third_level .third-level-page-title-detail p{font-size: 14px;line-height: 24px;}
+		.third_level .third-level-page-info .page-button-expert{margin-top: 15px;}
+		.third_level .third-level-page-image{margin: 10px auto 0px;}
+		.third_level .third-level-page-inner .third-level-page-development-title{margin-top: 30px;}
+		.third_level .third-level-page-inner p{font-size: 14px;line-height: 24px;}
+		.third_level .third-level-page-inner .page-button-expert{margin-top: 15px;}
+		.third_level .third-level-page-inner{padding-bottom: 30px;}
+		.third_level .third-level-page-benefits{padding: 30px 0px;}
+		.third_level .third-level-page-benefits-grid-main-title{font-size: 16px;}
+		.third_level .third-level-page-benefits-grid-main p{font-size: 14px;}
+		.third_level .third-level-page-offering-grid .third-level-page-offering-grid-detail{font-size: 15px;}
+		.third_level .third-level-page-offering{padding: 30px 0px;}
+		.third_level .third-level-page-services-detail  ul li{font-size: 14px;}
+		.third_level .third-level-page-services-detail p{font-size: 14px;line-height: 24px;padding: 0;}
+		.third_level .third-level-page-services{padding: 30px 0px;}
+		.third_level .third-level-page-custom-services{padding: 30px 0px;}
+		.third_level .third-level-page-benefits-grid{margin-top: 15px;}
+	
+		/*hire-sitecore-page-css*/
+		.hire-sitecore-services .ecomm_banner.sitecore-banner.hire-sitecore-banner{padding: 30px 0px;}
+		.hire-sitecore-services .sitecore-banner .content_part{width: 100%;padding: 0;}
+		.hire-sitecore-services .sitecore-banner .form_part, .hire-sitecore-banner{overflow-x: hidden;}
+		.hire-sitecore-services .sitecore-banner .form_part{padding: 0;}
+		.hire-sitecore-services .sitecore-banner .ecomm_title h1{font-size: 26px;line-height: 30px;}
+		.sitecore-development-services .ecomm_title h1:after{margin: 15px 0px 10px;}
+		.hire-sitecore-services .ecomm_banner.sitecore-banner.hire-sitecore-banner .main_dev_btn{margin-top: 20px;}
+		.hire-sitecore-services .content_part .main_dev_btn a.add_dev_btn{padding:10px 16px;}
+		.hire-sitecore-services .hero-query-form{margin-top: 25px;}
+		.hire-sitecore-services .sitecore-expertise-section{padding: 30px 0px;}
+		.hire-sitecore-services .sitecore-expertise-section .section-header{margin-bottom: 0;}
+		.hire-sitecore-services .sitecore-expertise-section .section-header h3{margin-bottom: 24px;line-height: 28px;}
+		.hire-sitecore-services .sitecore-expertise-section .section-header p{font-size: 14px;line-height: 24px;margin-bottom: 0;}
+		.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services{padding: 30px 0px 10px;}
+		.hire-sitecore-services .hire-sitecore-services .section-header h3{margin-bottom: 30px;}
+		.hire-sitecore-services .hire-sitecore-services .section-header p{font-size: 14px;line-height: 24px;}
+		.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services .section-header{margin-bottom: 30px;}
+		.hire-sitecore-services .our-sitecore-services-section.hire-sitecore-services .sitecore-services-content .panel-primary>.panel-heading a{min-height: inherit;}
+		.hire-sitecore-services .hire-certified-services{padding-top: 30px;}
+		.hire-sitecore-services .hire-certified-services .services-wrapper .content-section{display: block;margin-top: 20px;margin-bottom: 40px;padding: 0px 15px;}
+		.hire-sitecore-services .hire-certified-services .services-wrapper .content-section span.diff-value{font-size: 18px;margin-bottom: 2px;}
+		.hire-sitecore-services .hire-certified-services .services-wrapper .content-section span{font-size: 15px;line-height: 20px;}
+		.hire-sitecore-services .get_btn_section{margin: 0;}
+		.hire-sitecore-services .get_btn_section a.add_dev_btn{margin-bottom: 0;font-size: 14px;padding: 10px 26px 8px;}
+		.hire-sitecore-services .get_btn_section a.add_dev_btn:after{margin-top: 3.5px;}
+		.hire-sitecore-services .hire-certified-services .services-wrapper:after{display: none;}
+		.hire-sitecore-services.testimonials-space-reduce .testimonials-slider{padding-bottom: 30px;}
+		/*hire-sitecore-page-css*/
+		/*third-level-page-css*/
+	
+		.m-top-150 {margin-top: 0px !important;}
+		/*portfolio-design-changes*/
+		.web_portfolio_details .portfolio-web-detail-inner{padding-top: 30px;}
+		.web_portfolio_details .portfolio-web-detail-inner h1{font-size: 24px;}
+		.web_portfolio_details .portfolio-web-detail-inner p {font-size: 14px;line-height: 24px;}
+		.web_portfolio_details .portfolio-detail-web-section .services-offered-for{padding: 10px 15px;margin-bottom: 30px;}
+		.web_portfolio_details .real-time-list li{font-size: 14px;line-height: 24px;}
+		.web_portfolio_details .real-time-list-main button{font-size: 14px;padding: 12px 32px;}
+		.web_portfolio_details .portfolio-web-middle-section{padding: 30px 0px;}
+		.web_portfolio_details .services-offered-for ul li .build-for-title{font-size: 16px;}
+		.web_portfolio_details .services-offered-for ul li .build-detail{font-size: 18px;}
+		.web_portfolio_details .portfolio-web-middle-section-detail p{padding-top: 15px;line-height: 24px;font-size: 14px;}
+		.web_portfolio_details .free-quote-section h4{font-size: 14px;line-height: 24px;}
+		.web_portfolio_details .free-quote-section .free-quote-btn a, .detailed-case-study button{padding: 10px 26px;font-size: 14px;}
+		.detailed-case-study button{margin-top:20px; margin-left:0px;}
+		.web_portfolio_details .portfolio-web-bottom-section{padding: 90px 0 0 0;}
+		.web_portfolio_details .free-quote-section{margin-top: -290px;}
+		.web_portfolio_details .portfolio-web-bottom-left{padding: 30px 0px;}
+		.web_portfolio_details .portfolio-web-bottom-left p{font-size: 14px;line-height: 24px;}
+		.web_portfolio_details .portfolio-web-bottom-left p{margin-bottom: 30px;}
+		.web_portfolio_details .portfolio-web-bottom-left .page-button-case-study a{font-size: 14px;padding:10px 20px;}
+		.web_portfolio_details .portfolio-web-bottom-section .bottom-port-bg{min-height: auto;}
+		.web_portfolio_details .lets-talk-section p{font-size: 14px;line-height: 24px;}
+		.web_portfolio_details .lets-talk-section{padding: 30px 0 5px 0;}
+		.web_portfolio_details .lets-talk-section .free-quote-btn a{font-size: 14px;padding: 10px 26px;}
+		.web_portfolio_details .portfolio-detail-web-section .services-offered-for{padding: 0px 15px;}
+		.web_portfolio_details .services-offered-for .build-for{font-size: 18px;}
+		.web_portfolio_details .web_portfolio_details .services-offered-for ul li .build-for-title{font-size: 14px;}
+		.web_portfolio_details .web_portfolio_details .services-offered-for ul li .build-detail{font-size: 16px;}
+		/*portfolio-design-changes*/
+	
+		/*Industries-design-changes*/
+		/*transportation-logistics-design-changes*/
+		.page-template-transportation-logistics-solutions .hero-top-section h1{font-size: 26px;line-height: 30px;}
+		.page-template-transportation-logistics-solutions .hero-top-section p{font-size: 14px;padding: 10px 0 18px 0px;line-height: 24px;}
+		.page-template-transportation-logistics-solutions .hero-banner-main{padding: 30px 0 30px 0!important;}
+		.page-template-transportation-logistics-solutions .development-title-web h3{line-height: 28px;font-size: 24px;}
+		.page-template-transportation-logistics-solutions .automation-business-services{padding: 30px 0px 0px;}
+		.page-template-transportation-logistics-solutions .automation-business-services-inner .development-title-web p{padding: 15px 0 20px 0;line-height: 24px;font-size: 14px;}
+		.page-template-transportation-logistics-solutions .automation-business-head p{margin-bottom: 15px;font-size: 14px;line-height: 24px;}
+		.page-template-transportation-logistics-solutions .automation-background-bg{height: auto!important;}
+		.page-template-transportation-logistics-solutions .automation-business-right{padding: 30px 0px;}
+		.page-template-transportation-logistics-solutions .automation-business-right p{padding: 15px 0 10px 0;font-size: 14px;line-height: 24px;}
+		.page-template-transportation-logistics-solutions .automation-business-right ul{margin: 0;}
+		.page-template-transportation-logistics-solutions .management-services-include{padding-top: 10px;}
+		.page-template-transportation-logistics-solutions .management-services-grid-wrap{padding-bottom: 0;}
+		.page-template-transportation-logistics-solutions .development-testimonials-section .clutch-widget{margin: 30px auto 10px;}
+		.page-template-transportation-logistics-solutions .why-evince-section-main{padding: 30px 0px;}
+		.page-template-transportation-logistics-solutions .why-evince-section-main .development-title-web{margin-bottom: 20px;}
+		.page-template-transportation-logistics-solutions .hire-developer-section .development-title-web p{padding: 15px 0px 5px;line-height: 24px;font-size: 14px;}
+		/*transportation-logistics-design-changes*/
+	
+		/*industries-common-pages-design-changes*/
+		.industry_pages .page-banner-logistics-inner .banner-text>h1{font-size: 28px;}
+		.industry_pages .page-banner-logistics-inner .banner-text>p{font-size: 14px;line-height: 24px;}
+		.industry_pages .banner-page-button>a{padding: 10px 26px;display: inline-block;font-size: 14px;}
+		.industry_pages .banner-page-button{margin-top: 20px;}
+		.industry_pages .page-banner-logistics-inner{top: 46%;}
+		.industry_pages .page-banner-logistics-detail .logistics-top-detail{font-size: 16px;}
+		.industry_pages .page-banner-logistics-detail>p{font-size: 14px;line-height: 24px;}
+		.industry_pages .page-banner-logistics-detail{padding: 30px 14px 0px;}
+		.industry_pages .page-banner-logistics-grid ul li>p{font-size: 16px;}
+		.industry_pages .section-main-title h3{font-size: 24px;margin-bottom: 24px;}
+		.industry_pages .section-main-title .diff_text{font-size: 24px;}
+		.industry_pages .have-project-inner h4{font-size: 24px;}
+		.industry_pages .section-main-title{margin-bottom: 0;}
+		.industry_pages .lets-talk-button>a{padding: 10px 26px;font-size: 14px;}
+		.industry_pages .have-project-section-main .have-project-inner{padding: 30px 0px;}
+		.industry_pages .logistics-services{margin-top: -40px;}
+		.industry_pages .logistics-services-deatil p{font-size: 16px;}
+		.industry_pages .logistics-services{padding-bottom: 0px;}
+		/*industries-common-pages-design-changes*/
+		/*Industries-design-changes*/
+	
+		/*case-study-design-changes*/
+		.page-template-case-study .page-banner-overview .banner-text h1{font-size: 28px;}
+		.page-template-case-study .page-banner-overview .banner-text{margin: 66px auto;}
+		.page-template-case-study .page-banner-overview .banner-text p{font-size: 14px;line-height: 24px;margin-bottom: 0;}
+		.page-template-case-study .page-banner-overview .overview-page-button{margin-top: 20px;}
+		.page-template-case-study .page-banner-overview .overview-page-button a{padding: 10px 26px 10px 26px;}
+		.page-template-case-study .page-inners .tagline-text p{line-height: 24px;font-size: 14px;}
+		.page-template-case-study .page-inners .section-main{padding: 10px 0 30px;}
+		.page-template-case-study .sucess-story .grid-item .story-title{font-size: 18px;}
+		/*case-study-design-changes*/
+	
+		.partners-block .content-part .desc{font-size: 14px;}
+		.m-top-120{margin-top:0px !important;}
+		.partners-info-wrapper{padding:40px 0px !important;}
+		.partners-info-wrapper .section-header{margin-bottom:30px}
+	
+		/*carreer-page-design-changes*/
+		.career-img{margin-top: 20px;}
+		 /*carreer-page-design-changes*/
+		 
+	
+		 /*Modal-box-in-location*/
+		  .connect-popup .modal-title{font-size: 14px;line-height: 20px;}
+		 /*Modal-box-in-location*/
+	
+		 /*web-development-company-page*/
+		   .web-development-company-banner .page-intro-body .page-title{font-size: 22px;}
+		   .web-development-company-banner .hero-dev-page-title p{font-size: 16px;}
+		   .web-development-company-page .lifecycle-mobile-wrap h4{font-size: 18px;}
+		   .web-development-company-banner ul.list-points li{font-size: 14px;}
+		   .web-development-company-services  .heading_title h2 {color: #2a2c31;font-size: 22px;text-transform: none;font-weight: 800;line-height: 26px;}
+			.web-development-company-services .heading_title p{font-size: 17px;}
+			.services-section-main.web-company-services .heading_title h3{font-size: 17px;}
+			.services-section-main.web-company-services .heading_title p{font-size: 22px;line-height: 26px;}
+			.web-development-company-page .hire-developer-section{padding: 30px 0px 0px;}
+			.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.microsoft-sql-server-analysis{background-position: -215px -727px;width: 167px;height: 65px;background-size: auto 1050px;}
+			.web-development-company-page .dev-lifecycle-section .development-title-web h3{font-size: 22px;line-height: 26px;}
+			.web-development-company-page .hire-developer-section .development-title-web p {padding-bottom: 10px;}
+			.web-development-company-page ul.list-points{margin-bottom: 30px;}
+			.web-development-company-banner .hero-dev-page-title{margin-top: 0;}
+			.web-development-company-page .development-title-web h3 {
+		font-size: 22px;
+		line-height: 26px;
+	}
+			.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.microsoft-crm {
+		background-position: -6px -88px;
+		width: 128px;
+		height: 50px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.microsoft-nav {
+		background-position: -162px -88px;
+		width: 130px;
+		height: 50px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.share-point {
+		background-position: -620px -88px;
+		width: 140px;
+		height: 36px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.os-commerce {
+		width: 140px;
+		height: 33px;
+		background-position: -461px -259px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.big-commerce {
+		width: 140px;
+		height: 39px;
+		background-position: -619px -264px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.windows {
+		background-position: -26px -440px;
+		width: 130px;
+		height: 54px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.phone-gap {
+		background-position: -197px -442px;
+		width: 125px;
+		height: 54px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.sql-server {
+		background-position: -633px -449px;
+		width: 145px;
+		height: 47px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.oracle {
+		background-position: -377px -531px;
+		width: 140px;
+		height: 34px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.crystal-report {
+		background-position: -715px -598px;
+		width: 140px;
+		height: 66px;
+		background-size: auto 1000px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.telerik {
+		background-position: -35px -738px;
+		width: 144px;
+		height: 42px;
+		background-size: auto 1050px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.microsoft-sql-server-reporting {
+		background-position: -452px -502px;
+		width: 144px;
+		height: 65px;
+		background-size: auto 860px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.microsoft-sql-server-analysis {
+		background-position: -171px -594px;
+		width: 140px;
+		height: 65px;
+		background-size: auto 860px;
+	}
+	.technology-stack-section.web-development-stack-section .technology-stack-lists ul li a span.icon-section.xaml {
+		background-position: -668px -724px;
+		width: 157px;
+		height: 40px;
+		background-size: auto 1050px;
+	}
+	/*web-development-company-page*/
+	
+	/*web-development-services*/
+	.web-development-service-page .web-development-company-banner{min-height: 400px;}
+	.web-development-service-page .banner_content_wrapper{width: auto;}
+	.web-development-service-page .page-intro-body{left: 0;transform: translateY(-50%);}
+	.web-development-company-banner .hero-dev-page-title .page-title{margin-bottom: 15px;}
+	.web-development-service-page .web-development-company-banner .hero-dev-page-title p{font-size: 15px;line-height: 24px;margin-bottom: 30px;}
+	.web-development-service-page .banner_content_wrapper .hero-action-btn .btn-default-section a:after{right: 12px;top: 10px;}
+	.web-development-service-page .banner_content_wrapper .hero-action-btn a{padding: 8px 36px 8px 12px!important;font-size: 12px;}
+	.development-services-detail{padding: 30px 0px;}
+	.hero-action-btn .btn-default-section a:after{right: 12px;top: 11px;}
+	.hero-action-btn .btn-default-section a{padding: 8px 36px 8px 12px!important;font-size: 12px;}
+	.development-services-detail{padding: 30px 0px;}
+	.main_heading_section .heading_sub_title{    font-size: 17px;    margin-bottom: 0px;}
+	.main_heading_section .heading_title{font-size: 22px;line-height: 26px;}
+	.development-services-detail p{font-size: 14px;line-height: 26px;}
+	.development-services-detail .heading_title{margin-bottom: 15px;}
+	.development-services-detail p:last-child{margin-bottom:0;}
+	.web-design-development-services .page-template-web-development  .main_heading_section .heading_sub_title{
+		font-size: 17px;
+		line-height: 24px;
+		padding: 0;
+		margin-bottom: 0px;	
+	}
+	.web-design-development-services .web-design-development-services-grid{margin-top: 10px;}
+	.web-design-development-services .development-service-grid-wrapper h4{font-size: 16px;    width: 70%;}
+	.web-design-development-services .development-service-grid-wrapper p{font-size: 14px;line-height: 24px;}
+	.web-design-development-services{padding: 0px 0px 30px;}
+	.page-template-web-development .inovative-development-lifecycle .main_heading_section .heading_sub_title{font-size: 17px;
+		line-height: 24px;
+		padding: 0;
+		margin-bottom: 0px;}
+	.page-template-web-development .inovative-development-lifecycle .main_heading_section .heading_title{font-size: 22px;line-height: 26px;}
+	.inovative-development-lifecycle ul.lifecycle-process-section:before{display: none;}
+	.inovative-development-lifecycle li.lifecycle-process-step{margin-bottom: 150px;width: 100%;}
+	.inovative-development-lifecycle .inner-content-detail-text{margin-top: 65px;}
+	.inovative-development-lifecycle .inner-content-detail-text p{font-size: 14px;}
+	.inovative-development-lifecycle ul.lifecycle-process-section{margin-top: 50px;}
+	.inovative-development-lifecycle h3.title{font-size: 16px;margin-top: 0;}
+	.inovative-development-lifecycle .inner-content-detail-text{opacity: 1;}
+	.inovative-development-lifecycle{    padding: 30px 0px 120px;}
+	.inovative-development-lifecycle li.lifecycle-process-step:last-child{margin-bottom: 20px;width: 50%;text-align: center;margin: 0 auto 20px;float: none;}
+	.inovative-development-lifecycle .lifecycle-process-step-open.active .inner-content-detail-text{opacity: 1;}
+	.web-development-service-page .page-template-web-development .development-title-web h3{font-size: 22px;}
+	.page-template-web-development .web-design-development-services .main_heading_section .heading_sub_title {
+		font-size: 17px;
+		line-height: 24px;
+		padding: 0;
+		margin-bottom: 0px;
+	}
+	.web-design-development-services .development-service-grid-wrapper{padding: 25px 20px;}
+	.web-design-development-services .web-design-development-services-grid.flex-container .row .col{    flex: 1 1 51%;
+		max-width: 100%;}
+	 .page-template-web-development .hire-developer-section{padding-top: 0;}
+	 .page-template-web-development  .web-development-service-page .development-testimonials-section .clutch-widget{margin-bottom: 0;}
+	 .web-design-development-services .web-design-development-services-grid.flex-container .row .col{margin-top: 15px;}
+	 .hero-banner-main.web-development-company-banner .page-intro-body .row{margin: 0;}
+	 .inovative-development-lifecycle .inner-content-text:before{border-color: #60b884;background: #23252c;}
+	 .inovative-development-lifecycle .lifecycle-process-step span.icon-section.design-icon:before{background-position: -716px 0;}
+	 .inovative-development-lifecycle h3.title{color: #fff!important;}
+	 .inovative-development-lifecycle .lifecycle-process-step span.icon-section.development-icon:before{background-position: -828px 0;}
+	 .inovative-development-lifecycle .lifecycle-process-step span.icon-section.integration-icon:before{background-position: -959px 0;}
+	 .inovative-development-lifecycle .lifecycle-process-step span.icon-section.support-icon:before{background-position: -1074px 0;}
+	 .inovative-development-lifecycle .inner-content-text:after{background:#fff;}
+	 .page-template-web-development .web-development-service-page .development-testimonials-section.mobile-client-testimonials{margin-bottom: 0;}
+	 .page-template-web-development .hire-transport-button.primary-btn-section a{border-radius: 99em;font-size: 14px;padding:12px 50px 12px 27px;}
+	 .page-template-web-development .hire-transport-button.primary-btn-section a:after{right: 22px;top: 23px;}
+	 .hire-transport-button.primary-btn-section a{border-radius: 99em;font-size: 14px;padding:12px 50px 12px 27px;}
+	 .hire-transport-button.primary-btn-section a:after{right: 22px;top: 23px;}
+	/*web-development-services*/
+	
+	/*mobile-app-devlopement-services*/
+	.mobile_app_development_services .development-services-detail .heading_title{margin-bottom: 0;}
+	.mobile_app_development_services .main_heading_section .heading_sub_title{margin-bottom: 5px;}
+	.mobile_app_development_services .main_heading_section{margin-bottom: 15px;}
+	.mobile_app_development_services .web-design-development-services-inner .main_heading_section{margin-bottom: 15px;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle ul.lifecycle-process-section{margin-bottom: 15px;}
+	.page-template-mobile-application-development .mobile_porfolio_content_inside .section-heading-title h3{font-size: 22px;line-height: 26px;}
+	.page-template-mobile-application-development .app_banner.web-development-company-banner{background-position: 74% 0!important;}
+	.page-template-mobile-application-development .hero-action-btn .hero-button-quote{margin-right: 6px!important;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle .lifecycle-process-step span.icon-section.discover-icon:before{background-position: -603px 0;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle .lifecycle-process-step span.icon-section.design-icon:before{background-position: -716px 0;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle .lifecycle-process-step span.icon-section.build-icon:before{background-position: -828px 0;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle .lifecycle-process-step span.icon-section.scale-icon:before{background-position: -960px 0;}
+	.inovative-development-lifecycle.mobile-app-development-lifecycle .lifecycle-process-step span.icon-section.support-icon:before{background-position: -1077px 0;}
+	/*mobile-app-devlopement-services*/
+	
+	/*sitecore-development-services*/
+	.sitecore-development-services-page .ecomm_banner:after{display: none;}
+	.sitecore-development-services-page .main_heading_section .heading_sub_title {font-size: 16px;}
+	.sitecore-development-services-page .main_heading_section .heading_title{font-size: 22px;line-height: 24px;}
+	.transform-services-section p{font-size: 14px;line-height: 24px;}
+	.transform-services-section .main_heading_section,.sitecore-development-services .main_heading_section{margin-bottom: 15px;}
+	.transform-services-section .trasnform-list-section{margin-top: 25px;}
+	.transform-services-section .trasnform-list-section .mob-service-list{width: 100%;}
+	.transform-services-section .trasnform-list-section.flex-container .row{margin: 0;}
+	.transform-services-section .service-icon{margin-left: -20px;}
+	.transform-services-section .shadow-box{margin-right: 0;}
+	.transform-services-section{padding-bottom: 30px;}
+	.sitecore-development-services-page .hire_developer_sec .section-header h3{font-size: 22px;}
+	.sitecore-development-services-page .hire_developer_sec .hire_dev_content p{    margin-top: 10px;
+		display: inline-block;
+		margin-bottom: 10px;}
+	.testimonials-slider .section-header h3{font-size: 22px;}
+	.testimonials-space-reduce.testimonials-space-reduce .testimonials-slider{padding-bottom: 0;}
+	.web-development-service-page.sitecore-development-services-page .web-development-company-banner{background-position: 86% 0%!important;}
+	.sitecore-development-services-page .hire_developer_sec{    padding: 5% 0px;}
+	.sitecore-development-services-page .hire_developer_sec .hire_dev_content p{font-size: 14px;line-height:24px;width: 100%;}
+	/*sitecore-development-services*/
+	
+	/*hire-sitecore-development-page*/
+	.inovative-development-lifecycle.hire-sitecore-development-lifecycle li.lifecycle-process-step{padding: 0px 15px;}
+	.inovative-development-lifecycle.hire-sitecore-development-lifecycle li.lifecycle-process-step:nth-child(2n+1) {clear: both;}
+	.hire-sitecore-development-lifecycle.hire-sitecore-development-lifecycle .lifecycle-process-step span.icon-section.discussion-icon:before{background-position: -690px 0;}
+	.hire-sitecore-development-lifecycle.hire-sitecore-development-lifecycle .lifecycle-process-step span.icon-section.project-icon:before{background-position: -828px 0;}
+	.hire-sitecore-development-lifecycle.hire-sitecore-development-lifecycle .lifecycle-process-step span.icon-section.approval-icon:before{background-position: -957px 0;}
+	.hire-sitecore-development-lifecycle.hire-sitecore-development-lifecycle .lifecycle-process-step span.icon-section.contract-icon:before{background-position: -1099px 0;}
+	.hire-sitecore-development-lifecycle.hire-sitecore-development-lifecycle .lifecycle-process-step span.icon-section.delivery-icon:before{background-position: -1226px 0;}
+	/*hire-sitecore-development-page*/
+	.contact_page_wrapper .hero__banner .banner-text h1 {font-size: 2.7rem;padding: 0 17px;line-height: 1.3;}
+	.contact_page_wrapper .hero__banner .banner-text .small_text{font-size:0.70em;}
+	.contact_page_wrapper .btn-primary-large{ height: 66px;line-height: 66px;font-size: 16px;}
+	.form__wrapper .heading-h3{font-size: 2.5rem;    padding: 30px 0;}
+	.contact_page_wrapper .btn-primary-large {height: 56px;line-height: 56px;font-size: 13px;padding: 0 90px 0 26px;}
+	.contact_page_wrapper .btn-primary-large:after{height:40px; width:40px;top: 8px; background-position:10px 13px}
+	.seprator-text span:before{left:auto;    width: 34vw;right: 12vw;}
+	.seprator-text span:after{right:auto;    width: 34vw;left: 12vw;}
+	.form__wrapper .heading-h3 span{font-size: 4rem;}
+	.contact_page_wrapper .btn-primary-large{margin-top: 3em;margin-bottom: 3em;}
+	.form__wrapper{padding:20px;}
+	.form__wrapper .heading-h3{line-height:28px;font-size: 2rem;}
+	.form__wrapper .heading-h3 span {font-size: 3rem;}
+	.form__wrapper .heading-h3 sup {font-size: 20px;}
+	.form__wrapper .upd-contact-form{padding:0px; width:100%}
+	.form__wrapper .container{padding:0px;}
+	.form__wrapper .contact-form-field .form-field-top .upd-field-info{width:100%; padding:0px;}
+	.form__wrapper .upd-for-req{width:100%;}
+	.form__wrapper .upd-for-req .upd-requ{padding-left:0px;}
+	.form__wrapper .upd-for-req fieldset.inq-services-fieldset{padding:0px;}
+	.form__wrapper .inqury-check-box span.wpcf7-list-item{margin-bottom:5px;}
+	.corpo-section .corpo-details{border-right:0px !important; border-bottom:0px;}
+	.contact_page_wrapper .hero__banner{height:490px; min-height:inherit}
+	.form__wrapper{margin-top: -70px;}
+	.contact_page_wrapper .hero__banner .banner-text{    position: static;top: 0;text-align: center;width: 100%;left: 0;transform: none;margin-top: 120px}
+	.contact_page_wrapper .btn-primary-large{margin-bottom:2em}
+	.form__wrapper .form-field-bottom{padding:0px;}
+	/*CSS for join-us-page*/
+	.campus-drive-section{padding: 30px 0px 60px;}
+	.page-template-join-us .campus-drive-section .section-main-title h3 span.diff_text,.page-template-join-us .campus-drive-section .section-main-title h3{font-size: 26px;}
+	.about-campus-drive p{    font-size: 14px;
+    line-height: 24px;width: 100%;}
+    .page-template-join-us .campus-drive-section .section-main-title{margin-bottom: 0;}
+    .campus-drive-section .animation_button a:before{    background: #49cc84 url(../images/homepage/arrow-icons.png) 10px -70px no-repeat;    width: 35px;
+    height: 35px;}
+    .about-campus-drive .animation_button a{    font-size: 14px;    padding-left: 45px;
+    padding-right: 16px;    padding-top: 0px;}
+    .about-campus-drive .link-text.animation_button{margin-top: 20px;}
+	.services-grid-wrapper .card-grid-wrapper .grid-item{flex: 0 0 100%; max-width:100%; margin-bottom:20px;}
+	.form__wrapper .inqury-check-box.nda-checkbox span.wpcf7-list-item {margin-left: 0;}
+	.form__wrapper .upd-submit{text-align: left; margin-left:0px;}
+	/*contact-form-design-changes*/
+	.form__wrapper .heading-h3{padding: 0;}
+	.form__wrapper .heading-h3{font-size: 16px;line-height: 30px;}
+	.form__wrapper .heading-h3 span{font-size: 18px;}
+	.form__wrapper .upd-contact-form .contact-form-field{padding: 0;}
+	.contact-form-field .form-field-top .upd-field-info input{font-size: 13px;}
+	.page-template-connect .form-field-bottom .upd-field-info select{font-size: 13px;}
+	.form-field-bottom textarea{font-size: 13px;height: 75px !important;}
+	.page-template-connect .upload-file span.file-displbl{font-size: 13px;}
+	.nda-checkbox.inqury-check-box label{font-size: 13px;}
+	.upd-for-req{margin-top: 0;}
+	.inqury-check-box .corpo-title h2{font-size: 16px;}
+	.form__wrapper .inqury-check-box span.wpcf7-list-item{margin-bottom: 0;}
+	.form__wrapper .inqury-check-box span.wpcf7-list-item label{font-size: 13px;}
+	.form__wrapper .upd-for-req fieldset.inq-services-fieldset{padding-bottom: 15px;}
+	.upd-for-req .corpo-title{margin-bottom: 20px;}
+	.page-template-connect #contact-top .captcha-man{margin:20px 0 0;padding: 0;}
+	.form__wrapper .upd-submit{    width: 100%;padding: 0;}
+	.form__wrapper .upd-submit input{    padding: 12px 30px;    font-size: 14px;}
+	.form__wrapper .help-msg{    margin-top: 15px;    width: 100%;
+    text-align: left;}
+    .page-template-connect #contact-top {padding-bottom: 5px;}
+    .form-field-bottom .upload-file{    margin: 10px 0 15px 0;}
+    .upd-contact-form{    min-height: 490px;}
+	/*contact-form-design-changes*/
+	/*web-design-services-page*/
+	.our_loactions_services .location_inner-details ul li{    width: 49%;    margin-bottom: 20px;}
+	.our_loactions_services .location_inner-details ul li a .img_section{    height: 140px;}
+	.our_loactions_services .location_inner-details ul li:nth-child(4n+1){margin-left: 2%;}
+	.our_loactions_services .location_inner-details ul li:nth-child(2n+1){margin-left: 0;}
+	.our_loactions_services .location_inner-details ul li a .location_title{    margin-top: 12px;    font-size: 16px;}
+	.page-template-ecommerce-web-development .our_loactions_services .section-header{    margin-bottom: 45px;}
+	.page-template-ecommerce-web-development .our_loactions_services .section-header h3{    font-size: 24px;}
+	.page-template-ecommerce-web-development .our_loactions_services {padding: 10px 0px 20px;}
+    .page-template-website-design .inner-wrap .our_loactions_services .location_inner-details ul li{margin: 0!important;    width: 49%;    margin-bottom: 20px!important;    margin-left: 2%!important;padding: 0;}
+    .page-template-website-design .inner-wrap .our_loactions_services .location_inner-details ul li:nth-child(2n+1) {    margin-left: 0!important;}
+    .page-template-website-design .our_loactions_services {padding: 30px 0px 0px;}
+    .page-template-mobile-application-development .hire_developer{    padding-bottom: 50px;}
+    .page-template-mobile-application-development .our_loactions_services .section-header h3{    font-size: 24px;}
+    .page-template-mobile-application-development .our_loactions_services .section-header{    margin-bottom: 50px;}
+	/*web-design-services-page*/
+	
+	.form__wrapper div.wpcf7 .upd-submit .ajax-loader {top: 11px;right: 0;}
+	#contact-us .offer.nda-checkbox.inqury-check-box {padding-left: 0;margin-bottom: 14px;padding-top: 10px;}
+	.form__wrapper .inqury-check-box.nda-checkbox .wpcf7-list-item > label > input[type=checkbox] + span{width: auto; height:auto; border:0px;}
+	.form__wrapper .inqury-check-box.nda-checkbox .wpcf7-list-item > label > input[type=checkbox] + span:after{opacity:1;border: 1px solid #d8d8d8; background-color: transparent; background-image: none;}
+	.form__wrapper .inqury-check-box.nda-checkbox span.wpcf7-list-item{width:100%}
+    .form__wrapper .inqury-check-box.nda-checkbox .wpcf7-list-item > label > input[type=checkbox] + span {width: calc(100% - 20px);height: auto;border: 0px;white-space: normal;padding-left: 17px;text-indent: 0px;position: static;}
+    .form__wrapper .inqury-check-box.nda-checkbox .wpcf7-list-item > label > input[type=checkbox]:checked + span:after{    background-image: url(../images/contact-us/ck-arrow.png);    background-color: #3cb87a;}
+    .topBanner-section .caption-content h1{text-align: center;}
+	#hero_parallax .hero-action-btn{text-align: center !important}
+	.topBanner-section .caption-content h1 br{display: none;}
+	.web-development-company-banner .hero-dev-page-title{text-align: center;}
+	.hero-action-btn{text-align: center !important}
+	.web-development-service-page .banner_content_wrapper{width:100%;}
+	.web-development-service-page .page-intro-body{width:100%}
+	.newslatter-popup-sub h1{font-size:1.7em;}
+	.newslatter-popup-sub .pop-content{font-size:1em;}
+	.newslatter-popup-sub input[type="submit"]{font-size: 1.2em;}
+	.section-header .section-header-desc{    font-size: 15px;line-height: 22px; max-width:100%;}
+	.services-grid-wrapper.seprator-space {padding-top: 40px;}
+	.services-grid-wrapper .card-grid-wrapper .service-text{font-size:15px;}
+	.full-stack-development-page .heading-h4{font-size:1.6em}
+	.term-greece .banner-section h1 {width: 200px;}
+	.hero-button-phone {margin-left:8px;}
+	.eBook-marijuwana-page .content_detail .blockquote {font-size: 17px;padding: 20px 20px;}
+	.eBook-marijuwana-page .conten-wrapper p{    font-size: 16px;}
+	.eBook-marijuwana-page .conten-wrapper .btn-primary{font-size:16px;    padding: 12px 33px; margin-bottom:0px;}
+	.eBook-marijuwana-page .conten-wrapper h4, .eBook-marijuwana-page .main_heading_section .heading_title{    font-size: 28px;line-height: 36px;}
+	.eBook-marijuwana-page .web-development-company-banner .page-intro-body .page-title {font-size: 19px;}
+	.eBook-marijuwana-page .web-development-company-banner .hero-dev-page-title p{width:100%;}
+	.eBook-marijuwana-page .content_detail .ul-listing li {padding: 10px 0;font-size: 16px;position: relative;padding-left: 35px;}
+	.eBook-marijuwana-page .content_detail .ul-listing li:before{    left: 10px;top: 15px;background-size: cover;width: 16px;height: 16px;}
+	/**/
+	.facts-figure-wrapper .content__wrapper ul li{width:100%; max-width:100%;margin-bottom: 5%; margin-right:0px;}
+	.work-philosophy-top{    transform: scale(0.7);
+    margin: 0 auto 0px;}
+	.hero_banner p.highlight-tagline{font-size:14px}
+	.hero_banner p.highlight-tagline span {font-size:15px;}
+	#features-slider .owl-nav{transform: translateX(-107%);}
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for{text-align: center}
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for ul{display: inline-block;}
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for ul li{padding-right: 20px;    margin-right: 20px;}
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for ul li:last-child{margin-right:0px; padding-right:0px;}
+	.tp-bgimg.defaultimg {background: #fff !important;}
+	.web-design-development-services.mean_mern_development-services .web-design-development-services-grid.flex-container .row .col {
+		max-width: 100%;
+		flex: 0 0 100%;
+	}
+}
+	/* iPhone Landscape */
+	@media screen and (min-width:640px) and (max-width:767px){
+		.hero-button-phone {margin-left: 7px;}
+		.upd-for-req .inqury-check-box{min-height:inherit}
+	/*ecommerce-web-development-city-pages*/
+	.ecommerce-dev-city-base .section_works .figure-image{width: 80%;}
+	.ecommerce-dev-city-base .whychoose_us_sec{padding: 4% 0px 0%;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .image-section{width: 16%;}
+	.eCommerce-services-offer-section .ecommerce-content-wrapper .content-section{width: 84%;}
+	.ecommerce-dev-city-base .why_choose_us_section  .whychoose_us_features ul li{min-height: 110px;margin-bottom: 20px;}
+	.eCommerce-services-offer-section .eCommerce-service-section{margin-bottom: 40px;}
+	/*ecommerce-web-development-city-pages*/
+	
+	/*web-design-city-pages*/
+	.eCommerce-services-offer-section.web-design-services-offer-section .eCommerce-service-section{margin-bottom: 40px;}
+	/*web-design-city-pages*/
+	/*react-native-app-development*/
+	
+	.react-native-app-development.why_choose_us_section .whychoose_us_sec{padding: 5% 0;}
+	.why_choose_us_section .whychoose_us_sec{padding: 4% 0% 0%;}
+	/*react-native-app-development*/
+	
+	.internet-marketing-page  .whychoose_us_features ul li{min-height: 171px;}
+	
+	/*second-level-page-css*/
+	/*php-web-development-services*/
+	.page-template-php-development .expertise-grid ul li{float: none;}
+	.page-template-php-development .expertise-grid ul li:nth-child(5n){margin-left: 0!important;margin: 8px 6px !important;}
+	/*php-web-development-services*/
+	/*second-level-page-css*/
+	
+	/*portfolio-design-changes*/
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for{float: left;width: 100%;}
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for ul li{margin-right: 13px;width: auto;}
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for ul{margin:0;padding: 0;}
+	.web_portfolio_details .services-offered-for ul li i{margin-right: 15px;}
+	.web_portfolio_details .portfolio-detail-web-section .services-offered-for{padding: 0px 12px;}
+	.web_portfolio_details .free-quote-section{margin-top: -275px;}
+	/*portfolio-design-changes*/
+	
+	
+	/*industries-common-pages-design-changes*/
+	.industry_pages .page-banner-logistics{height: 314px;}
+	.industry_pages .page-banner-logistics-grid ul li{margin-right: 10px;}
+	.industry_pages .page-banner-logistics-grid ul li:nth-child(3n){margin-right: 10px;}
+	.industry_pages .logistics-services-inner ul li{margin-right: 10px;}
+	.industry_pages .logistics-services-inner ul li:nth-child(4n){margin-right: 10px;}
+	/*industries-common-pages-design-changes*/
+	
+	/*hire-sitecore-page-css*/
+	.service-section-in-mobile{float: left;width: 33.3%;}
+	.hire-sitecore-services .hire-certified-services .services-wrapper:after{display: block;}
+	/*hire-sitecore-page-css*/
+	
+	/*web-development-services*/
+	.web-development-service-page .web-development-company-banner{min-height: 285px;}
+	.web-development-service-page .banner_content_wrapper{width:100%;}
+	.web-design-development-services .flex-container .row .col{width: 49.9%!important;}
+	.web-design-development-services .development-service-grid-wrapper h4{width: 70%;}
+	.web-design-development-services .web-design-development-services-grid.flex-container .row .col{    flex: 1 1 45%;
+		max-width: 49.9%;}
+	.inovative-development-lifecycle li.lifecycle-process-step{width: 50%;margin-bottom: 20px;}
+	.inovative-development-lifecycle .inner-content-detail-text{position: relative;}
+	.inovative-development-lifecycle ul.lifecycle-process-section{width: 100%;float: left;margin-top: 20px;}
+	.web-design-development-services .web-design-development-services-grid.flex-container .row .col{padding: 0px 10px;}
+	.web-design-development-services .web-design-development-services-grid.flex-container .row .col{margin-top: 10px;    padding: 0px 5px;}
+	.web-design-development-services .flex-container .row{    margin: 0 auto;}
+	.inovative-development-lifecycle{padding: 30px 0px 20px;}
+	/*web-development-services*/
+	
+	/*mobile-app-devlopement-services*/
+	.web-design-development-services-grid .col-sm-4.col.last_row_section {
+		margin: 0 auto;
+	}
+	.web-design-development-services.mobile-development-services .col-sm-4.col.last_row_section .development-service-grid-wrapper .development-services-grid-icon{margin-bottom: 0;}
+	.web-design-development-services.mobile-development-services .col-sm-4.col.last_row_section .development-service-grid-wrapper{padding: 15px 20px;}
+	/*mobile-app-devlopement-services*/
+	
+	/*sitecore-development-services*/
+	.trasnform-list-section .row .mob-service-list{    width: 49.9%;
+		float: left;}
+	/*sitecore-development-services*/
+	/*web-design-services-page*/
+	.our_loactions_services .location_inner-details ul li{width: 23.5%;}
+	.our_loactions_services .location_inner-details ul li:nth-child(2n+1){margin-left: 2%;}
+	.our_loactions_services .location_inner-details ul li:nth-child(4n+1){margin-left: 0;}
+	.page-template-ecommerce-web-development .our_loactions_services {padding: 0px 0px 20px;}
+	.page-template-website-design .inner-wrap .our_loactions_services .location_inner-details ul li{width: 23.5%;}
+	.page-template-website-design .inner-wrap .our_loactions_services .location_inner-details ul li:nth-child(2n+1){margin-left: 2% !important;}
+	.page-template-website-design .inner-wrap .our_loactions_services .location_inner-details ul li:nth-child(4n+1){margin-left: 0 !important;}
+	/*web-design-services-page*/
+	.form__wrapper .upd-submit{margin-left:0px;margin-top: 29px; width:auto}
+	.form__wrapper div.wpcf7 .upd-submit .ajax-loader {top: 11px;right: -40px;}
+	.page-template-connect #contact-top .captcha-man{width: auto}
+	/**/
+	.facts-figure-wrapper .content__wrapper ul li{width:49%; max-width:49%;margin-bottom:2%; margin-right:2%;font-size: 15px;}
+	.facts-figure-wrapper .content__wrapper ul li strong{font-size:30px;}
+	.facts-figure-wrapper .content__wrapper ul li:nth-child(2n+2){margin-right:0px;}
+	.facts-figure-wrapper .content__wrapper ul li:nth-child(3){margin-right:2%;}
+	
+	}
+	 
+	@media screen and (min-width:375px) and (max-width:767px){
+	.page-template-php-development .expertise-grid ul li{float: none;}
+	.page-template-php-development .expertise-grid ul li:nth-child(5n){margin-left: 0!important;margin: 8px 6px !important;}
+	}
+	@media screen and (min-width:520px) and (max-width:767px){
+		.portfolio-web-middle-image img {
+			left: 76px;
+			top: 10px;
+			height: 177px;
+		}
+		.portfolio-web-middle-image::after{
+			background: url(../images/middle-portfolio-img-bg.png) no-repeat;
+			width: 589px;
+			    background-size: cover;
+		}
+		.detailed-case-study button{margin-left:10px;}
+		.services-offered-for .build-for{line-height:inherit;}
+		.web_portfolio_details .portfolio-detail-web-section .services-offered-for{    margin-top: 30px;float: left;width: 100%;}
+		.portfolio-web-hero-image{clear: both;}
+		.portfolio-detail-web-section .services-offered-for ul li .build-detail-main{text-align: center}
+		.web_portfolio_details .services-offered-for .build-for{display: block;}
+		.services-offered-for ul li .build-detail-main{display: block;}
+		.portfolio-detail-web-section .services-offered-for ul li{text-align: center; max-width:33%;}
+	}
+	
+	/* iPhone 5/ 5E */
+	@media screen and (max-width:359px){
+	.mobile-object{background-size: contain; height:150px;}
+	.sitecore-banner .ecomm_title h1{font-size:26px;}
+	.sitecore-banner .content_part .main_dev_btn a.add_dev_btn {margin-right: 5px;padding: 12px 13px;}
+	.sitecore-services-content .panel-collapse>.panel-body p{font-size:14px; line-height:26px}
+	.sitecore-services-content .panel-primary>.panel-heading+.panel-collapse>.panel-body{padding:0px 15px 30px;}
+	.hero-banner-main.web-development-company-banner .page-intro-body .row{margin: 0px -15px;}
+	.page-template-web-development .web-development-service-page .development-testimonials-section .clutch-widget{margin-bottom: 24px;}
+	
+	.contact_page_wrapper .btn-primary-large{padding: 0 69px 0 20px;}	
+	.contact_page_wrapper .btn-primary-large:after{right: 10px;}
+	.contact_page_wrapper .btn-primary-large{font-size:11px;}
+	.form__wrapper {margin-top: -30px;}
+	.newslatter-popup-sub{max-width:300px;}
+	
+}
+@media screen and (max-width:359px){
+.hero-button-phone {margin-left: 0px;}
+}
+	
+	@media screen and (max-height:400px){
+	
+	.web-development-service-page .web-development-company-banner {
+		min-height: 230px;
+	}
+	.newslatter-popup-sub{
+		overflow-y: auto;
+		max-height: 350px;
+	}
+	
+	}
+	@media screen and (min-width:380px) and (max-width:480px){
+		
+	}
+/**/
+@media screen and (min-width: 1600px){
+	.transportation-logistics-main .hero-left-section .hero-left-section-inner {
+		position: relative;
+		width: 778px;
+		left: 0;
+		top: 0;
+		margin: 20px auto -80px;
+	}
+	.transportation-logistics-main .hero-top-section {
+		width: 100%;
+		float: none;
+		margin:0px auto 0;
+	}
+}
+@media screen and (min-width:1200px) and (max-width:1500px){
+	.page-template-about-us .page-banner-overview .banner-text h1{
+		font-size: 40px;
+		line-height: 48px;
+	}
+	.banner__caption_main .hero-top-section h1 {
+		font-size: 38px;
+		line-height: 42px;
+	}
+	.banner__caption_main .hero-top-section p {
+		font-size: 18px;
+		line-height: 32px;
+		padding: 10px 0px 30px 0;		
+	}
+	
+	.action__toolbar a, .action__toolbar button{
+		font-size: 18px;
+		padding: 14px 34px;
+	}
+	.case_study_section .case_study_slider .project_name, .case__study_section .case_study_slider .project_name{
+		font-size: 20px;
+	}
+	.mehamenu .meha-submenu.service-menu{
+		margin-left: -477px;
+	}
+	.banner__title .action__toolbar {
+		margin-top: 30px;
+	}
+	.page-template-transportation-logistics-solutions .automation-business-services-inner .development-title-web p{
+		    width: 82%;
+	}
+	.banner__title .logo-img {
+    margin-bottom: 40px;
+	}
+	.top_hero__banner{
+		padding:8% 0px;
+	}
+	.top_hero__banner h1{
+		font-size: 46px;
+	}
+	.top_hero__banner p{
+		margin-top: 18px;
+	    width: 60%;
+	    line-height: 34px;
+	    font-size: 20px;
+	}
+	.top_hero__banner .action__toolbar {
+ 	   margin-top: 30px;
+	}
+	.sucess-story .grid-item{
+		min-height:410px;
+	}
+}
+@media screen and (max-width:1200px){
+	.case__study_main .hero__banner{
+		background-attachment: inherit;
+	}
+	.middle__content_main h1 {
+		font-size: 36px;
+	}
+}
+@media screen and (min-width:992px) and (max-width:1199px){
+	.banner__title{
+		position: static;
+		transform: none;
+	    text-align: center;
+	    padding:12% 0 9%;
+	}
+	.banner__title h1{
+		display: none;
+	}
+	.banner__title .action__toolbar {
+ 		   margin-top: 20px;
+	}
+	.banner__title .logo-img img {
+	    max-width: 300px;
+	}
+	.case__study_main .hero__banner{
+		padding-bottom:0%;
+	}
+	.action__toolbar a, .action__toolbar button{
+	    font-size: 18px;
+	    padding: 12px 34px;
+	}
+	
+	
+	.top_hero__banner p {
+	    font-size:18px;
+	    margin-top:20px;
+	    width: 60%;
+    	line-height: 34px;
+	}
+	.action__toolbar {
+	    margin-top: 40px;
+	}
+	.top_hero__banner h1 {
+ 	    font-size:44px;
+	}
+	.banner__caption_main .hero-top-section h1 {
+	    font-size: 36px;
+	    line-height: 43px;
+	}
+	.automation-business-services-inner .development-title-web p{
+		width:100%;
+	}
+	.banner__caption_main {
+	    padding-top: 4%;
+	    padding-bottom: 4%;
+	}
+	.banner__caption_main .hero-top-section p{
+		padding-right:0px;
+	}
+
+	.case_study_section .case_study_slider .project_name, .case__study_section .case_study_slider .project_name{
+		font-size: 18px;
+	}
+}
+@media screen and (min-width:768px) and (max-width:991px){
+	.banner__title{
+		position: static;
+		transform: none;
+	    text-align: center;
+	    padding:12% 0 9%;
+	}
+	.banner__title .logo-img {
+    margin-bottom: 20px;
+}
+.banner__title h1{
+	    font-size: 26px;
+}
+.banner__title .action__toolbar {
+    margin-top: 30px;
+}
+	
+	.banner__title .logo-img img {
+	    max-width: 300px;
+	}
+	.case__study_main .hero__banner{
+		padding-bottom:0%;
+	}
+	
+	.action__toolbar a, .action__toolbar button{
+	    font-size: 18px;
+	    padding: 12px 34px;
+	}
+	.action__toolbar{
+		margin-top: 20px;
+	}
+	.top_hero__banner{
+		text-align: center;
+	}
+	.top_hero__banner p {
+	    font-size: 18px;
+	     margin-top: 14px;
+	    width: 100%;
+	    line-height: 26px;
+	}
+	.top_hero__banner h1 {
+ 	    font-size: 38px;
+	}
+	.banner__caption_main .hero-top-section h1 {
+	    font-size: 36px;
+	    line-height: 43px;
+	}
+	.automation-business-services-inner .development-title-web p{
+		width:100%;
+	}
+	.banner__caption_main {
+	    padding-top: 4%;
+	    padding-bottom: 4%;
+	}
+	.banner__caption_main .hero-top-section p{
+		padding-right:0px;
+	}
+
+	.home .container-fluid{
+		padding: 0 20px;
+	}
+.case_study_section .case_study_slider .project_name, .case__study_section .case_study_slider .project_name{
+	font-size:18px;
+}
+
+}
+@media screen and (max-width:767px){
+		
+	.middle__content_main .container{
+		margin-top: 0;
+	}
+	.middle__content_main h1 {
+		font-size: 24px;
+	}
+	.middle__content_main p {
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.action__toolbar a, .action__toolbar button{
+		
+		padding: 12px 24px;
+		font-size: 16px;
+	}
+	.case__study_main .hero__banner {
+		padding-bottom: 47%;
+		background-attachment: inherit;
+	}
+	.page-template-about-us .page-banner-overview .banner-text{
+		padding:30px 0;
+		width:100%;
+		transform: none;
+		position: static;
+		text-align: center;
+	}
+	.page-template-about-us .page-banner-overview .banner-text h1{
+		font-size:22px;
+		text-shadow: none;
+		margin-bottom:10px;
+		line-height:28px;
+	}
+	.page-template-about-us .page-banner-overview .banner-text p{
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 22px;
+	}
+	.page-template-about-us .page-banner-overview .action__toolbar {
+		margin-top: 20px;
+	}
+	.case__study_modal .modal-content .title h3{
+		font-size: 22px;
+	}
+	.case__study_modal .modal-content .title p {
+		font-size: 14px;
+	}
+	.case__study_modal .btn{
+		font-size: 16px;
+		margin-top:0px;
+	}
+	.case__study_modal button.close{
+		font-size: 24px;
+	}
+	.case_study_section .case_study_slider .project_name, .case__study_section .case_study_slider .project_name{
+		font-size:16px;
+		padding: 5px 15px;
+		font-weight:400;
+	}	
+.banner__title h1{
+	font-size: 20px;
+		line-height: 28px;
+		display: none;
+}
+.banner__title .logo-img {
+    margin-bottom: 30px;
+}
+.banner__title {
+position: static;
+top: 0;
+width: 100%;
+transform: none;
+text-align: center;
+padding-top: 100px;
+}
+.banner__title .action__toolbar {
+margin-top: 10px;
+}
+.banner__title .action__toolbar a, .banner__title .action__toolbar button{
+	    font-size: 14px;
+}
+.case__study_main .hero__banner {
+padding-bottom: 40px;
+}
+.middle__content_main h2{
+	font-size:22px;
+}
+.case__study_modal .form-control {
+    height: 42px;
+    font-size: 14px;
+}
+	.action__toolbar a, .action__toolbar button{
+	    font-size: 16px;
+	    padding: 12px 34px;
+	}
+	.action__toolbar{
+		margin-top: 20px;
+	}
+	.top_hero__banner{
+		text-align: center;
+	}
+	.top_hero__banner p {
+        font-size: 16px;
+	    margin-top: 14px;
+	    width: 100%;
+	    line-height: 24px;
+	}
+	.top_hero__banner h1 {
+ 	    font-size: 32px;
+	}
+	.sucess-story .grid-item .img-caption{
+		min-height: inherit;
+	}
+	.banner__caption_main .hero-top-section h1 {
+	        font-size: 22px;
+  		  line-height: 30px;
+	}
+	.banner__caption_main .hero-top-section p{
+		font-size: 15px;
+	    line-height:24px;
+	    padding:10px 0px 20px 0;
+	    font-weight: 400;
+	}
+	.video__frame_wrapper .banner__caption_main{
+		padding:0px;
+	}
+	.solutions__page .development-title-web h3 span {
+	    display: initial;
+	}
+	.solutions__page .development-title-web h3 {
+	    font-size: 24px;
+	    line-height: 30px; 
+	}
+	.automation-business-services-inner .development-title-web p{
+		    line-height: 26px;
+		    width:100%;
+	}
+	.video__frame{
+		display: none;
+	}
+	.video__frame_wrapper{
+		 background-color: #05095d;
+    background-image: -moz-linear-gradient( 150deg, rgb(37,124,181) 0%, rgb(13,41,134) 32%, rgb(4,3,82) 100%);
+    background-image: -webkit-linear-gradient( 150deg, rgb(37,124,181) 0%, rgb(13,41,134) 32%, rgb(4,3,82) 100%);
+    background-image: -ms-linear-gradient( 150deg, rgb(37,124,181) 0%, rgb(13,41,134) 32%, rgb(4,3,82) 100%);
+	}
+	.solutions__page .hire-developer-section .development-title-web h3{
+		    margin-bottom: 20px;
+	}
+	footer.page_footer {
+		margin-top:40px;
+	}
+	.hire-developer-section {
+	    padding: 20px 0px 40px;
+	}
+	.banner__caption_main {
+	    padding-top: 4%;
+	    padding-bottom: 4%;
+	}
+	.automation-business-right ul li p{
+		padding-left:10px !important
+	}
+
+	.hire___Section_main {
+	    text-align: center;
+	    padding: 40px 0 0px;
+	}
+	.hire___Section_main h3{
+		font-size: 22px;
+        line-height: 28px;
+	}
+	.action__toolbar_btn a{
+		padding: 11px 30px;
+		font-size: 16px;
+	}
+	.action__toolbar_btn {
+	    margin-top: 20px;
+	}
+	.case__study_section .container-fluid {
+	    padding: 0 20px;
+	}
+	.portfolio__section_main .section__header {
+	    margin-bottom: 20px;
+	}
+	.portfolio__section_main {
+	    padding: 0;
+	}
+	.case__study_section {
+	    padding-top: 0;
+	}
+	.page-template-full-stack-development .portfolio__section_main .development-title-web, .page-template-web-development .portfolio__section_main .development-title-web {
+	    margin-bottom: 50px;
+	}
+	.development-title-web .heading-3-title-section, .page-template-full-stack-development .development-title-web h3 {
+        font-size: 24px;
+    	line-height: 29px;
+    }
+	.hire-developer-section .development-title-web p {font-size: 15px;line-height: 22px;width: 100%;}
+	.full-stack-development-page .black-bg{padding:40px 0px;    margin-bottom: 40px;}
+	.services-grid-wrapper .card-grid-wrapper{margin-bottom: 0;}
+	.services-grid-wrapper .card-grid-wrapper .grid-item{margin-right:0px;}
+	.section-main .section-main-text-detail p {font-size: 16px;line-height: 26px;}
+	.facts-figure-wrapper{
+		    padding: 40px 0;
+	}
+	.web_portfolio_details .services-offered-for .build-for{
+		    font-size: 16px;
+		    display: block;
+		    width: 100%;
+		    line-height: 18px;
+		    min-height: 42px;
+	}
+	.services-offered-for ul li i {
+    margin-right: 0;
+    margin-top: 10px;
+}
+.web_portfolio_details .portfolio-detail-web-section .services-offered-for ul{
+	    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.web_portfolio_details .portfolio-detail-web-section .services-offered-for ul li {
+    padding-right: 0;
+    flex-basis: 28%;
+    margin-right: 0;
+    max-width: 28%;
+    text-align: center;
+}
+.web_portfolio_details .services-offered-for ul li .build-for-title {
+    font-size: 14px;
+}
+.web_portfolio_details .services-offered-for ul li .build-detail {
+    font-size: 16px;
+}
+.services-offered-for ul li .build-detail-main{
+	width:100%;
+	padding-right: 0;
+}
+
+
+	.highlight___heading{
+		font-size: 15px;
+	    margin-bottom: 0px;
+	    font-weight: 400;
+	}
+
+}

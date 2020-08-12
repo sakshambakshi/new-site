@@ -1,0 +1,361 @@
+.borderImg {
+    text-align: center;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,.2), 0 2px 10px 0 rgba(0,0,0,.19);
+    border: 3px solid #06799c;
+    position: relative;
+    z-index: 1;
+}
+.approachImg {
+    text-align: center;
+    padding-top: 45px;
+    overflow: hidden;
+}
+.approachImg h3 {
+    padding: 12px 10px;
+    font-size: 1.25rem;
+}
+.ApproachContent p {
+    padding-top: 30px;
+    line-height: 25px;
+    font-size: 15px;
+    padding-left: 25px;
+}
+.aboutback{
+	background: url(../img/about/16.jpg);
+}
+.bss{
+	background: url(../img/about/17.jpg);
+}
+.certstyle{
+
+}
+.tpp1{
+    /*padding-left:67px;*/
+}
+.tpp{
+    margin-right: -21px;
+}
+/*certificate style*/
+.bp{
+        font-size:  19px;
+    font-weight: 600;
+    color: #3d464a;
+    margin-bottom: 10px;
+}
+/* about us certificate*/
+section.home-certseo-clients {
+    padding: 70px 0 170px 0;
+    margin: 0 0 -100px 0;
+}
+
+section.certseo-clients {
+   
+    padding: 70px 0;
+}
+section.certseo-clients .certseo-clients-row {
+    display: table;
+    width: 100%;
+}
+.page-main, .page-contain, .our-portfolio, footer .footer-main-address, .footar-bottom, .comany-pro, .website-portfolio, .test_box1, .privecy-box {
+    width: 970px;
+}
+.page-main {
+    margin: 0 auto;
+    width: 1170px;
+    clear: both;
+}
+section.certseo-clients .certseo-clients-left {
+    display: table-cell;
+    vertical-align: top;
+    width: 50%;
+    border-right: 1px solid #ddd;
+    padding: 0 35px 0 0;
+}
+section.certseo-clients h3 {
+    margin: 0;
+    font-size: 26px;
+    color: #000;
+    font-family: Verdana,Geneva,sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 0 70px 0;
+}
+section.certseo-clients .certseo-clients-list {
+}
+section.certseo-clients .certseo-clients-list ul {
+    margin: -60px 0 0 -30px;
+    padding: 0;
+}
+section.certseo-clients .certseo-clients-list ul li {
+    margin: 0 -2px;
+    padding: 60px 0 0 30px;
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+    width: 33.33%;
+}
+section.certseo-clients .certseo-clients-list .image img {
+    display: table;
+    margin: 0 auto;
+}
+
+
+/* for testimonial page design*/
+section.certseo-clients .certseo-clients-lists {
+}
+section.certseo-clients .certseo-clients-lists ul {
+    margin: -60px 0 0 -30px;
+    padding: 0;
+}
+section.certseo-clients .certseo-clients-lists ul li {
+        margin: 0 -80px;
+    padding: 60px 0 0 30px;
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+    width: 33.33%;
+}
+section.certseo-clients .certseo-clients-lists .image img {
+    display: table;
+    margin: 0 auto;
+    padding: 18px;
+    border-right: 1px solid #d6d1d1;
+}
+/* for satisfied*/
+section.certseo-clients .certseo-clients-listss {
+}
+section.certseo-clients .certseo-clients-listss ul {
+    margin: -60px 0 0 -30px;
+    padding: 0;
+}
+section.certseo-clients .certseo-clients-listss ul li {
+        margin: 0 -65px;
+    padding: 60px 0 0 30px;
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+    width: 33.33%;
+}
+section.certseo-clients .certseo-clients-listss .image img {
+    display: table;
+    margin: 0 auto;
+    border-right: 1px solid #d6d1d1;
+}
+/*-----------*/
+
+section.certseo-clients .certseo-certificate {
+    display: table-cell;
+    vertical-align: top;
+    width: 50%;
+    padding: 0 0 0 35px;
+}
+section.certseo-clients h3 {
+    margin: 0;
+    font-size: 26px;
+    color: #08196f;
+    font-family: Verdana,Geneva,sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 0 70px 0;
+}
+section.certseo-clients .certseo-certificate-list {
+    padding: 50px 0 0 0;
+}
+section.certseo-clients .certseo-certificate-list ul {
+    margin: -20px 0 0 -20px;
+    padding: 0;
+}
+section.certseo-clients .certseo-certificate-list ul li:nth-child(3n), section.certseo-clients .certseo-certificate-list ul li:nth-child(3n-2) {
+    margin-top: -50px;
+}
+section.certseo-clients .certseo-certificate-list ul li {
+    margin: 0 -2px;
+    padding: 20px 0 0 20px;
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    width: 33.33%;
+}
+section.certseo-clients .certseo-certificate-list .certificate-box {
+    border: 10px solid #393a3a;
+    box-shadow: inset 0 0 10px 0 rgba(0,0,0,0.4);
+    height: 190px;
+    padding: 0 10px;
+    display: table;
+    width: 100%;
+}
+section.certseo-clients .certseo-certificate-list .certificate-box .image {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+/*award */
+.awd{
+        
+    font-weight: 600;
+    margin-top: 18px;
+    margin-bottom: 11px;
+    font-size: 18px;
+}
+.awd1{
+    text-align: left;
+    font-size: 16px;
+}
+.awd2{
+        text-align: left;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 2px;
+    font-size: 23px;
+}
+.awd3{
+    text-align: left;
+    font-size: 15px;
+}
+.top-right {
+  position: absolute;
+    top: 45px;
+    font-size: 47px;
+    font-weight: 700;
+    text-align: left;
+    line-height: 52px;
+    /* text-decoration: overline; */
+    /* border-top: 5px solid #2d2b2b; */
+    right: 173px;
+}
+.bottom-right {
+      position: absolute;
+    bottom: 46px;
+    right: 16px;
+    font-size: 17px;
+    color: white;
+    background: #ca2f0f;
+    padding: 20px 35px;
+}
+/* case study */
+.boed{
+    border: 1px solid #d8d2d2;
+    padding:10px 4px;
+    border-radius: 10px;
+}
+.tables{
+        border: 1px solid #c3c1c1;
+    border-radius: 10px;
+    
+}
+
+
+.tebs1{
+    text-align: center;
+    border-bottom: 1px solid #d8d4d4;
+}
+/* thank you page design*/
+.tsl{
+        box-shadow: 0 30px 30px 0 rgba(0, 0, 0, 0.08);
+    padding: 20px 20px;
+    background: white;
+    border-radius: 10px;
+    
+}
+.downloads {
+    display: inline-block;
+    padding: 10px 30px 10px 80px;
+    border-bottom: 2px solid #ce8415;
+    border-top: 2px solid transparent;
+    border-right: 2px solid transparent;
+   background: linear-gradient(to bottom, rgb(220, 147, 14) 0%, rgb(212, 133, 15) 100%);
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    text-shadow: 2px 0px 0px #e2a417;
+    position: relative;
+    text-align: center;
+    line-height: 22px;
+    border-radius: 4px;
+    overflow: hidden;
+}
+.downloads::before {
+    content: "";
+    position: absolute;
+    width: 61px;
+    height: 64px;
+    left: 0;
+    top: 0;
+    color: white;
+    background: url(../img/btn-download-bg.png) no-repeat;
+}
+.image{
+    /*border: 2px solid #f3f0f0;
+    border-radius: 15px;
+    padding: 16px 20px;*/
+    margin-bottom: 18px;
+    /*box-shadow: 0 30px 30px 0 rgba(0, 0, 0, 0.08);*/
+}
+.client-quote-section {
+    background: #f2f2f2;
+    font-size: 17px;
+    color: #000;
+    font-style: italic;
+    padding: 60px 0 90px;
+    .content-body {
+    font-size: 18px;
+}
+.content-body {
+    font-size: 14px;
+    line-height: 1.75em;
+}
+.client-quote-section .quote-section {
+    padding-top: 35px;
+    padding-bottom: 20px;
+}
+.client-quote-section blockquote {
+    border: 0px;
+    padding: 10px 68px;
+}
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eee;
+}
+.client-quote-section blockquote:before {
+    background: url(../img/bg-quote-up.png) 0 0 no-repeat;
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    display: block;
+    height: 32px;
+    width: 49px;
+}
+.client-quote-section p {
+    font-size: 17px;
+    color: #000;
+    position: relative;
+    margin-bottom: 0px;
+}
+.client-quote-section p {
+    font-size: 17px;
+    color: #000;
+    position: relative;
+    margin-bottom: 0px;
+}
+.client-quote-section p {
+    font-size: 17px;
+    color: #000;
+    position: relative;
+    margin-bottom: 0px;
+}
+.client-quote-section blockquote:after {
+    background: url(../img/bg-quote-bottom.png) 0 0 no-repeat;
+    position: absolute;
+    right: 25px;
+    bottom: 0px;
+    display: block;
+    height: 32px;
+    width: 49px;
+}

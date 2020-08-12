@@ -1,0 +1,437 @@
+.sls-sliders-wrapper {
+	width: 100%;
+	height: 200px;
+	overflow: hidden;
+	position: relative;
+}
+.sls-slide, .sls-slides-wrapper, .sls-slide-inner {
+	position: absolute;
+	width: 100%;
+	height: 500px;
+	top: 0;
+	left: 0;
+}
+.bg-img-4{
+	background: url(../img/contact/2.jpg);
+	width: 100%;
+	height: 550px;
+	overflow: hidden;
+	position: relative;
+}
+.con{
+      font-family: inherit;
+	    text-align: left;
+    font-size: 46px;
+    color: #1a0b9a;
+    font-weight: 700;
+}
+.con1{
+	text-align: left;
+    font-size: 43px;
+    color: #03034c;
+    font-weight: 700;
+}
+.con2{
+	    text-align: left;
+    font-size: 23px;
+    margin-top: 20px;
+    line-height: 31px;
+    /* text-align: justify; */
+    color: #a5a0a0;
+    font-family: inherit;
+    margin-bottom: 36px;
+}
+.shns{
+	border: 5px solid #f7f7f7;
+    padding: 18px 10px;
+    box-shadow: 0 -8px 30px 0 rgba(4, 4, 4, 0.08);
+}
+.tex{
+	    font-size: 27px;
+    /* text-transform: uppercase; */
+    font-weight: 600;
+    color: #04044e;
+    margin-bottom: 20px;
+}
+.w3l-contact-main .map-hny iframe {
+    border: 4px solid #f3eeee;
+    box-shadow: 0 30px 30px 0 rgba(4, 4, 4, 0.08);
+
+    width: 100%;
+    min-height: 400px;
+}
+/* border on text*/
+.cons{
+    border-radius: 22px;
+    margin-right: 6px;
+    
+}
+.consss{
+   border-radius: 22px;
+}
+.cons5{
+        width: 78px;
+    margin-top: -15px;
+    color: #d0d0d0;
+    font-size: 21px;
+    margin-left: 8px;
+    background: white;
+    font-weight: 500;
+}
+.cons1{
+    width: 67px;
+    margin-top: -15px;
+    color: #d0d0d0;
+    font-size: 21px;
+    margin-left: 8px;
+    background: white;
+    font-weight: 500;
+}
+.cons2{
+     border-radius: 22px;
+  
+    
+}
+/* for file attachment*/
+.cons3{
+    width: 169px;
+    margin-top: -15px;
+    color: #d0d0d0;
+    font-size: 21px;
+    margin-left: 8px;
+    background: white;
+    font-weight: 500;
+}
+/* client review section*/
+/*--//about--*/
+.top-games-section {
+  padding:1em 0;
+}
+ #flexiselDemo3 {
+    display: none;
+}
+.nbs-flexisel-container {
+    position: relative;
+    max-width: 100%;
+}
+.nbs-flexisel-ul {
+    position: relative;
+    width: 9999px;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    text-align: center;
+}
+.nbs-flexisel-inner {
+    overflow: hidden;
+    margin: 0 auto;
+}
+.nbs-flexisel-item {
+    float: left;
+    margin:0px;
+    padding:0px;
+    cursor: pointer;
+    position: relative;
+    line-height: 0px;
+}
+.nbs-flexisel-item > img {
+    cursor: pointer;
+    position: relative;
+    margin-top:10px;
+    margin-bottom: 10px;
+    max-width:250px;
+    max-height:500px;
+}
+.grid-flex{
+    margin:10px 0 20px 0;
+}
+.nbs-flexisel-item > img {
+    cursor: pointer;
+    positon: relative;
+}
+.biseller-info {
+    margin:1em 0 0 0; 
+}
+/*** Navigation ***/
+.nbs-flexisel-nav-left, .nbs-flexisel-nav-right {
+    width:45px;
+    height:55px;
+    position: absolute;
+    cursor: pointer;
+    z-index: 100;
+    margin-top:-70px;
+        /*border: 3px solid rgba(255, 255, 255, 0.77);*/
+}
+.nbs-flexisel-nav-left {
+  left: 72%;
+  margin-top:-181px;
+  background: url(../img/contact/.png) no-repeat -37px -2px;
+}
+.nbs-flexisel-nav-right {
+  left: 63%;
+ background: url(../img/contact/a.png) no-repeat 0px -2px;
+}
+li.nbs-flexisel-item {
+ width:370px;
+}
+/* Styles the thumbnail */
+/*Eliminates padding, centers the thumbnail */
+a.lightbox img {
+width:100%;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+    border: 3px solid #1ca0de;border-radius: 20px;
+}
+
+/* Styles the lightbox, removes it from sight and adds the fade-in transition */
+
+.lightbox-target {
+position: fixed;
+top: -100%;
+width: 100%;
+background: rgba(0,0,0,.7);
+width: 100%;
+opacity: 0;
+-webkit-transition: opacity .5s ease-in-out;
+-moz-transition: opacity .5s ease-in-out;
+-o-transition: opacity .5s ease-in-out;
+transition: opacity .5s ease-in-out;
+overflow: hidden;
+z-index: 999;
+}
+
+/* Styles the lightbox image, centers it vertically and horizontally, adds the zoom-in transition and makes it responsive using a combination of margin and absolute positioning */
+
+.lightbox-target img {
+margin: auto;
+position: absolute;
+top: 0;
+left:0;
+right:0;
+bottom: 0;
+max-height: 0%;
+max-width: 0%;
+border: 3px solid white;
+box-shadow: 0px 0px 8px rgba(0,0,0,.3);
+box-sizing: border-box;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+}
+.lightbox-target img:hover{
+    opacity: 0.5;
+}
+/* Styles the close link, adds the slide down transition */
+
+a.lightbox-close {
+display: block;
+width:50px;
+height:50px;
+box-sizing: border-box;
+background: white;
+color: black;
+text-decoration: none;
+position: absolute;
+top: -80px;
+right: 0;
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+a.lightbox-close:before {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: black;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(45deg);
+-moz-transform:rotate(45deg);
+-o-transform:rotate(45deg);
+transform:rotate(45deg);
+}
+
+/* Provides part of the "X" to eliminate an image from the close link */
+
+a.lightbox-close:after {
+content: "";
+display: block;
+height: 30px;
+width: 1px;
+background: black;
+position: absolute;
+left: 26px;
+top:10px;
+-webkit-transform:rotate(-45deg);
+-moz-transform:rotate(-45deg);
+-o-transform:rotate(-45deg);
+transform:rotate(-45deg);
+}
+
+/* Uses the :target pseudo-class to perform the animations upon clicking the .lightbox-target anchor */
+
+.lightbox-target:target {
+opacity: 1;
+top: 0;
+bottom: 0;
+left: 0%;
+}
+.lightbox-target:target img {
+    max-height:70%;
+      max-width: 20%;
+}
+.lightbox-target:target a.lightbox-close {
+top: 0px;
+}
+a.lightbox img:hover { 
+ background:#21A957;
+}
+.g-views {
+  padding: 0;
+}
+.top-games {
+       margin: 0;
+    background-color: #1ca0de;
+    min-height: 428px;
+    padding: 2em 2em;
+    text-align: left;
+}
+.top-games  h3 {
+     font-size: 2.3em;
+    color: #fff;
+    line-height: 1.4em;
+    text-align: left;
+    font-weight: 700;
+}
+.top-games  p {
+      line-height: 1.9em;
+    color: #fff;
+    margin: 1em 0;
+}
+.latest-post h3 {
+  padding: 0.5em;
+  background-color: #F4F4F4;
+   font-weight: 400;
+  text-align: center;
+  font-size: 2em;
+  color: #1f1e23;
+font-family: 'Bevan', cursive;
+    margin-bottom: 1em;
+}
+/* Float Shadow */
+.hvr-float-shadow {
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+}
+.hvr-float-shadow:before {
+  pointer-events: none;
+    position: absolute;
+    z-index: -1;
+    content: '';
+    top: 105%;
+    left: 5%;
+    height: 52px;
+    width: 95%;
+    opacity: 0.5;
+    background: -webkit-radial-gradient(center, ellipse, rgba(0, 0, 0, 0.16) 0%, rgba(0, 0, 0, 0) 80%);
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.18) 0%, rgba(0, 0, 0, 0) 80%);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform, opacity;
+    transition-property: transform, opacity;
+}
+.hvr-float-shadow:hover, .hvr-float-shadow:focus, .hvr-float-shadow:active {
+  -webkit-transform: translateY(-9px);
+  transform: translateY(-9px);
+  /* move the element up by 5px */
+}
+.hvr-float-shadow:hover:before, .hvr-float-shadow:focus:before, .hvr-float-shadow:active:before {
+  opacity: 1;
+  -webkit-transform: translateY(9px);
+  transform: translateY(9px);
+  /* move the element down by 5px (it will stay in place because it's attached to the element that also moves up 5px) */
+}
+  /*--/bottom--*/
+.bottom {
+    background: url("../images/bottom.jpg") no-repeat 0px 0px;
+    background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -ms-background-size: cover;
+    -webkit-background-size: cover;
+    min-height:400px;
+}
+.bottom-top h3{
+   color: #fff;
+    font-size:2.9em;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1.5em;
+    padding-top: 3em;
+        margin-bottom: 0.5em;
+}
+.cell{
+    padding: 23px 0px 9px 78px;
+    border-radius: 20px;
+}
+.cell1{
+    padding-top: 100px;
+}
+/*--//bottom--*/
+.imgsl{
+    background: white;
+    padding: 30px 60px;
+    
+    height: 350px;
+    border: 2px solid #0dafe0;
+    
+}
+.imgsl1{
+    text-align: left;
+    font-size: 15px;
+    text-align: justify;
+    margin-bottom: 20px;
+
+}
+.call{
+  padding: 20px 169px;
+}
+.call1{
+  padding: 10px 15px;
+}
+.call2{
+  padding: 10px 30px;
+}
+.imgsl2{
+    font-size: 20px;
+    font-weight: 400px;
+    text-align: left;
+    color: black;
+    margin-bottom: 15px;
+}
+.imgsl3{
+    text-align: left;
+    font-size: 15px;
+    text-align: justify;
+    
+
+}
