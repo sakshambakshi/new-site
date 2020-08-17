@@ -1937,7 +1937,7 @@ section.testimonials .carousel-indicators .active {
 /*-- /Testimonial Section --*/
 /*---new partner section*/
 section.objectives,section.testimonials,section.stats,section.partners,section.service-w3ls,section.service-agile,section.portfolio-w3ls {
-    padding: 50px 0;
+    padding: 1px 0;
 }
 /*-- partners section --*/
 section.partners {
@@ -4407,7 +4407,17 @@ a.btn.btn-primary.button-w3ls:hover {
 }
 /*-- //services --*/
 /* home page portfolio start */
-section.home-portfolio {  width: 100%; padding: 40px 0; }
+i.fa.sub-trigger {}
+
+i.fa.sub-trigger {
+    display: none;
+}
+
+i.fa.sub-trigger {}
+i.fa.sub-trigger {
+    display: none;
+}
+section.home-portfolio {  width: 100%; padding: 1px 0; }
 section.home-portfolio .portfolio-list { width: 100%; }
 section.home-portfolio .portfolio-list .portfolio-box { width: 60%; float: left; position: relative; margin: 0 0 30px 0;}
 section.home-portfolio .portfolio-list .portfolio-box img { border-top-left-radius: 50px; }

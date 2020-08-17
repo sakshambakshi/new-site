@@ -5,6 +5,21 @@
 <!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
     <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSGCCQ5');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="canonical" href="https://www.digitalinfoways.com/seo-search-engine-optimization" />
+<meta property="og:url" content="https://www.digitalinfoways.com/digital-marketing-services/" />
+
+<link rel="icon" href="favicon.ico" type="image/png">
+
+
+
       
     	<!-- meta character set -->
         <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">  
@@ -15,8 +30,8 @@
         <meta name="msvalidate.01" content="AAD6D8B6E396B167791D4E07495FB443" />
          <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Digitalinfoways.com</title>
-         <link rel="canonical" href="ASO-pricing-plan.php" />
-         <meta property="og:url" content="ASO-pricing-plan.php" />
+         <link rel="canonical" href="https://www.Digitalinfoways.com/ASO-pricing-plan.php" />
+         <meta property="og:url" content="https://www.digitalinfoways.com/ASO-pricing-plan.php" />
     <meta name="keywords" content="digital marketing agency, online internet marketing company,seo services india, google adwords agency, content marketing agency, email marketing company, mobile app marketing services, Amazon advertising agency India ,Hire An SEO Expert, local seo company, app store optimization company, ecommerce seo company, social media marketing company, facebook advertising company, youtube video marketing compan, linkedin advertising agency, instagram marketing agency ,Web Designing Indi,Responsive Web Design company, ecommerce website design company, Website Redesigning Company India ,Web Development India ,wordpress development company, magento development company,php development company">    
 <link rel='stylesheet' id='parent-style-css'  href='css/bootstrap.min.css' type='text/css' media='all' />
 <link rel='stylesheet' id='menu-style-css'  href='assets/css/menu.css' type='text/css' media='all' />
@@ -101,7 +116,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="btn-hide"></span>
     </button>
 </div>
-    <a class="navbar-brand" href=""style="height: 100px;background: white;">
+    <a class="navbar-brand" href="https://digitalinfoways.com/"style="height: 100px;background: white;">
    <img src="img/lo/2.png" class="logo-white" width="241" height="65" alt="Digitalinfoways" title="Digitalinfoways" >
     
 </a>
@@ -109,7 +124,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="mehamenu" id="meha-menu">
 <span class="close-icon">×</span>
     <ul>
-        <li><a href="" title="About" class=" ">Home</a>
+        <li><a href="https://digitalinfoways.com/" title="About" class=" ">Home</a>
          <!--<i class="fa fa-angle-right trigger"></i>-->
            
         </li>
@@ -120,31 +135,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="main-services">                   
                  <ul>
                         <li id="cloud-services" class="menu-label active">
-                            <a href="digital-marketing-services.php" title="Digital Marketing">
+                            <a href="https://digitalinfoways.com/digital-marketing-services.php" title="Digital Marketing">
                                 <span class="icon icon-stack" style="display: none;"></span> <i class="fa fa-diamond" style="font-size: 18px;margin-right: 10px;"></i>Digital Marketing </a>
                                 <i class="fa  sub-trigger" ></i>
                         <div id="cloud-services-cont" class="sub_category menu-graphics show">
                       <div class="col">
                         <ul>
-                            <li class="menusub-title"><a href="digital-marketing-services.php" title="Full Stack Development"><i class="fa fa-diamond" style="font-size: 18px;margin-right: 10px;"></i>Digital Marketing Services</a><i class="fa fa-angle-right sub-triggers"></i>
+                            <li class="menusub-title"><a href="https://digitalinfoways.com/digital-marketing-services.php" title="Full Stack Development"><i class="fa fa-diamond" style="font-size: 18px;margin-right: 10px;"></i>Digital Marketing Services</a><i class="fa fa-angle-right sub-triggers"></i>
                             </li>
-                            <li><a href="digital-marketing-services/search-engine-optimization.php" title="SEO">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/search-engine-optimization.php" title="SEO">
                                 SEO</a>
                             </li>
                             
-                             <li><a href="digital-marketing-services/ppc-google-adwords-management-agency.php" title="PPC">
+                             <li><a href="https://digitalinfoways.com/digital-marketing-services/ppc-google-adwords-management-agency.php" title="PPC">
                                 PPC</a>
                             </li>
-                            <li><a href="digital-marketing-services/content-marketing-services.php" title="Content Marketing ">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/content-marketing-services.php" title="Content Marketing ">
                                 Content Marketing</a>
                             </li>
-                            <li><a href="digital-marketing-services/email-marketing-services.php" title="Email marketing">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/email-marketing-services.php" title="Email marketing">
                                 Email Marketing</a>
                             </li>
-                            <li><a href="digital-marketing-services/mobile-app-marketing-services.php" title="Mobile Phone ADVERTISING">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/mobile-app-marketing-services.php" title="Mobile Phone ADVERTISING">
                                 Mobile Phone Advertising</a>
                             </li>
-                            <li><a href="digital-marketing-services/amazon-marketing-services.php" title="Amozone Marketing">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/amazon-marketing-services.php" title="Amozone Marketing">
                                 Amazon Marketing</a>
                             </li>
                             
@@ -155,30 +170,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="top-desc"><p>Digital Marketing Services</p></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur. </p>
-                            <div class="btn-more"><a href="digital-marketing-services.php">Discover More</a></div>
+                            <div class="btn-more"><a href="https://digitalinfoways.com/digital-marketing-services.php">Discover More</a></div>
                         </div>
                     </div></li>
 
                         <li id="web-development" class="menu-label">
-                            <a href="seo-search-engine-optimization.php" title="SEO">
+                            <a href="https://digitalinfoways.com/seo-search-engine-optimization.php" title="SEO">
                                 <span class="icon-c icon-Website-Development" style="display: none;"></span> <i class="fa fa-ship icon-tree bes" style="font-size: 18px;margin-right: 10px;" title="Social Media"></i>SEO</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="web-development-cont" class="sub_category">
                         <div class="col">
                            <ul>
-                                <li class="menusub-title"><a href="seo-search-engine-optimization.php" title="SEO"><i class="fa fa-ship icon-tree bes" style="font-size: 18px;" title="Social Media"></i>
+                                <li class="menusub-title"><a href="https://digitalinfoways.com/seo-search-engine-optimization.php" title="SEO"><i class="fa fa-ship icon-tree bes" style="font-size: 18px;" title="Social Media"></i>
                                  SEO Services</a>
                                  <i class="fa fa-angle-right sub-triggers"></i>
                                 </li>
 
                         
-                                <li><a href="seo-search-engine-optimization/local-seo-services.php" title="local-seo">
+                                <li><a href="https://digitalinfoways.com/seo-search-engine-optimization/local-seo-services.php" title="local-seo">
                                          Local SEO</a>
                                 </li>
-                                <li><a href="seo-search-engine-optimization/aso-app-store-optimization-services.php" title="app store">
+                                <li><a href="https://digitalinfoways.com/seo-search-engine-optimization/aso-app-store-optimization-services.php" title="app store">
                                          App Store</a>
                                 </li>
-                                <li><a href="seo-search-engine-optimization/ecommerce-seo-services.php" title="Ecommerce seo">
+                                <li><a href="https://digitalinfoways.com/seo-search-engine-optimization/ecommerce-seo-services.php" title="Ecommerce seo">
                                          Ecommerce SEO</a>
                                 </li>
                             </ul>
@@ -188,30 +203,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="top-desc"><p>Search Engine Optimization</p></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit.  </p>
-                            <div class="btn-more"><a href="seo-search-engine-optimization.php">Discover More</a></div>
+                            <div class="btn-more"><a href="https://digitalinfoways.com/seo-search-engine-optimization.php">Discover More</a></div>
                         </div>
                         
                     </div></li>
                         <li id="iot" class="menu-label">
-                            <a href="social-media-marketing-services.php" title="social media">
-                                <span class="icon icon-tree" style="display: none;"></span><i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;margin-right: 10px;" title="Social Media"></i> Social Media </a>
+                            <a href="https://digitalinfoways.com/social-media-marketing-services.php" title="social media">
+                                <span class="icon icon-tree" style="display: none;"></span><i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;margin-right: 10px;" title="Social Media"></i> Social Media Services</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="iot-cont" class="sub_category menu-graphics">
                         <div class="col">
                             <ul>
-                                <li class="menusub-title"><a class="iot-connected" href="social-media-marketing-services.php"> <i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;" title="Social Media"></i>Social Media Services</a><i class="fa fa-angle-right sub-triggers"></i>
+                                <li class="menusub-title"><a class="iot-connected" href="https://digitalinfoways.com/social-media-marketing-services.php"> <i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;" title="Social Media"></i>Social Media Services</a><i class="fa fa-angle-right sub-triggers"></i>
                                 </li>
-                                <li><a href="social-media-marketing-services/facebook-marketing-services.php" title=" Facebook Marketing">
+                                <li><a href="https://digitalinfoways.com/social-media-marketing-services/facebook-marketing-services.php" title=" Facebook Marketing">
                                    Facebook Marketing</a>
                                 </li>
-                                <li><a href="social-media-marketing-services/instagram-advertising-services.php" title="Instagram marketing">
+                                <li><a href="https://digitalinfoways.com/social-media-marketing-services/instagram-advertising-services.php" title="Instagram marketing">
                                    Instagram Marketing</a>
                                 </li>
                                 
-<li><a href="social-media-marketing-services/youtube-video-marketing-services.php" title="Youtube Marketing">
+<li><a href="https://digitalinfoways.com/social-media-marketing-services/youtube-video-marketing-services.php" title="Youtube Marketing">
                                    Youtube Marketing</a>
                                 </li>
-                                <li><a href="social-media-marketing-services/linkedin-marketing-services.php" title="Linkeding marketing">
+                                <li><a href="https://digitalinfoways.com/social-media-marketing-services/linkedin-marketing-services.php" title="Linkeding marketing">
                                    Linkedin Marketing</a>
                                 </li>
                             </ul>
@@ -221,26 +236,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
-                            <div class="btn-more"><a href="social-media-marketing-services.php" title="Explore More">Explore More</a></div>
+                            <div class="btn-more"><a href="https://digitalinfoways.com/social-media-marketing-services.php" title="Explore More">Explore More</a></div>
                         </div>
                     </div></li>
                         <li id="mobile-app" class="menu-label">
-                            <a href="web-design-services.php" title="web design">
+                            <a href="https://digitalinfoways.com/web-design-services.php" title="web design">
                                 <span class="icon icon-mobile" style="display: none;"></span><i class="fa fa-laptop icon-tree bes" style="font-size: 18px;margin-right: 10px;"></i> Web Design</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="mobile-app-cont" class="three-column sub_category">
                       <div class="col">
                         <ul class="mobile-ser-1">
-                            <li class="menusub-title"><a href="web-design-services.php" title="web design"> <i class="fa fa-laptop icon-tree bes" style="font-size: 18px;"></i>
+                            <li class="menusub-title"><a href="https://digitalinfoways.com/web-design-services.php" title="web design"> <i class="fa fa-laptop icon-tree bes" style="font-size: 18px;"></i>
                                    Web Design Services</a><i class="fa fa-angle-right sub-triggers"></i>
                             </li>
-                            <li><a href="web-design-services/responsive-web-design-services.php" title="Resonce webdesgin">
+                            <li><a href="https://digitalinfoways.com/web-design-services/responsive-web-design-services.php" title="Resonce webdesgin">
                                    Responsive Web Design</a>
                                  </li>
-                                 <li><a href="web-design-services/ecommerce-website-design-development-services.php" title="Eccomerc Website Desgin">
+                                 <li><a href="https://digitalinfoways.com/web-design-services/ecommerce-website-design-development-services.php" title="Eccomerc Website Desgin">
                                     Ecommerce Website Desgin</a>
                                  </li>
-                                 <li><a href="web-design-services/website-redesigning-services.php" title="Eccomerc Website Desgin">
+                                 <li><a href="https://digitalinfoways.com/web-design-services/website-redesigning-services.php" title="Eccomerc Website Desgin">
                                     Website Redesigning</a>
                                  </li>
                              </ul>
@@ -252,28 +267,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. </p>
                             <div class="btn-more">
-                                <a href="web-design-services.php" title="Discover More">Explore More</a></div>
+                                <a href="https://digitalinfoways.com/web-design-services.php" title="Discover More">Explore More</a></div>
                         </div>
                     </div></li>
                         <li id="ecommerce" class="menu-label">
-                            <a href="custom-website-development-services.php" title="Web development">
+                            <a href="https://digitalinfoways.com/custom-website-development-services.php" title="Web development">
                                 <span class="icon-c icon-eCommerce" style="display: none;"></span> <i class="fa fa-hourglass-start  icon-tree bes" style="font-size: 18px;margin-right: 10px;"></i> Web Development</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="ecommerce-cont" class="sub_category three-column">
                         <div class="col">
                            <ul>
                                 <li class="menusub-title">
-                                <a href="custom-website-development-services.php"><i class="fa fa-hourglass-start  icon-tree bes" style="font-size: 18px;"></i>Web Development Services</a>
+                                <a href="https://digitalinfoways.com/custom-website-development-services.php"><i class="fa fa-hourglass-start  icon-tree bes" style="font-size: 18px;"></i>Web Development Services</a>
                                 <i class="fa fa-angle-right sub-triggers"></i>
                                 </li>
 
-                                <li><a href="custom-website-development-services/wordpress-development-services.php" title="Wordpress Develpoment">
+                                <li><a href="https://digitalinfoways.com/custom-website-development-services/wordpress-development-services.php" title="Wordpress Develpoment">
                                    Wordpress Develpoment</a>
                                  </li>
-                                  <li><a href="custom-website-development-services/magento-development-services.php" title="Magento Development">
+                                  <li><a href="https://digitalinfoways.com/custom-website-development-services/magento-development-services.php" title="Magento Development">
                                    Magento Development</a>
                                  </li>
-                                 <li><a href="custom-website-development-services/php-development-services.php" title="Php Developent">
+                                 <li><a href="https://digitalinfoways.com/custom-website-development-services/php-development-services.php" title="Php Developent">
                                    PHP Developent</a>
                                  </li>
                             </ul>
@@ -284,7 +299,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. </p>
                             <div class="btn-more">
-                                <a href="custom-website-development-services.php" title="Discover More">Explore More</a></div>
+                                <a href="https://digitalinfoways.com/custom-website-development-services.php" title="Discover More">Explore More</a></div>
                         </div>
                     </div></li>
                         
@@ -299,26 +314,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
             <div class="meha-submenu">
                 <ul>
                     <li>
-                        <a href="about-us.php" title="about us"><i class="fa fa-ship icon-office" style="margin-right: 7px;"></i><span class="icon icon-truck" style="display: none;"></span>About us</a>
+                        <a href="https://digitalinfoways.com/about-us.php" title="about us"><i class="fa fa-ship icon-office" style="margin-right: 7px;"></i><span class="icon icon-truck" style="display: none;"></span>About us</a>
                     </li>
                     <li>
-                        <a href="testimonials.php" title="Testimonials"><i class="fa fa-diamond icon-map" style="margin-right: 7px;"></i><span class="icon-c icon-Retail" style="display: none;"></span>Testimonials</a>
+                        <a href="https://digitalinfoways.com/testimonials.php" title="Testimonials"><i class="fa fa-diamond icon-map" style="margin-right: 7px;"></i><span class="icon-c icon-Retail" style="display: none;"></span>Testimonials</a>
                     </li>
                     <li>
-                        <a href="award-accoladers.php" title="awards-accolades"><i class="fa fa-paper-plane icon-trophy" style="margin-right: 7px;"></i><span class="icon-c icon-knowledge-management" style="display: none;"></span>Awards-Accolades</a>
+                        <a href="https://digitalinfoways.com/award-accoladers.php" title="awards-accolades"><i class="fa fa-paper-plane icon-trophy" style="margin-right: 7px;"></i><span class="icon-c icon-knowledge-management" style="display: none;"></span>Awards-Accolades</a>
                     </li>
                     <li>
-                        <a href="faq.php" title="faqs "><i class="fa fa-sitemap icon-rocket" style="margin-right: 7px;"></i><span class="icon-c icon-Government" style="display: none;"></span>FAQ</a></li>                    
+                        <a href="https://digitalinfoways.com/faq.php" title="faqs "><i class="fa fa-sitemap icon-rocket" style="margin-right: 7px;"></i><span class="icon-c icon-Government" style="display: none;"></span>FAQ</a></li>                    
                     <li>
-                        <a href="portfolio.php" title="Portfolio"><i class="fa fa-hourglass-start icon-Community-portal" style="margin-right: 7px;"></i><span class="icon-c icon-Travel" style="display: none;"></span>Portfolio</a>
+                        <a href="https://digitalinfoways.com/portfolio.php" title="Portfolio"><i class="fa fa-hourglass-start icon-Community-portal" style="margin-right: 7px;"></i><span class="icon-c icon-Travel" style="display: none;"></span>Portfolio</a>
                     </li>
                     <!--<li><a href="https://evincedev.com/healthcare-it-solutions/" title="Healthcare"><span class="icon-c icon-Healthcare"></span>Healthcare</a></li>-->
                 </ul>
             </div>
         </li>    
-        <li><a class=" " href="blog-page.php" title="Portfolio">Blog</a> <!--<i class="fa fa-angle-right trigger"></i>-->
+        <li><a class=" " href="https://digitalinfoways.com/blog-page.php" title="Portfolio">Blog</a> <!--<i class="fa fa-angle-right trigger"></i>-->
         </li>
-        <li><a class=" " href="contact-us.php" title="Products">Contact us</a><!--<i class="fa fa-angle-right trigger"></i>-->
+        <li><a class=" " href="https://digitalinfoways.com/contact-us.php" title="Products">Contact us</a><!--<i class="fa fa-angle-right trigger"></i>-->
         </li>
        
         
@@ -390,47 +405,48 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
                                     <span style="    color: #fbfbfb;
     font-weight: 700;
     font-size: 38px;
-    line-height: 41px;">ASO BASIC PLAN</span>
+    line-height: 41px;
+    height: 85px;">ASO BASIC PLAN</span>
     <!--                                <h4 style="    font-size: 28px;-->
     <!--color: #f9f9f9;-->
     <!--padding-top: 10px;">Express</h4>-->
                                 </div>
                                 <ul>
                                     <li>SEO Strategy and Plan</li>
-                                    <li>Detailed App Review</li>
+                                    <li style="    background: #cac6c6">Detailed App Review</li>
 <li>Keywords Up to 10</li>
-<li>Competitive Research Report</li>
+<li style="    background: #cac6c6">Competitive Research Report</li>
 <li>App Title Optimization</li>
-<li>App Description Optimization</li>
+<li style="    background: #cac6c6">App Description Optimization</li>
 <li>App Keywords Optimization</li>
-<li>App Images Optimization</li>
+<li style="    background: #cac6c6">App Images Optimization</li>
 <li>Article Writing - 1</li>
-<li style="text-decoration: line-through;">Press Release Writing</li>
+<li style="    background: #cac6c6;text-decoration: line-through;color: #fb8c00">Press Release Writing</li>
 <li>Blog Writing - 2</li>
-<li>Review Writing - 7</li>
+<li style="    background: #cac6c6">Review Writing - 7</li>
 <li>Article Submission - 3</li>
-<li style="text-decoration: line-through;">Press Release Submission</li>
+<li style="    background: #cac6c6;text-decoration: line-through;color: #fb8c00">Press Release Submission</li>
 <li>Blog Submission - 2</li>
 <li>Review Submission - 7</li>
-<li>APK file Sharing - 5</li>
+<li style="    background: #cac6c6">APK file Sharing - 5</li>
 <li>Social Bookmarking - 10</li>
-<li>App Video Submission (provided by client) - 5</li>
+<li style="    background: #cac6c6">App Video Submission (provided by client) - 5</li>
 <li>App Video Promotion - 5</li>
-<li>Initial Facebook Account Setup</li>
+<li style="    background: #cac6c6">Initial Facebook Account Setup</li>
 <li>Facebook Fan Page Setup for Apps</li>
-<li>Facebook Posting 5/Month</li>
+<li style="    background: #cac6c6">Facebook Posting 5/Month</li>
 <li>Twitter Account Setup for Apps</li>
-<li>Twitter Profile Design</li>
+<li style="    background: #cac6c6">Twitter Profile Design</li>
 <li>Twitter Posting 5/Month</li>
-<li>Linkedin Profile Creation for Apps</li>
+<li style="    background: #cac6c6">Linkedin Profile Creation for Apps</li>
 <li>Weekly Linkedin Profile Updates</li>
-<li>Linkedin Posting 5/Month</li>
+<li style="    background: #cac6c6">Linkedin Posting 5/Month</li>
 <li>Instagram Fan Page Setup for Apps</li>
-<li>Instagram Posting 5/Month</li>
+<li style="    background: #cac6c6">Instagram Posting 5/Month</li>
 <li>A/B Testing</li>
-<li>Monthly Reporting</li>
+<li style="    background: #cac6c6">Monthly Reporting</li>
 
-                                   <a link href="contact-us.php"> <li style=" background-color: #cac6c6;
+                                   <a link href="https://www.digitalinfoways.com/contact-us.php"> <li style=" ;
     color: #444040;"><button style=" background-color: #0e2186;border-radius: 12px;" class="rounded-pill">Sign Up</button></li></a>
                                    
                                 </ul>
@@ -457,41 +473,42 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
                                 <ul>
                                    
                                     <li>Detailed App Review</li>
-<li>Keywords Up to 25</li>
+<li style="    background: #cac6c6">Keywords Up to 25</li>
 <li>Competitive Research Report</li>
-<li>App Title Optimization</li>
+<li style="    background: #cac6c6">App Title Optimization</li>
 <li>App Description Optimization</li>
-<li>App Keywords Optimization</li>
+<li style="    background: #cac6c6">App Keywords Optimization</li>
 <li>App Images Optimization</li>
-<li>Article Writing - 5</li>
+<li style="    background: #cac6c6">Article Writing - 5</li>
 <li>Press Release Writing</li>
-<li>Blog Writing - 5</li>
+<li style="    background: #cac6c6">Blog Writing - 5</li>
 <li>Review Writing - 15</li>
-<li>Article Submission - 5</li>
+<li style="    background: #cac6c6">Article Submission - 5</li>
 <li>Press Release Submission</li>
-<li>Blog Submission - 5</li>
+<li style="    background: #cac6c6">Blog Submission - 5</li>
 <li>Review Submission - 15</li>
-<li>APK file Sharing - 10</li>
+<li style="    background: #cac6c6">APK file Sharing - 10</li>
 <li>Social Bookmarking - 15</li>
-<li>App Video Submission (provided by client) 10</li>
+<li style="    background: #cac6c6">App Video Submission (provided by client) 10</li>
 <li>App Video Promotion - 10</li>
-<li>Initial Facebook Account Setup</li>
+<li style="    background: #cac6c6">Initial Facebook Account Setup</li>
 <li>Facebook Fan Page Setup for Apps</li>
-<li>Facebook Posting 10/Month</li>
+<li style="    background: #cac6c6">Facebook Posting 10/Month</li>
 <li>Twitter Account Setup for Apps</li>
-<li>Twitter Profile Design</li>
+<li style="    background: #cac6c6">Twitter Profile Design</li>
 <li>Twitter Posting 10/Month</li>
-<li>Linkedin Profile Creation for Apps</li>
+<li style="    background: #cac6c6">Linkedin Profile Creation for Apps</li>
 <li>Weekly Linkedin Profile Updates</li>
-<li>Linkedin Posting 10/Month</li>
+<li style="    background: #cac6c6">Linkedin Posting 10/Month</li>
 <li>Instagram Fan Page Setup for Apps</li>
-<li>Instagram Posting 10/Month</li>
+<li style="    background: #cac6c6">Instagram Posting 10/Month</li>
 <li>A/B Testing</li>
-<li>Monthly Reporting</li>
+<li style=" background: #cac6c6">Monthly Reporting</li>
 
                                     
-                                   <a link href="contact-us.php"> <li style=" background-color: #cac6c6;
-    color: #444040;"><button style=" background-color: #0e2186;border-radius: 12px;">Sign Up</button></li></a>
+                                 
+                                   <a link href="https://www.digitalinfoways.com/contact-us.php"> <li style=" ;
+    color: #444040;"><button style=" background-color: #0e2186;border-radius: 12px;" class="rounded-pill">Sign Up</button></li></a>
                                     
                                 </ul>
                             </div>
@@ -517,40 +534,40 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
                                 </div>
                                 <ul>
                                                                         <li>Detailed App Review</li>
-<li>Keywords Up to 50</li>
+<li style=" background: #cac6c6">Keywords Up to 50</li>
 <li>Competitive Research Report</li>
-<li>App Title Optimization</li>
+<li style=" background: #cac6c6">App Title Optimization</li>
 <li>App Description Optimization</li>
-<li>App Keywords Optimization</li>
+<li style=" background: #cac6c6">App Keywords Optimization</li>
 <li>App Images Optimization</li>
-<li>Article Writing - 15</li>
+<li style=" background: #cac6c6">Article Writing - 15</li>
 <li>Press Release Writing</li>
-<li>Blog Writing - 15</li>
+<li style=" background: #cac6c6">Blog Writing - 15</li>
 <li>Review Writing - 30</li>
-<li>Article Submission - 15</li>
+<li style=" background: #cac6c6">Article Submission - 15</li>
 <li>Press Release Submission</li>
-<li>Blog Submission - 15</li>
+<li style=" background: #cac6c6">Blog Submission - 15</li>
 <li>Review Submission - 30</li>
-<li>APK file Sharing - 30</li>
+<li style=" background: #cac6c6">APK file Sharing - 30</li>
 <li>Social Bookmarking - 30</li>
-<li>App Video Submission (provided by client) 30</li>
+<li style=" background: #cac6c6">App Video Submission (provided by client) 30</li>
 <li>App Video Promotion - 30</li>
-<li>Initial Facebook Account Setup</li>
+<li style=" background: #cac6c6">Initial Facebook Account Setup</li>
 <li>Facebook Fan Page Setup for Apps</li>
-<li>Facebook Posting 30/Month</li>
+<li style=" background: #cac6c6">Facebook Posting 30/Month</li>
 <li>Twitter Account Setup for Apps</li>
-<li>Twitter Profile Design</li>
+<li style=" background: #cac6c6">Twitter Profile Design</li>
 <li>Twitter Posting 30/Month</li>
-<li>Linkedin Profile Creation for Apps</li>
+<li style=" background: #cac6c6">Linkedin Profile Creation for Apps</li>
 <li>Weekly Linkedin Profile Updates</li>
-<li>Linkedin Posting 30/Month</li>
+<li style=" background: #cac6c6">Linkedin Posting 30/Month</li>
 <li>Instagram Fan Page Setup for Apps</li>
-<li>Instagram Posting 30/Month</li>
+<li style=" background: #cac6c6">Instagram Posting 30/Month</li>
 <li>A/B Testing</li>
-<li>Monthly Reporting</li>
+<li style=" background: #cac6c6">Monthly Reporting</li>
                                    
-                                   <a link href="contact-us.php"> <li style=" background-color: #cac6c6;
-    color: #444040;"><button style=" background-color: #0e2186;border-radius: 12px;">Sign Up</button></li></a>
+                                   <a link href="https://www.digitalinfoways.com/contact-us.php"> <li style=" ;
+    color: #444040;"><button style=" background-color: #0e2186;border-radius: 12px;" class="rounded-pill">Sign Up</button></li></a>
                                     
                                 </ul>
                             </div>

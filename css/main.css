@@ -4,7 +4,31 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+
+.red {
+  color: red;
 }
+
+.blue {
+  
+  color: blue;
+}
+.fa  sub-trigger{
+    display: none;
+}
+i.fa.sub-trigger {}
+
+i.fa.sub-trigger {
+    display: none;
+}
+
+i.fa.sub-trigger {}
+i.fa.sub-trigger {
+    display: none;
+}
+
 body {
     background-color: #fff;
     font-family: 'Open Sans', sans-serif !important;
@@ -1878,7 +1902,10 @@ section.about-us span.glyphicon,section.about-us i.glyphicon {
 /*new testimonials*/
 
 section.objectives,section.testimonials,section.stats,section.partners,section.service-w3ls,section.service-agile,section.portfolio-w3ls {
-    padding: 50px 0;
+    padding: 10px 0;
+}
+section.testimonials, section.stats, section.partners, section.service-w3ls, section.service-agile, section.portfolio-w3ls {
+    padding: 1px 0;
 }
 /*-- Testimonial Section --*/
 section.testimonials {
@@ -1897,7 +1924,7 @@ section.testimonials h3.text-center {
     text-transform:uppercase;
     position:relative;
     padding-bottom:30px;
-    background: -webkit-linear-gradient(#1F2667, #7fe5ce);
+
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -1970,7 +1997,7 @@ section.testimonials .carousel-indicators .active {
 /*-- /Testimonial Section --*/
 /*---new partner section*/
 section.objectives,section.testimonials,section.stats,section.partners,section.service-w3ls,section.service-agile,section.portfolio-w3ls {
-    padding: 50px 0;
+    padding: 1px 0;
 }
 /*-- partners section --*/
 section.partners {
@@ -2191,7 +2218,7 @@ section.partners p.text-center {
 .img-block-head h3 {
     text-transform: uppercase;
     line-height: 100%;
-     background: -webkit-linear-gradient(#1F2667, #7fe5ce);
+  
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

@@ -19,6 +19,16 @@ p {
 iframe {
     border: 0;
 }
+i.fa.sub-trigger {}
+
+i.fa.sub-trigger {
+    display: none;
+}
+
+i.fa.sub-trigger {}
+i.fa.sub-trigger {
+    display: none;
+}
 
 a {
     -webkit-transition: all 0.3s ease-out 0s;
@@ -1937,7 +1947,7 @@ section.testimonials .carousel-indicators .active {
 /*-- /Testimonial Section --*/
 /*---new partner section*/
 section.objectives,section.testimonials,section.stats,section.partners,section.service-w3ls,section.service-agile,section.portfolio-w3ls {
-    padding: 50px 0;
+    padding: 1px 0;
 }
 /*-- partners section --*/
 section.partners {

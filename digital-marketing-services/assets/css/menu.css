@@ -12,7 +12,7 @@
 .mehamenu .meha-submenu li a{font-size:14px;font-weight:400px;}
 .meha-submenu ul{list-style:outside none none;padding:0 20px;}
 .meha-submenu ul li{border-bottom:1px solid #e9ebed;padding:9px 0;}
-.mehamenu .meha-submenu ul li a{color:#606060;font-size:14px;display:block;padding:0px;text-align: left;}
+.mehamenu .meha-submenu ul li a{color:#606060;font-size:12px;display:block;padding:0px;text-align: left;}
 .mehamenu .sub_category{display:none;}
 .mehamenu .meha-submenu ul li:last-child{border-bottom:0px;}
 .mehamenu .meha-submenu ul li .icon{color:#abb1b8;vertical-align:middle;margin-right:9px;font-size:20px;}

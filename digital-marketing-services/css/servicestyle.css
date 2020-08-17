@@ -1,4 +1,5 @@
 
+
 #service-slider {
     position: relative;
     padding: 0;
@@ -563,7 +564,7 @@ button.close {
     }
 }
 section {
-    padding: 80px 0;
+    padding: 1px 0;
     position: relative;
 }
 .angle:before {

@@ -4,6 +4,21 @@
 <!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
     <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSGCCQ5');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="canonical" href="https://www.digitalinfoways.com/seo-search-engine-optimization" />
+<meta property="og:url" content="https://www.digitalinfoways.com/digital-marketing-services/" />
+
+<link rel="icon" href="favicon.ico" type="image/png">
+
+
+
         <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">  
         
      <meta charset="utf-8">
@@ -13,14 +28,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>App Store Optimization (ASO) Services | Best ASO Company India</title>
         <meta name="description" content="App Store Optimization Services - We are a leading app store optimization company in India designed to improve your app visibility and ranking through our ASO.">
-        <link rel="canonical" href="seo-search-engine-optimization/aso-app-store-optimization-services.php" />
+        <link rel="canonical" href="https://www.digitalinfoways.com/seo-search-engine-optimization/aso-app-store-optimization-services.php" />
       <meta name="keywords" content="app store optimization services" />
 <meta property="og:type" content="SEO and Digital Marketing Company" />
 <meta property="og:site_name" content="Digitalinfoways" />
 <meta name="robots" content="index, follow" />
-<meta property="og:url" content="seo-search-engine-optimization/aso-app-store-optimization-services.php" />
+<meta property="og:url" content="https://www.digitalinfoways.com/seo-search-engine-optimization/aso-app-store-optimization-services.php" />
 <meta property="og:description" content="We providing App Store Optimization Services - Digital Infoways is leading app store optimization company in India,  We use best SEO tactics will help app visibility and store rankings." />
-<meta property="og:image" content="seo-search-engine-optimization/aso-app-store-optimization-services.php" />
+<meta property="og:image" content="https://www.digitalinfoways.com/seo-search-engine-optimization/aso-app-store-optimization-services.php" />
 <meta name="geo.region" content="IN-GJ" />
 <meta name="geo.placename" content="Ahmedabad" />
 <link rel='stylesheet' id='parent-style-css'  href='css/bootstrap.min.css' type='text/css' media='all' />
@@ -115,7 +130,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="btn-hide"></span>
     </button>
 </div>
-    <a class="navbar-brand" href="/"style="background: none;">
+    <a class="navbar-brand" href="http://digitalinfoways.com/"style="background: none;">
    <img src="img/lo/2.png" class="logo-white" width="241" height="65" alt="Digitalinfoways" title="Digitalinfoways" >
     
 </a>
@@ -178,7 +193,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
    
                                 
 </div>
-    <div class="col-md-6" style="    padding-top: 100px;">
+    <div class="col-md-6" style="    padding-top: 140px;">
         
 <div class="pb-form-block new">
 <h2 style="    line-height: 1px;
@@ -231,7 +246,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </div>
 </div>
 <div class="form-group fullfiled">
-<a href="thank-you.php"><button type="submit" class="connectBtn blue-new-btn transition"  style="background: linear-gradient(to right,#2e9eac 5%,#026ec7 100%);color:white;">Send Your Inquiry</button></a> </div>
+<a href="https://digitalinfoways.com/thank-you.php"><button type="submit" class="connectBtn blue-new-btn transition"  style="background: linear-gradient(to right,#2e9eac 5%,#026ec7 100%);color:white;">Send Your Inquiry</button></a> </div>
 </form>
 </div>
 </div>
@@ -1360,7 +1375,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="col-md-6">
     <h2 class=" get agileinfo wthree w3-agileits agileits-w3layouts agile w3-agile">Get In Touch</h2>
-                <form action="thank-you.php" method="post">
+                <form action="https://digitalinfoways.com/thank-you.php" method="post">
                     <div class="row">
                         <div class=" col-md-12">
                             <input type="text" class="form-control user-name" placeholder="Your Name" required style="margin-bottom: 13px;" />

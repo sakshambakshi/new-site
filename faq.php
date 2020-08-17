@@ -5,6 +5,21 @@
 <!--[if IE 8]>         <html lang="en" class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
     <head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSGCCQ5');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="canonical" href="https://www.digitalinfoways.com/seo-search-engine-optimization" />
+<meta property="og:url" content="https://www.digitalinfoways.com/digital-marketing-services/" />
+
+<link rel="icon" href="favicon.ico" type="image/png">
+
+
+ 
     	<!-- meta character set -->
         <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">  
         
@@ -17,15 +32,15 @@
         <meta name="msvalidate.01" content="AAD6D8B6E396B167791D4E07495FB443" />
          <meta name="viewport" content="width=device-width, initial-scale=1">
        
-        <link rel="canonical" href="faq.php" />
+        <link rel="canonical" href="https://www.digitalinfoways.com/faq.php" />
     <meta name="keywords" content="digital marketing agency, online internet marketing company,seo services india, google adwords agency, content marketing agency, email marketing company, mobile app marketing services, Amazon advertising agency India ,Hire An SEO Expert, local seo company, app store optimization company, ecommerce seo company, social media marketing company, facebook advertising company, youtube video marketing compan, linkedin advertising agency, instagram marketing agency ,Web Designing Indi,Responsive Web Design company, ecommerce website design company, Website Redesigning Company India ,Web Development India ,wordpress development company, magento development company,php development company">
 <meta property="og:title" content="FAQ of Best Digital Marketing Company in India | Digital Infoways" />
 <meta property="og:type" content="SEO and Digital Marketing Company" />
 <meta property="og:site_name" content="Digitalinfoways" />
 <meta name="robots" content="index, follow" />
-<meta property="og:url" content="faq.php" />
+<meta property="og:url" content="https://www.digitalinfoways.com/faq.php" />
 <meta property="og:description" content="Do you have any questions about Digital Marketing Services? We are ready for answering on any question. In Digital Marketing we will target audience following with strategy which improves business."/>
-<meta property="og:image" content="faq.php" />
+<meta property="og:image" content="https://www.digitalinfoways.com/faq.php" />
 <meta name="geo.region" content="IN-GJ" />
 <meta name="geo.placename" content="Ahmedabad" />
 <link rel='stylesheet' id='parent-style-css'  href='css/bootstrap.min.css' type='text/css' media='all' />
@@ -113,7 +128,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="btn-hide"></span>
     </button>
 </div>
-    <a class="navbar-brand" href=""style="height: 100px;background: white;">
+    <a class="navbar-brand" href="https://digitalinfoways.com/"style="height: 100px;background: white;">
    <img src="img/lo/2.png" class="logo-white" width="241" height="65" alt="Digitalinfoways" title="Digitalinfoways" >
     
 </a>
@@ -121,7 +136,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="mehamenu" id="meha-menu">
 <span class="close-icon">×</span>
     <ul>
-        <li><a href="" title="About" class=" ">Home</a>
+        <li><a href="https://digitalinfoways.com/" title="About" class=" ">Home</a>
          <!--<i class="fa fa-angle-right trigger"></i>-->
            
         </li>
@@ -132,31 +147,31 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="main-services">                   
                  <ul>
                         <li id="cloud-services" class="menu-label active">
-                            <a href="digital-marketing-services.php" title="Digital Marketing">
+                            <a href="https://digitalinfoways.com/digital-marketing-services.php" title="Digital Marketing">
                                 <span class="icon icon-stack" style="display: none;"></span> <i class="fa fa-diamond" style="font-size: 18px;margin-right: 10px;"></i>Digital Marketing </a>
                                 <i class="fa  sub-trigger" ></i>
                         <div id="cloud-services-cont" class="sub_category menu-graphics show">
                       <div class="col">
                         <ul>
-                            <li class="menusub-title"><a href="digital-marketing-services.php" title="Full Stack Development"><i class="fa fa-diamond" style="font-size: 18px;margin-right: 10px;"></i>Digital Marketing Services</a><i class="fa fa-angle-right sub-triggers"></i>
+                            <li class="menusub-title"><a href="https://digitalinfoways.com/digital-marketing-services.php" title="Full Stack Development"><i class="fa fa-diamond" style="font-size: 18px;margin-right: 10px;"></i>Digital Marketing Services</a><i class="fa fa-angle-right sub-triggers"></i>
                             </li>
-                            <li><a href="digital-marketing-services/search-engine-optimization.php" title="SEO">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/search-engine-optimization.php" title="SEO">
                                 SEO</a>
                             </li>
                            
-                             <li><a href="digital-marketing-services/ppc-google-adwords-management-agency.php" title="PPC">
+                             <li><a href="https://digitalinfoways.com/digital-marketing-services/ppc-google-adwords-management-agency.php" title="PPC">
                                 PPC</a>
                             </li>
-                            <li><a href="digital-marketing-services/content-marketing-services.php" title="Content Marketing ">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/content-marketing-services.php" title="Content Marketing ">
                                 Content Marketing</a>
                             </li>
-                            <li><a href="digital-marketing-services/email-marketing-services.php" title="Email marketing">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/email-marketing-services.php" title="Email marketing">
                                 Email Marketing</a>
                             </li>
-                            <li><a href="digital-marketing-services/mobile-app-marketing-services.php" title="Mobile Phone ADVERTISING">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/mobile-app-marketing-services.php" title="Mobile Phone ADVERTISING">
                                 Mobile Phone Advertising</a>
                             </li>
-                            <li><a href="digital-marketing-services/amazon-marketing-services.php" title="Amozone Marketing">
+                            <li><a href="https://digitalinfoways.com/digital-marketing-services/amazon-marketing-services.php" title="Amozone Marketing">
                                 Amazon Marketing</a>
                             </li>
                             
@@ -167,30 +182,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="top-desc"><p>Digital Marketing Services</p></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur. </p>
-                            <div class="btn-more"><a href="digital-marketing-services.php">Discover More</a></div>
+                            <div class="btn-more"><a href="https://digitalinfoways.com/digital-marketing-services.php">Discover More</a></div>
                         </div>
                     </div></li>
 
                         <li id="web-development" class="menu-label">
-                            <a href="seo-search-engine-optimization.php" title="SEO">
+                            <a href="https://digitalinfoways.com/seo-search-engine-optimization.php" title="SEO">
                                 <span class="icon-c icon-Website-Development" style="display: none;"></span> <i class="fa fa-ship icon-tree bes" style="font-size: 18px;margin-right: 10px;" title="Social Media"></i>SEO</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="web-development-cont" class="sub_category">
                         <div class="col">
                            <ul>
-                                <li class="menusub-title"><a href="seo-search-engine-optimization.php" title="SEO"><i class="fa fa-ship icon-tree bes" style="font-size: 18px;" title="Social Media"></i>
+                                <li class="menusub-title"><a href="https://digitalinfoways.com/seo-search-engine-optimization.php" title="SEO"><i class="fa fa-ship icon-tree bes" style="font-size: 18px;" title="Social Media"></i>
                                  SEO Services</a>
                                  <i class="fa fa-angle-right sub-triggers"></i>
                                 </li>
 
                         
-                                <li><a href="seo-search-engine-optimization/local-seo-services.php" title="local-seo">
+                                <li><a href="https://digitalinfoways.com/seo-search-engine-optimization/local-seo-services.php" title="local-seo">
                                          Local SEO</a>
                                 </li>
-                                <li><a href="seo-search-engine-optimization/aso-app-store-optimization-services.php" title="app store">
+                                <li><a href="https://digitalinfoways.com/seo-search-engine-optimization/aso-app-store-optimization-services.php" title="app store">
                                          App Store</a>
                                 </li>
-                                <li><a href="seo-search-engine-optimization/ecommerce-seo-services.php" title="Ecommerce seo">
+                                <li><a href="https://digitalinfoways.com/seo-search-engine-optimization/ecommerce-seo-services.php" title="Ecommerce seo">
                                          Ecommerce SEO</a>
                                 </li>
                             </ul>
@@ -200,30 +215,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="top-desc"><p>Search Engine Optimization</p></div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit.  </p>
-                            <div class="btn-more"><a href="seo-search-engine-optimization.php">Discover More</a></div>
+                            <div class="btn-more"><a href="https://digitalinfoways.com/seo-search-engine-optimization.php">Discover More</a></div>
                         </div>
                         
                     </div></li>
                         <li id="iot" class="menu-label">
-                            <a href="social-media-marketing-services.php" title="social media">
-                                <span class="icon icon-tree" style="display: none;"></span><i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;margin-right: 10px;" title="Social Media"></i> Social Media </a>
+                            <a href="https://digitalinfoways.com/social-media-marketing-services.php" title="social media">
+                                <span class="icon icon-tree" style="display: none;"></span><i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;margin-right: 10px;" title="Social Media"></i> Social Media Services</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="iot-cont" class="sub_category menu-graphics">
                         <div class="col">
                             <ul>
-                                <li class="menusub-title"><a class="iot-connected" href="social-media-marketing-services.php"> <i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;" title="Social Media"></i>Social Media Services</a><i class="fa fa-angle-right sub-triggers"></i>
+                                <li class="menusub-title"><a class="iot-connected" href="https://digitalinfoways.com/social-media-marketing-services.php"> <i class="fa fa-paper-plane icon-tree bes" style="font-size: 18px;" title="Social Media"></i>Social Media Services</a><i class="fa fa-angle-right sub-triggers"></i>
                                 </li>
-                                <li><a href="social-media-marketing-services/facebook-marketing-services.php" title=" Facebook Marketing">
+                                <li><a href="https://digitalinfoways.com/social-media-marketing-services/facebook-marketing-services.php" title=" Facebook Marketing">
                                    Facebook Marketing</a>
                                 </li>
-                                <li><a href="social-media-marketing-services/instagram-advertising-services.php" title="Instagram marketing">
+                                <li><a href="https://digitalinfoways.com/social-media-marketing-services/instagram-advertising-services.php" title="Instagram marketing">
                                    Instagram Marketing</a>
                                 </li>
                                 
-<li><a href="social-media-marketing-services/youtube-video-marketing-services.php" title="Youtube Marketing">
+<li><a href="https://digitalinfoways.com/social-media-marketing-services/youtube-video-marketing-services.php" title="Youtube Marketing">
                                    Youtube Marketing</a>
                                 </li>
-                                <li><a href="social-media-marketing-services/linkedin-marketing-services.php" title="Linkeding marketing">
+                                <li><a href="https://digitalinfoways.com/social-media-marketing-services/linkedin-marketing-services.php" title="Linkeding marketing">
                                    Linkedin Marketing</a>
                                 </li>
                             </ul>
@@ -233,26 +248,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. Fusce semper augue ac dolor efficitur.</p>
-                            <div class="btn-more"><a href="social-media-marketing-services.php" title="Explore More">Explore More</a></div>
+                            <div class="btn-more"><a href="https://digitalinfoways.com/social-media-marketing-services.php" title="Explore More">Explore More</a></div>
                         </div>
                     </div></li>
                         <li id="mobile-app" class="menu-label">
-                            <a href="web-design-services.php" title="web design">
+                            <a href="https://digitalinfoways.com/web-design-services.php" title="web design">
                                 <span class="icon icon-mobile" style="display: none;"></span><i class="fa fa-laptop icon-tree bes" style="font-size: 18px;margin-right: 10px;"></i> Web Design</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="mobile-app-cont" class="three-column sub_category">
                       <div class="col">
                         <ul class="mobile-ser-1">
-                            <li class="menusub-title"><a href="web-design-services.php" title="web design"> <i class="fa fa-laptop icon-tree bes" style="font-size: 18px;"></i>
+                            <li class="menusub-title"><a href="https://digitalinfoways.com/web-design-services.php" title="web design"> <i class="fa fa-laptop icon-tree bes" style="font-size: 18px;"></i>
                                    Web Design Services</a><i class="fa fa-angle-right sub-triggers"></i>
                             </li>
-                            <li><a href="web-design-services/responsive-web-design-services.php" title="Resonce webdesgin">
+                            <li><a href="https://digitalinfoways.com/web-design-services/responsive-web-design-services.php" title="Resonce webdesgin">
                                    Responsive Web Design</a>
                                  </li>
-                                 <li><a href="web-design-services/ecommerce-website-design-development-services.php" title="Eccomerc Website Desgin">
+                                 <li><a href="https://digitalinfoways.com/web-design-services/ecommerce-website-design-development-services.php" title="Eccomerc Website Desgin">
                                     Ecommerce Website Desgin</a>
                                  </li>
-                                 <li><a href="web-design-services/website-redesigning-services.php" title="Eccomerc Website Desgin">
+                                 <li><a href="https://digitalinfoways.com/web-design-services/website-redesigning-services.php" title="Eccomerc Website Desgin">
                                     Website Redesigning</a>
                                  </li>
                              </ul>
@@ -264,28 +279,28 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. </p>
                             <div class="btn-more">
-                                <a href="web-design-services.php" title="Discover More">Explore More</a></div>
+                                <a href="https://digitalinfoways.com/web-design-services.php" title="Discover More">Explore More</a></div>
                         </div>
                     </div></li>
                         <li id="ecommerce" class="menu-label">
-                            <a href="custom-website-development-services.php" title="Web development">
+                            <a href="https://digitalinfoways.com/custom-website-development-services.php" title="Web development">
                                 <span class="icon-c icon-eCommerce" style="display: none;"></span> <i class="fa fa-hourglass-start  icon-tree bes" style="font-size: 18px;margin-right: 10px;"></i> Web Development</a>
                                 <i class="fa  sub-trigger"></i>
                         <div id="ecommerce-cont" class="sub_category three-column">
                         <div class="col">
                            <ul>
                                 <li class="menusub-title">
-                                <a href="custom-website-development-services.php"><i class="fa fa-hourglass-start  icon-tree bes" style="font-size: 18px;"></i>Web Development Services</a>
+                                <a href="https://digitalinfoways.com/custom-website-development-services.php"><i class="fa fa-hourglass-start  icon-tree bes" style="font-size: 18px;"></i>Web Development Services</a>
                                 <i class="fa fa-angle-right sub-triggers"></i>
                                 </li>
 
-                                <li><a href="custom-website-development-services/wordpress-development-services.php" title="Wordpress Develpoment">
+                                <li><a href="https://digitalinfoways.com/custom-website-development-services/wordpress-development-services.php" title="Wordpress Develpoment">
                                    Wordpress Develpoment</a>
                                  </li>
-                                  <li><a href="custom-website-development-services/magento-development-services.php" title="Magento Development">
+                                  <li><a href="https://digitalinfoways.com/custom-website-development-services/magento-development-services.php" title="Magento Development">
                                    Magento Development</a>
                                  </li>
-                                 <li><a href="custom-website-development-services/php-development-services.php" title="Php Developent">
+                                 <li><a href="https://digitalinfoways.com/custom-website-development-services/php-development-services.php" title="Php Developent">
                                    PHP Developent</a>
                                  </li>
                             </ul>
@@ -296,7 +311,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit libero aliquam. </p>
                             <div class="btn-more">
-                                <a href="custom-website-development-services.php" title="Discover More">Explore More</a></div>
+                                <a href="https://digitalinfoways.com/custom-website-development-services.php" title="Discover More">Explore More</a></div>
                         </div>
                     </div></li>
                         
@@ -311,26 +326,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
             <div class="meha-submenu">
                 <ul>
                     <li>
-                        <a href="about-us.php" title="about us"><i class="fa fa-ship icon-office" style="margin-right: 7px;"></i><span class="icon icon-truck" style="display: none;"></span>About us</a>
+                        <a href="https://digitalinfoways.com/about-us.php" title="about us"><i class="fa fa-ship icon-office" style="margin-right: 7px;"></i><span class="icon icon-truck" style="display: none;"></span>About us</a>
                     </li>
                     <li>
-                        <a href="testimonials.php" title="Testimonials"><i class="fa fa-diamond icon-map" style="margin-right: 7px;"></i><span class="icon-c icon-Retail" style="display: none;"></span>Testimonials</a>
+                        <a href="https://digitalinfoways.com/testimonials.php" title="Testimonials"><i class="fa fa-diamond icon-map" style="margin-right: 7px;"></i><span class="icon-c icon-Retail" style="display: none;"></span>Testimonials</a>
                     </li>
                     <li>
-                        <a href="award-accoladers.php" title="awards-accolades"><i class="fa fa-paper-plane icon-trophy" style="margin-right: 7px;"></i><span class="icon-c icon-knowledge-management" style="display: none;"></span>Awards-Accolades</a>
+                        <a href="https://digitalinfoways.com/award-accoladers.php" title="awards-accolades"><i class="fa fa-paper-plane icon-trophy" style="margin-right: 7px;"></i><span class="icon-c icon-knowledge-management" style="display: none;"></span>Awards-Accolades</a>
                     </li>
                     <li>
-                        <a href="faq.php" title="faqs "><i class="fa fa-sitemap icon-rocket" style="margin-right: 7px;"></i><span class="icon-c icon-Government" style="display: none;"></span>FAQ</a></li>                    
+                        <a href="https://digitalinfoways.com/faq.php" title="faqs "><i class="fa fa-sitemap icon-rocket" style="margin-right: 7px;"></i><span class="icon-c icon-Government" style="display: none;"></span>FAQ</a></li>                    
                     <li>
-                        <a href="portfolio.php" title="Portfolio"><i class="fa fa-hourglass-start icon-Community-portal" style="margin-right: 7px;"></i><span class="icon-c icon-Travel" style="display: none;"></span>Portfolio</a>
+                        <a href="https://digitalinfoways.com/portfolio.php" title="Portfolio"><i class="fa fa-hourglass-start icon-Community-portal" style="margin-right: 7px;"></i><span class="icon-c icon-Travel" style="display: none;"></span>Portfolio</a>
                     </li>
                     <!--<li><a href="https://evincedev.com/healthcare-it-solutions/" title="Healthcare"><span class="icon-c icon-Healthcare"></span>Healthcare</a></li>-->
                 </ul>
             </div>
         </li>    
-        <li><a class=" " href="blog-page.php" title="Portfolio">Blog</a> <!--<i class="fa fa-angle-right trigger"></i>-->
+        <li><a class=" " href="https://digitalinfoways.com/blog-page.php" title="Portfolio">Blog</a> <!--<i class="fa fa-angle-right trigger"></i>-->
         </li>
-        <li><a class=" " href="contact-us.php" title="Products">Contact us</a><!--<i class="fa fa-angle-right trigger"></i>-->
+        <li><a class=" " href="https://digitalinfoways.com/contact-us.php" title="Products">Contact us</a><!--<i class="fa fa-angle-right trigger"></i>-->
         </li>
        
         
@@ -385,364 +400,128 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
         ==================================== -->
 
         <!-- about -->
-<section class="about-us" style="padding-top: 70px;">
-	<div class="about-inner ">
-		<div class="container ">
-			<div class="row ">
-				<div class="col-md-12 ">
-				<div class="img-block-head ">
-				<h6 style="text-transform: uppercase;
-    font-size: 16px;
-    font-weight: 600;
-    color: #3a3a67;
-    text-align: left;">Faq+</h6>
-					<h3 class="bet2" style="line-height: 65px;" >Most Popular Questions</h3>
-					<p class="bet1"><span class="bet">Q</span> How to learn digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
+<section class="about-us banner_w3lspvt position-relative">
+    <div class="sha">
+        <p>FAQ</p>
+    <h2 class="text-center  w3 w3l w3ls">FAQ+</h2>
+    <span class="about-line"></span>
+    <p class="text-center  w3 w3l w3ls" style=" font-family: Open Sans,sans-serif; Font-size: 15px; Color: #546e7a;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+</div>
+     <div class="container">
+        
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12 about-w3ls1">
+                
+                <!-- ACCORDION -->
+                <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+                    <h3 class="fq" style="    text-align: left;">Frequently Ask Questions</h3>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingOne">
+                            <a class="pa_italic" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                <h4 class="panel-title asd" style="    text-align: left; font-family: Open Sans,sans-serif; Font-size: 17px;">
+                                <b>+</b>    How to learn digital marketing?
+                                </h4>   
+                            </a>
+                        </div>
+                        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+                            <div class="panel-body panel_text">
+                                <div class="scrollbar" id="style-2" style=" font-family: Open Sans,sans-serif; Font-size: 15px; Color: #546e7a;">
+                                   Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingTwo">
+                            <a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                <h4 class="panel-title asd" style="    text-align: left; font-family: Open Sans,sans-serif; Font-size: 17px;">
+                                    <b>+</b> Can I use the demos made by Evvebot?
+                                </h4>   
+                            </a>
+                        </div>
+                        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+                            <div class="panel-body panel_text" style=" font-family: Open Sans,sans-serif; Font-size: 15px; Color: #546e7a;">
+                                 Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingThree">
+                            <a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                <h4 class="panel-title asd" style="    text-align: left; font-family: Open Sans,sans-serif; Font-size: 17px;">  
+                                   <b>+</b> Why didn’t you showcase my submission?                                
+                                </h4>
+                            </a>
+                        </div>
+                        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                            <div class="panel-body panel_text" style=" font-family: Open Sans,sans-serif; Font-size: 15px; Color: #546e7a;">
+                               Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingfour">
+                            <a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                                <h4 class="panel-title asd" style=" text-align: left; font-family: Open Sans,sans-serif; Font-size: 17px;">  
+                                    <b>+</b> What everybody ought to know about digital marketing?                             
+                                </h4>
+                            </a>
+                        </div>
+                        <div id="collapsefour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfour">
+                            <div class="panel-body panel_text" style=" font-family: Open Sans,sans-serif; Font-size: 15px; Color: #546e7a;">
+                               Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-heading" role="tab" id="headingfive">
+                            <a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+                                <h4 class="panel-title asd" style=" text-align: left; font-family: Open Sans,sans-serif; Font-size: 17px;">  
+                                    <b>+</b> What are digital marketing?                            
+                                </h4>
+                            </a>
+                        </div>
+                        <div id="collapsefive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive">
+                            <div class="panel-body panel_text" style=" font-family: Open Sans,sans-serif; Font-size: 15px; Color: #546e7a;">
+                                 Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                            </div>
+                        </div>
+                    </div>
+                        <div class="panel-heading" role="tab" id="headingfive">
+                            <a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+                                <h4 class="panel-title asd" style=" text-align: left; font-family: Open Sans,sans-serif; Font-size: 17px;">  
+                                    <b>+</b> Can I use the demos made by Evvebot?                         
+                                </h4>
+                            </a>
+                        </div>
+                        <div id="collapsefive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingfive">
+                            <div class="panel-body panel_text" style=" font-family: Open Sans,sans-serif; Font-size: 15px; Color: #546e7a;">
+                                  Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.
+                            </div>
+                        </div>
+                    </div>
 
-					
-				</div>
-          <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Can I use the demos made by Evvebot?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
 
-          
+                </div>
+            
         </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Why didn’t you showcase my submission?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
             
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What everybody ought to know about digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
             
-          </div>
-          </div>
-
-          
         </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What are digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
+        
+    <div class="icon-effects-w3l">
 
-          
-        </div>
-         <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Can I use the demos made by Evvebot?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Why didn’t you showcase my submission?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What everybody ought to know about digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What are digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-         <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Can I use the demos made by Evvebot?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Why didn’t you showcase my submission?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What everybody ought to know about digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What are digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-         <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Can I use the demos made by Evvebot?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> Why didn’t you showcase my submission?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What everybody ought to know about digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-        <div class="img-block-head " style="margin-top:30px;">
-        <p class="bet1"><span class="bet">Q</span> What are digital marketing?</p>
-          <div class="row" style="margin-top:20px;">
-            <div class="col-md-1">
-          </div>
-          <div class="col-md-11">
-            <div class="row">
-              <div class="col-md-1">
-              <span class="bet3">A</span>
-              </div> 
-              <div class="col-md-11">
-                <p class="bet4"> Ne summo dictas pertinacia nam. Illum cetero vocent ei vim, case regione signiferumque vim te. Ex mea quem munere lobortis. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
-              </div>
-            </div>
-            
-          </div>
-          </div>
-
-          
-        </div>
-
-			</div>
-	</div>
-		</div>
-	</div>
+                <img src="img/shape1.png" alt="" class="img-fluid shape-wthree shape-w3-one">
+                <img src="img/shape2.png" alt="" class="img-fluid shape-wthree shape-w3-two">
+                <img src="img/shape3.png" alt="" class="img-fluid shape-wthree shape-w3-three">
+                <img src="img/shape5.png" alt="" class="img-fluid shape-wthree shape-w3-four">
+                <img src="img/shape4.png" alt="" class="img-fluid shape-wthree shape-w3-five">
+                <img src="img/shape6.png" alt="" class="img-fluid shape-wthree shape-w3-six">
+            </div>  
 
 </section>
+
+
 
 <!-- testimonial section ----------------------------------------------------->
 <section class="testimonials banner_w3lspvt position-relative">
@@ -828,7 +607,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
 
 <div class="col-md-6">
     <h2 class=" get agileinfo wthree w3-agileits agileits-w3layouts agile w3-agile">Get In Touch</h2>
-                <form action="thank-you.php" method="post">
+                <form action="https://digitalinfoways.com/thank-you.php" method="post">
                     <div class="row">
                         <div class="form-group col-md-12">
                             <input type="text" class="form-control user-name" placeholder="Your Name" required/>
@@ -844,7 +623,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat 
                             <textarea class="form-control" rows="6" placeholder="Your Message" required></textarea>
                         </div>
                         <div class="form-group col-md-12" >
-                            <a href="thank-you.php" class="blls"><button type="submit" class="btn-outline2" style="width:200px;float:left;height: 60px;">
+                            <a href="https://digitalinfoways.com/thank-you.php" class="blls"><button type="submit" class="btn-outline2" style="width:200px;float:left;height: 60px;">
                             Submit</button></a>
 
                         </div>

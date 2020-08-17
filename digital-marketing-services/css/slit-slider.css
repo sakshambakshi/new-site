@@ -170,7 +170,7 @@
 	background-image: url(../img/about/32.jpg);
 }
 .bg-img-7 {
-    background: url(../img/slider/8.jpg);  
+    background: url(../img/slider/inner-page-banner.jpg);  
 }
 .bg-img-8 {
     background: url(../img/newaward/new.png);  
@@ -182,8 +182,18 @@
     background: url(../img/faq/1.jpg);  
 }
 .bg-img-13 {
-    background: url(../img/tha.png);  
+    background: url(../img/Digital-Marketing-Services.jpg);  
 }
+.bg-img-14{
+	background: url(../img/SEO.jpg);
+}
+.bg-img-15{
+	background: url(../img/Social-Media-Marketing.jpg);
+}
+.bg-img-16{
+	background: url(../img/Web-Design.jpg);
+}
+
 
 
 /* Animations for content elements */

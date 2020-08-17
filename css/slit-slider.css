@@ -155,7 +155,7 @@
 }
 
 .bg-img-1 {
-	background-image: url(../img/slider/17.jpg);
+	background-image: url(../img/slider/Home-Page-1st-Banner.jpg);
 }
 .bg-img-2 {
 	background-image: url(../img/services/services-page/5.jpg);
@@ -189,6 +189,9 @@
 }
 .bg-img-13 {
     background: url(../img/tha.png);  
+}
+.bg-img-14{
+	background: url(../img/SEO.jpg);
 }
 
 

@@ -1,5 +1,4 @@
 
-
 body {
     background-color: #fff;
     font-family: 'Open Sans', sans-serif !important;
@@ -1641,6 +1640,7 @@ section.about-us {
 }
 section.about-us h2.text-center {
     font-size:36px;
+    padding-top: 20px;
     font-weight:700;
     text-transform:uppercase;
     position:relative;
@@ -1651,6 +1651,16 @@ section.about-us p.text-center {
     font-size: 16px;
     padding-bottom: 50px;
     color: #999;
+}
+i.fa.sub-trigger {}
+
+i.fa.sub-trigger {
+    display: none;
+}
+
+i.fa.sub-trigger {}
+i.fa.sub-trigger {
+    display: none;
 }
 
 section.about-us h2.text-center:before {
@@ -1937,7 +1947,7 @@ section.testimonials .carousel-indicators .active {
 /*-- /Testimonial Section --*/
 /*---new partner section*/
 section.objectives,section.testimonials,section.stats,section.partners,section.service-w3ls,section.service-agile,section.portfolio-w3ls {
-    padding: 50px 0;
+    padding: 1px 0;
 }
 /*-- partners section --*/
 section.partners {
